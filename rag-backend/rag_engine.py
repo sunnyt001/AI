@@ -38,7 +38,7 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
 
 # ─── Cấu hình ────────────────────────────────────────
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "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")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "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")
 LLM_MODEL          = os.getenv("LLM_MODEL", "qwen/qwen3-vl-30b-a3b-thinking")
 EMBED_MODEL        = os.getenv("EMBED_MODEL", "paraphrase-multilingual-MiniLM-L12-v2")
 CHROMA_DIR         = os.getenv("CHROMA_DIR", "./chroma_db")
