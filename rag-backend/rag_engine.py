@@ -20,6 +20,8 @@ from chromadb.config import Settings
 from sentence_transformers import SentenceTransformer
 import httpx
 
+from dotenv import load_dotenv
+
 # PDF
 try:
     import fitz  # PyMuPDF
@@ -36,9 +38,10 @@ except ImportError:
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
+api_key = os.getenv("API_KEY")
 
 # ─── Cấu hình ────────────────────────────────────────
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "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")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", api_key)
 LLM_MODEL          = os.getenv("LLM_MODEL", "qwen/qwen3-vl-30b-a3b-thinking")
 EMBED_MODEL        = os.getenv("EMBED_MODEL", "paraphrase-multilingual-MiniLM-L12-v2")
 CHROMA_DIR         = os.getenv("CHROMA_DIR", "./chroma_db")
