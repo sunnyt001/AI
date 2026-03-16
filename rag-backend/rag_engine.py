@@ -36,6 +36,7 @@ try:
 except ImportError:
     HAS_DOCX = False
 
+load_dotenv()
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO)
 api_key = os.getenv("API_KEY")
