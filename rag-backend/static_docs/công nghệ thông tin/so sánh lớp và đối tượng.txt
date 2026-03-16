@@ -1,0 +1,231 @@
+1. Tìm hiểu khái niệm và cách tạo lớp và đối tượng (Class và Object)
+Các lớp và đối tượng (Class và Object) là thành phần cơ bản của lập trình hướng đối tượng (OOP). Đối với người mới bắt đầu học lập trình, thường có sự nhầm lẫn giữa 2 thành phần này. Để các bạn hiểu được sự khác biệt giữa chúng, trước hết hãy cùng FUNIX điểm lại một số kiến thức cơ bản về lớp và đối tượng nhé!
+
+1.1 Lớp (Class) là gì?
+Trong Java, một lớp là một thực thể xác định hành vi mà một đối tượng có và sẽ có. Nói cách khác, một lớp chỉ là một bản thiết kế hoặc một tập hợp các hướng dẫn để xây dựng các đặc tính của một đối tượng cụ thể sau này. Cách tạo lớp trong Java như sau:
+
+class <class_name> {
+
+    field;
+
+    method;
+
+}
+
+Trong đó:
+
+class: từ khóa để tạo một class
+<class_name>: tên class bạn định tạo nó sẽ được viết liền và viết HOA chữ cái đầu tiên của từng từ (quy tắc PascalCase)
+field: biến đối tượng
+method: phương thức
+1.2 Đối tượng (Object) là gì?
+Một Object có thể chứa các thành phần như các phương thức (method) và thuộc tính (thuộc tính) để tạo ra các kiểu dữ liệu hữu ích. Đối tượng xác định hành vi của lớp. Khi bạn gửi tin nhắn đến một đối tượng, bạn bắt buộc phải gọi đối tượng hoặc thực hiện một trong các phương thức của nó. 
+
+Từ quan điểm của lập trình hướng đối tượng, các đối tượng có thể là cấu trúc dữ liệu, biến hoặc hàm. Đối tượng là vị trí bộ nhớ được cấp phát. Các đối tượng được thiết kế dưới dạng các lớp phân cấp. Cách tạo đối tượng trong Java như sau:
+
+<class_name> ReferenceVariable = new <class_name>();
+
+Trong đó:
+
+<class_name>: kiểu dữ liệu của đối tượng
+ReferenceVariable: tên tham chiếu của đối tượng
+new: từ khóa dùng tạo đối tượng
+<class_name>(): class dùng để tạo bạn đối tượng
+>>> Xem thêm: Phương pháp hiệu quả để học lập trình Java
+
+2. Sự khác biệt giữa lớp và đối tượng (Class và Object)
+Một lớp là một bản thiết kế hoặc nguyên mẫu xác định các biến và phương thức (hoặc hàm) chung cho tất cả các đối tượng cùng kiểu. Đối tượng là các thể hiện cụ thể của các lớp. Đối tượng thường được sử dụng để mô tả các đối tượng trong thế giới thực mà bạn nhìn thấy hàng ngày. Điểm khác biệt giữa lớp và đối tượng (Class và Object) cụ thể như sau:
+
+STT
+
+Lớp (Class)
+
+Đối tượng (Object)
+
+1
+
+Là bản thiết kế hoặc khuôn mẫu mà từ đó đối tượng được tạo ra
+
+Là một thể hiện của lớp
+
+2
+
+Là tập hợp những đối tượng có thuộc tính giống nhau
+
+Là một thực thể trong thế giới thực như bút, máy tính, giường,…
+
+3
+
+Một lớp chỉ được khai báo một lần
+
+Một đối tượng được khai báo nhiều lần theo yêu cầu
+
+4
+
+Lớp được khai báo với từ khóa “class”
+
+Đối tượng được khai báo với từ khóa “new” hoặc tên lớp
+
+5
+
+Lớp không được cấp phát bộ nhớ khi được tạo
+
+Đối tượng được phân bộ nhớ mỗi khi khởi tạo
+
+6
+
+Lớp là một thực thể logic
+
+Đối tượng là một thực thể vật lý
+
+VD
+
+Human
+
+Car
+
+Fruit
+
+Man, Woman
+
+BMW, Toyota,…
+
+Apple, Orange,…
+
+3. Ví dụ cụ thể về lớp và đối tượng (Class và Object)
+Trong bài viết này, FUNIX sẽ đưa ra một ví dụ về việc phát triển một hệ thống quản lý chó. Bạn sẽ cần rất nhiều thông tin về chó, chẳng hạn như các loại chó, độ tuổi, kích thước,… Sau đó, bạn cần mô hình hóa các thông tin đó vào phần mềm. Câu hỏi đặt ra là: làm thế nào để xây dựng một hệ thống như vậy?
+
+Đầu tiên, chúng ta hãy làm một bài tập. Bạn có thể xem hình ảnh của ba giống khác nhau bên dưới:
+
+Ví dụ về lớp và đối tượng (Class và Object)
+Ví dụ về lớp và đối tượng (Class và Object).
+Bây giờ, ngay tại đây, hãy liệt kê sự khác biệt của chúng. Một số khác biệt mà bạn có thể liệt kê có thể là: Giống, tuổi, màu sắc, kích cỡ,…
+
+Hãy suy nghĩ kỹ lại, sự khác biệt này cũng là một đặc điểm chung của những con chó này. Các đặc trưng (độ giống nhau, tuổi, kích thước, màu sắc) có thể tạo thành một dữ liệu cho dữ liệu của đối tượng (được gọi là thành viên dữ liệu).
+
+Tiếp theo, chúng ta hãy liệt kê các hành vi phổ biến của những con chó này, chẳng hạn như: ăn, ngủ, ngồi, chạy,… Đây sẽ là hành động của đối tượng trong phần mềm.
+
+Bây giờ, đối với các giá trị khác nhau của các thành viên dữ liệu (giống, kích thước và màu sắc) trong lớp, bạn sẽ nhận được các đối tượng chó khác nhau. Chúng ta sẽ tạo Class Dog trong Java như đã phân tích ở trên:
+
+// Khai báo class
+
+public class Dog {
+
+    // Tạo các biến
+
+    String breed;
+
+    String size;
+
+    int age;
+
+    String color;
+
+  
+
+    // Phương thức lấy thông tin giống chó
+
+    public String getInfo() {
+
+        return (“Breed is: “+breed+” Size is: “+size+” Age is: “+age+” Color is: “+color);
+
+    }
+
+    
+
+    // Tất cả sẽ được thực thi từ trong hàm Main
+
+    public static void main(String[] args) {
+
+        // Tạo ra giống 1 con chó giống maltese
+
+        Dog maltese = new Dog();
+
+        // Gán các đặc điểm cho con chó này
+
+        maltese.breed = “Maltese”;
+
+        maltese.size = “Small”;
+
+        maltese.age = 2;
+
+        maltese.color = “white”;
+
+        // In ra thông tin con chó maltese
+
+        System.out.println(maltese.getInfo());
+
+    }
+
+}
+
+Lưu ý rằng chúng tôi đã tạo lớp Dog để mô tả những điều phổ biến về loài chó. Tuy nhiên, nó vẫn chưa được gán bất kỳ giá trị nào. Tiếp theo, chúng tôi tạo một phương pháp để lấy thông tin giống chó. Sau đó, từ lớp Dog, chúng tôi tạo ra một giống chó mới có tên là Maltese và gán cho nó các đặc điểm được khai báo trong lớp Dog. Kết quả của chương trình trên như sau:
+
+Breed is: Maltese Size is: Small Age is: 2 Color is: White
+
+>>> Xem thêm: Lập trình hướng đối tượng (bằng Java)
+
+4. Ví dụ về tạo phương thức main() ở class khác
+Trong ví dụ trên, chúng ta đã tạo phương thức main () trong cùng một lớp. Bây giờ, FUNIX sẽ đưa ra ví dụ về cách tạo một lớp và định nghĩa phương thức main () trong một lớp khác. Đây là một phương pháp tốt hơn phương pháp trước. Bạn hãy lưu tên tệp là Execute.java và viết code như sau:
+
+// Tạo class Dog chịu trách nhiệm khai báo
+
+// các biến và phương thức
+
+class Dog {
+
+    // Tạo các biến
+
+    String breed;
+
+    String size;
+
+    int age;
+
+    String color;
+
+  
+
+    // Phương thức lấy thông tin
+
+    public String getInfo() {
+
+        return (“Breed is: “+breed+” Size is: “+size+” Age is: “+age+” Color is: “+color);
+
+    }
+
+}
+
+// Tạo class mới chỉ chịu trách nhiệm thực thi
+
+public class Execute{
+
+    public static void main(String[] args) {
+
+        Dog maltese = new Dog();
+
+        maltese.breed = “Maltese”;
+
+        maltese.size = “Small”;
+
+        maltese.age = 2;
+
+        maltese.color = “white”;
+
+        System.out.println(maltese.getInfo());
+
+    }
+
+}
+
+Tuy nhiên, ở đây chúng ta áp dụng nguyên tắc S khi tạo các lớp, cụ thể mỗi lớp chỉ có một trách nhiệm.
+
+Class Dog: Chịu trách nhiệm về mô hình giống chó.
+Class Execute: Cô ấy chịu trách nhiệm thực hiện, tạo ra một loài cụ thể.
+Kết quả bạn nhận được như sau:
+
+Breed is: Maltese Size is: Small Age is: 2 Color is: White
+
+Lớp và đối tượng là hai khái niệm cơ bản trong lập trình hướng đối tượng, và sự phân biệt giữa chúng là rất quan trọng để hiểu cách thức OOP hoạt động. Lớp là một khuôn mẫu, là bản thiết kế cho các đối tượng, còn đối tượng là thể hiện cụ thể của lớp đó, mang các giá trị và thực hiện các hành động. Nhờ có lớp và đối tượng, lập trình viên có thể xây dựng những chương trình phần mềm có tính linh hoạt và tái sử dụng cao.
+
+Việc hiểu rõ sự khác biệt giữa lớp và đối tượng sẽ giúp bạn nắm bắt được các nguyên lý cơ bản của OOP và ứng dụng chúng vào việc thiết kế, xây dựng và quản lý phần mềm một cách hiệu quả hơn.

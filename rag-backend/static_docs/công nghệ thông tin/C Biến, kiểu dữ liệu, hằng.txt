@@ -1,0 +1,187 @@
+C Biến, kiểu dữ liệu, hằng
+Bởi:
+Benjamin walker
+cập nhật
+Tháng Tám 8, 2024
+Biến là gì?
+Biến là một mã định danh được sử dụng để lưu trữ một số giá trị. Các hằng số không bao giờ có thể thay đổi tại thời điểm thực thi. Các biến có thể thay đổi trong quá trình thực hiện chương trình và cập nhật giá trị được lưu trữ bên trong nó.
+
+Một biến duy nhất có thể được sử dụng ở nhiều vị trí trong một chương trình. Tên biến phải có ý nghĩa. Nó phải thể hiện mục đích của biến.
+
+Example: Height, age, are the meaningful variables that represent the purpose it is being used for. Height variable can be used to store a height value. Age variable can be used to store the age of a person
+Một biến phải được khai báo trước khi nó được sử dụng ở đâu đó trong chương trình. Tên biến được hình thành bằng cách sử dụng các ký tự, chữ số và dấu gạch dưới.
+
+Mục lục:
+
+Sau đây là các quy tắc phải tuân theo khi tạo biến:
+
+Tên biến chỉ được bao gồm các ký tự, chữ số và dấu gạch dưới.
+Tên biến không được bắt đầu bằng số.
+Tên biến không được chứa khoảng trắng.
+Tên biến không được chứa từ khóa.
+'C' là ngôn ngữ phân biệt chữ hoa chữ thường, có nghĩa là biến có tên 'age' và 'AGE' là khác nhau.
+Sau đây là các ví dụ về tên biến hợp lệ trong chương trình 'C':
+
+height or HEIGHT
+_height
+_height1
+My_name
+Sau đây là các ví dụ về tên biến không hợp lệ trong chương trình 'C':
+
+1height
+Hei$ght
+My name
+Ví dụ: chúng ta khai báo một biến số nguyên my_variable và gán cho nó giá trị 48:
+
+int my_variable;
+my_variable = 48;
+Nhân tiện, chúng ta có thể vừa khai báo vừa khởi tạo (gán giá trị ban đầu) một biến trong một câu lệnh:
+
+int my_variable = 48;
+Loại dữ liệu
+'C' cung cấp nhiều kiểu dữ liệu khác nhau để giúp lập trình viên dễ dàng lựa chọn kiểu dữ liệu phù hợp theo yêu cầu của ứng dụng. Sau đây là ba kiểu dữ liệu:
+
+Các kiểu dữ liệu nguyên thủy
+Các kiểu dữ liệu dẫn xuất
+Các kiểu dữ liệu do người dùng xác định
+Có năm loại dữ liệu cơ bản chính,
+
+int cho dữ liệu số nguyên
+char cho dữ liệu ký tự
+float cho số dấu phẩy động
+double cho số dấu phẩy động có độ chính xác gấp đôi
+làm mất hiệu lực
+Mảng, hàm, con trỏ, cấu trúc là các kiểu dữ liệu phái sinh. Ngôn ngữ 'C' cung cấp các phiên bản mở rộng hơn của các kiểu dữ liệu chính được đề cập ở trên. Mỗi kiểu dữ liệu khác nhau về kích thước và phạm vi. Bảng sau hiển thị kích thước và phạm vi của từng kiểu dữ liệu.
+
+Loại dữ liệu	Kích thước tính bằng byte	Phạm vi
+Char hoặc char đã ký	1	-128 127
+Ký tự không dấu	1	0 để 255
+int hoặc int có chữ ký	2	-32768 32767
+Int chưa ký	2	0 để 65535
+Int ngắn hoặc Int ngắn không dấu	2	0 để 255
+Đã ký int ngắn	2	-128 127
+Long int hoặc Sign dài int	4	-2147483648 2147483647
+Int dài không dấu	4	0 để 4294967295
+phao	4	3.4E-38 đến 3.4E + 38
+tăng gấp đôi	8	1.7E-308 đến 1.7E + 308
+Dài gấp đôi	10	3.4E-4932 đến 1.1E + 4932
+Lưu ý: Trong C không có kiểu dữ liệu Boolean.
+
+Kiểu dữ liệu số nguyên
+Số nguyên không là gì ngoài một số nguyên. Phạm vi cho kiểu dữ liệu số nguyên khác nhau tùy theo máy. Phạm vi tiêu chuẩn cho kiểu dữ liệu số nguyên là -32768 đến 32767.
+
+Một số nguyên thường có kích thước 2 byte, nghĩa là nó tiêu thụ tổng cộng 16 bit trong bộ nhớ. Một giá trị số nguyên duy nhất chiếm 2 byte bộ nhớ. Kiểu dữ liệu số nguyên còn được chia thành các kiểu dữ liệu khác như short int, int và long int.
+
+Mỗi kiểu dữ liệu khác nhau về phạm vi mặc dù nó thuộc họ kiểu dữ liệu số nguyên. Kích thước có thể không thay đổi đối với từng loại dữ liệu của họ số nguyên.
+
+int ngắn chủ yếu được sử dụng để lưu trữ các số nhỏ, int được sử dụng để lưu trữ các giá trị nguyên có kích thước trung bình và int dài được sử dụng để lưu trữ các giá trị nguyên lớn.
+
+Bất cứ khi nào chúng ta muốn sử dụng kiểu dữ liệu số nguyên, chúng ta đặt int trước mã định danh, chẳng hạn như,
+
+int age;
+Ở đây, tuổi là một biến có kiểu dữ liệu số nguyên có thể được sử dụng để lưu trữ các giá trị số nguyên.
+
+Kiểu dữ liệu dấu phẩy động
+Giống như số nguyên, trong chương trình 'C' chúng ta cũng có thể sử dụng các kiểu dữ liệu dấu phẩy động. Từ khóa 'float' được sử dụng để thể hiện kiểu dữ liệu dấu phẩy động. Nó có thể chứa một giá trị dấu phẩy động, nghĩa là một số có phân số và phần thập phân. Giá trị dấu phẩy động là số thực chứa dấu thập phân. Kiểu dữ liệu số nguyên không lưu trữ phần thập phân do đó chúng ta có thể sử dụng số float để lưu trữ phần thập phân của một giá trị.
+
+Nhìn chung, một float có thể chứa tới 6 giá trị độ chính xác. Nếu float không đủ, thì chúng ta có thể sử dụng các kiểu dữ liệu khác có thể chứa các giá trị dấu phẩy động lớn. Kiểu dữ liệu double và long double được sử dụng để lưu trữ các số thực với độ chính xác lên tới 14 và 80 bit tương ứng.
+
+Khi sử dụng số dấu phẩy động, từ khóa float/double/long double phải được đặt trước một định danh. Các ví dụ hợp lệ là:
+
+float division;
+double BankBalance;
+Kiểu dữ liệu ký tự
+Các kiểu dữ liệu ký tự được sử dụng để lưu trữ một giá trị ký tự đơn được đặt trong dấu ngoặc đơn.
+
+Kiểu dữ liệu ký tự chiếm tối đa 1 byte dung lượng bộ nhớ.
+
+Thí dụ,
+
+Char letter;
+Kiểu dữ liệu trống
+Kiểu dữ liệu void không chứa hoặc trả về bất kỳ giá trị nào. Nó chủ yếu được sử dụng để xác định các hàm trong 'C'.
+
+Thí dụ,
+
+void displayData()
+Khai báo kiểu của một biến
+
+int main() {
+int x, y;
+float salary = 13.48;
+char letter = 'K';
+x = 25;
+y = 34;
+int z = x+y;
+printf("%d \n", z);
+printf("%f \n", salary);
+printf("%c \n", letter);
+return 0;}
+Đầu ra:
+
+59
+13.480000
+K
+Chúng ta có thể khai báo nhiều biến có cùng kiểu dữ liệu trên một dòng bằng cách phân tách chúng bằng dấu phẩy. Ngoài ra, hãy chú ý đến việc sử dụng các công cụ xác định định dạng trong printf hàm đầu ra float (%f) và char (%c) và int (%d).
+
+Hằng số
+Hằng số là các giá trị cố định không bao giờ thay đổi trong quá trình thực hiện chương trình. Sau đây là các loại hằng số khác nhau:
+
+Hằng số nguyên
+Hằng số nguyên không là gì ngoài một giá trị bao gồm các chữ số hoặc số. Các giá trị này không bao giờ thay đổi trong quá trình thực hiện chương trình. Các hằng số nguyên có thể là bát phân, thập phân và thập lục phân.
+
+Hằng số thập phân chứa các chữ số từ 0-9 như,
+Example, 111, 1234
+Trên đây là các hằng số thập phân hợp lệ.
+
+Hằng số bát phân chứa các chữ số từ 0-7 và các loại hằng số này luôn đứng trước 0.
+Example, 012, 065
+Trên đây là các hằng số Octal hợp lệ.
+
+Hằng số thập lục phân chứa một chữ số từ 0-9 cũng như các ký tự từ AF. Các hằng số thập lục phân luôn đứng trước 0X.
+Example, 0X2, 0Xbcd
+Trên đây là các hằng số thập lục phân hợp lệ.
+
+Các hằng số nguyên bát phân và thập lục phân rất hiếm khi được sử dụng trong lập trình với 'C'.
+
+Hằng ký tự
+Một hằng ký tự chỉ chứa một ký tự đơn được đặt trong dấu nháy đơn (”). Chúng ta cũng có thể biểu diễn hằng ký tự bằng cách cung cấp giá trị ASCII của nó.
+
+Example, 'A', '9'
+Trên đây là các ví dụ về hằng ký tự hợp lệ.
+
+Hằng chuỗi
+Hằng chuỗi chứa một chuỗi ký tự được đặt trong dấu ngoặc kép (“”).
+
+Example, "Hello", "Programming"
+Đây là những ví dụ về hằng chuỗi hợp lệ.
+
+Hằng số thực
+Giống như các hằng số nguyên luôn chứa một giá trị nguyên. 'C' cũng cung cấp các hằng số thực có chứa dấu thập phân hoặc giá trị phân số. Các hằng số thực còn được gọi là hằng số dấu phẩy động. Hằng số thực chứa dấu thập phân và giá trị phân số.
+
+Example, 202.15, 300.00
+Đây là các hằng số thực hợp lệ trong 'C'.
+
+Một hằng số thực cũng có thể được viết là,
+
+Mantissa e Exponent
+Ví dụ, để khai báo một giá trị không thay đổi giống như hằng số vòng tròn cổ điển PI, có hai cách khai báo hằng số này
+
+Bằng việc sử dụng const từ khóa trong một khai báo biến sẽ dự trữ bộ nhớ lưu trữ
+#include <stdio.h>
+int main() {
+const double PI = 3.14;
+printf("%f", PI);
+//PI++; // This will generate an error as constants cannot be changed
+return 0;}
+Bằng việc sử dụng #định nghĩa chỉ thị tiền xử lý không sử dụng bộ nhớ để lưu trữ và không đặt ký tự dấu chấm phẩy ở cuối câu lệnh đó
+#include <stdio.h>
+#define PI 3.14
+int main() {
+printf("%f", PI);
+return 0;}
+Tổng kết
+Hằng số là giá trị không thay đổi trong suốt quá trình thực hiện chương trình.
+Biến là một định danh được sử dụng để lưu trữ một giá trị.
+Có bốn kiểu dữ liệu thường được sử dụng như int, float, char và void.
+Mỗi loại dữ liệu khác nhau về kích thước và phạm vi.

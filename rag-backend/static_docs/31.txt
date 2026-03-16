@@ -1,0 +1,11 @@
+# TƯ DUY GIẢI QUYẾT VẤN ĐỀ TRONG LẬP TRÌNH VÀ CUỘC SỐNG
+
+Kỹ năng giải quyết vấn đề (Problem Solving) là khả năng xác định các rào cản đang ngăn cản bạn đạt được mục tiêu và tìm ra những giải pháp tối ưu nhất để vượt qua chúng. Trong ngành công nghệ thông tin, kỹ năng này quan trọng hơn việc nắm vững một ngôn ngữ lập trình cụ thể, vì ngôn ngữ có thể thay đổi nhưng tư duy logic và khả năng phân tích vấn đề là nền tảng cốt lõi không bao giờ lỗi thời.
+
+Quy trình 4 bước để giải quyết một vấn đề phức tạp:
+1. Hiểu rõ vấn đề: Đây là bước quan trọng nhất nhưng hay bị bỏ qua. Hãy xác định rõ "Đầu vào" là gì, "Đầu ra" mong muốn là gì và những "Ràng buộc" đi kèm. Một vấn đề được xác định đúng nghĩa là đã giải quyết được một nửa.
+2. Chia nhỏ vấn đề (Decomposition): Đừng cố gắng xử lý một khối lượng công việc khổng lồ cùng một lúc. Hãy xé nhỏ nó thành các bài toán con (sub-problems) đơn giản hơn. Việc xử lý từng phần nhỏ sẽ giúp bạn giữ được sự bình tĩnh và kiểm soát tốt tiến độ.
+3. Lên kế hoạch và Thuật toán: Trước khi bắt tay vào code, hãy vẽ sơ đồ luồng hoặc viết mã giả (pseudocode). Hãy xác định các bước xử lý logic một cách tuần tự và dự đoán các trường hợp lỗi có thể xảy ra.
+4. Thực hiện và Cải tiến: Triển khai giải pháp và liên tục kiểm tra (test). Nếu giải pháp chưa tối ưu, hãy sẵn sàng quay lại bước 2 để điều chỉnh.
+
+Trong cuộc sống, tư duy thuật toán giúp chúng ta sắp xếp công việc khoa học hơn, quản lý tài chính tốt hơn và đưa ra các quyết định dựa trên dữ liệu thay vì cảm xúc. Hãy rèn luyện thói quen nhìn nhận mọi khó khăn như một "bài toán" cần lời giải, bạn sẽ thấy mọi thứ trở nên nhẹ nhàng hơn rất nhiều.

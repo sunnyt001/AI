@@ -1,0 +1,100 @@
+1/Bảo mật Blockchain là gì?
+
+Bảo mật blockchain là quy trình quản lý rủi ro hoặc hệ thống bảo mật được sử dụng để bảo vệ mạng blockchain khỏi các tác nhân đe dọa trực tuyến. Bảo mật blockchain sử dụng kết hợp các thực hành tốt nhất về bảo mật mạng, các khung đã thử nghiệm và các đảm bảo về kỹ thuật để chống lại gian lận và tấn công mạng.
+
+Kể từ khi Bitcoin ra đời, công nghệ blockchain đã nhanh chóng trở thành một loại bình thường mới trong xã hội ngày nay. Ban đầu, nó được biết đến với vai trò là công nghệ sổ cái phân tán trong lĩnh vực tiền điện tử, cho phép giao dịch và xác minh phi tập trung (không cần bên thứ 3 làm thể chế, có thể nói như vậy), ngày nay có rất nhiều mạng blockchain khác nhau hỗ trợ nhiều loại tiền tệ và dịch vụ kỹ thuật số trên khắp thế giới. Từ ngân hàng và chăm sóc sức khỏe đến các chuỗi cung ứng và khả năng truy xuất nguồn gốc, blockchain đóng vai trò ngày càng không thể thiếu trong cuộc sống hàng ngày của chúng ta.
+
+Vì thế, điều quan trọng không kém là hiểu được hiện có những loại blockchain nào và quan trọng nhất là cách bảo mật chúng như thế nào. Đó là lý do tại sao chúng tôi viết hướng dẫn này về blockchain và việc bảo mật nó. Hãy đọc tiếp để tìm hiểu xem blockchain là gì, các loại khác nhau hiện có, mức độ an toàn của chúng, các giao thức bảo mật mạng nào cần được cân nhắc khi sử dụng blockchain và các cuộc tấn công nào thường xảy ra với mạng blockchain.
+
+2/Định nghĩa Blockchain
+
+Về bản chất, có thể định nghĩa blockchain là một cơ sở dữ liệu phân tán (được gọi là sổ cái) được chia sẻ giữa những người dùng máy tính khác nhau. Dữ liệu trong một blockchain được cấu trúc thành các khối, kết nối với nhau bằng chuỗi mật mã. Khi một giao dịch hoặc một nhóm giao dịch (dưới dạng khối dữ liệu mới) được thêm vào blockchain, khối đó sẽ được xác thực và thống nhất thông qua cơ chế đồng thuận (đôi khi được gọi là PoW hay bằng chứng công việc). Cơ chế đồng thuận liên quan đến sự tham gia tập thể của một số thành viên (được gọi là các nút) trên toàn bộ mạng lưới phân tán. Trong Bitcoin (và các loại tiền điện tử khác), điều này được thực hiện thông qua quá trình “đào” và “băm”, đòi hỏi sức mạnh điện toán đáng kể. Kết quả là, một cá nhân đơn lẻ trong mạng sẽ không thể thay đổi công nghệ sổ cái phân tán (DLT). Vì vậy, không có điểm lỗi đơn lẻ nào và mọi rủi ro đều được phân tán.
+
+Bây giờ bạn đã hiểu về blockchain, hãy cùng xem xét các loại blockchain khác nhau hiện có.
+
+3/Các loại Blockchain
+
+Sự khác biệt chủ yếu của blockchain là ai có thể và không thể tham gia và truy cập dữ liệu trong mạng của họ. Về cơ bản, có hai loại blockchain chính:
+
+-Blockchain công khai:
+
+Các mạng blockchain công khai (đôi khi được gọi là mạng blockchain mở hoặc không cần cấp phép) có dạng mở để bất cứ ai cũng có thể tham gia, trong đó tất cả các thành viên (thường ẩn danh) đều có thể xác thực giao dịch nếu họ chọn. Blockchain công khai xác thực giao dịch thông qua khóa công khai, sử dụng máy tính được kết nối với internet. Các khóa mật mã công khai này là cách chính để xác định và truy cập dữ liệu trên loại mạng này.
+
+-Blockchain riêng tư:
+
+Blockchain riêng tư yêu cầu phải có tư cách thành viên và thông tin danh tính để truy cập dữ liệu của mạng. Vì lý do này, blockchain riêng tư được gọi là mạng blockchain được cấp phép và chúng đạt được sự đồng thuận thông qua một cơ chế được gọi là chứng thực có chọn lọc (trong đó chỉ một số thành viên nhất định của mạng được phép xác minh các giao dịch từ bên trong, thường sử dụng các quyền đặc biệt để truy cập vào sổ cái phân tán của mạng để thực hiện việc này). Thông thường, các mạng blockchain riêng tư bao gồm các thực thể và tổ chức đáng tin cậy và đã biết.
+
+-Blockchain lai:
+Về bản chất, blockchain lai là sự kết hợp giữa blockchain riêng tư và blockchain công khai có khả năng tương tác với nhau. Chúng được thiết kế để tận dụng lợi thế của hai loại blockchain chính đang được sử dụng hiện nay.
+
+4/Blockchain an toàn như thế nào?
+
+Nhìn chung, blockchain khá an toàn nhờ thiết kế phi tập trung và việc sử dụng mật mã. Khi một khối dữ liệu đã được thêm vào chuỗi và được xác minh, sẽ không thể xóa nó và nhiều khối luôn được lưu trữ tuyến tính (do đó, rất dễ kiểm tra sổ cái để tìm ra các vấn đề về hệ thống). Tương tự, các hồ sơ được lưu trữ trong hầu hết các blockchain đều được mã hóa, do đó thường khó truy cập dữ liệu nhạy cảm kể cả khi bị xâm nhập. Tuy nhiên, các mạng blockchain phức tạp hơn. Về mặt lý thuyết, mặc dù công nghệ sổ cái là “bất khả xâm phạm”, nhưng bản thân mạng này cũng không tránh khỏi các cuộc tấn công mạng và nỗ lực gian lận. Kể từ khi ra mắt, đã có một số cuộc tấn công khác nhau nhằm vào các mạng blockchain khác nhau.
+
+5/Tấn công Blockchain
+
+Nói chung, có bốn loại tấn công mạng chính mà mạng blockchain dễ bị tấn công:
+
+-Tấn công 51%:
+
+Là cuộc tấn công mạng cụ thể tốn nhiều năng lượng và chuyên sâu về xử lý, một cuộc tấn công 51% được xúi giục bởi một nhóm "thợ đào" (ban đầu là một phần của mạng) tận dụng các tài nguyên kết hợp của chúng để kiểm soát đủ sức mạnh khai thác của mạng (cụ thể hơn là tỷ lệ băm khai thác của mạng). Khi làm như vậy, họ thực sự giành được quyền kiểm soát sổ cái. Một khi đã giành được quyền kiểm soát sổ cái, những kẻ đào tiền bất chính có thể thao túng các giao dịch trong đó để thực hiện hành vi gian lận tài chính. Các mạng riêng tư thường không dễ bị tấn công theo kiểu này.
+
+-Tấn công định tuyến:
+
+Tấn công định tuyến rất khó phát hiện vì hầu hết các cuộc tấn công đều diễn ra ở chế độ ẩn. Cuộc tấn công này bao gồm việc chặn dữ liệu được truyền đến nhà cung cấp dịch vụ internet của bạn, chia tách mạng và nhắm mục tiêu vào một chuỗi nhất định giữa các nút nào đó. Về cơ bản, sau khi đã tạo một loại chuỗi song song, kẻ tấn công có thể đánh cắp bất kỳ tiền tệ hoặc thông tin cá nhân nào từ khu vực mục tiêu của chúng.
+
+-Tấn công Sybil:
+
+Một cuộc tấn công Sybil liên quan đến việc tin tặc sử dụng một nút để tạo ra nhiều danh tính giả hay "danh tính Sybil" để làm ngập một mạng. Điều này cho phép chúng thực hiện cuộc tấn công 51%, xem ở trên, trong đó họ giành được quyền kiểm soát 51% sức mạnh tính toán của mạng: do đó mang lại cho tin tặc ảnh hưởng hoặc sự hiện diện lớn không tương xứng trong mạng. Thường thấy trong các hệ thống phân tán, nó làm suy yếu sự tin cậy và tính toàn vẹn, thúc đẩy việc bảo vệ thông qua xác minh danh tính và giao thức mật mã.
+
+-Tấn công giả mạo:
+
+Một kỹ thuật lừa đảo trực tuyến cổ điển mà nhiều người dùng nên biết rõ, các cuộc tấn công giả mạo trên mạng blockchain không nhất thiết là cuộc tấn công vào mạng theo cách giống như 3 ví dụ trước. Một cuộc tấn công giả mạo blockchain nhắm mục tiêu vào các thành viên của blockchain bằng email giả mạo để lấy thông tin đăng nhập của họ, với mục đích đánh cắp tiền từ tài khoản của họ.
+
+Như có thể thấy từ nhiều mối đe dọa nêu trên, các thực hành tốt nhất về bảo mật mạng đóng vai trò quan trọng trong bảo mật blockchain hiện nay.
+
+6/Blockchain và bảo mật mạng
+
+Vai trò của bảo mật mạng, hay chính xác hơn là bảo mật dữ liệu trong mạng blockchain là một phần không thể thiếu trong các công nghệ sổ cái phân tán được sử dụng công khai (và riêng tư) hiện nay. Dưới đây, chúng tôi đã tổng hợp một danh sách các thực hành tốt nhất và các khung mà cả doanh nghiệp và quản trị viên mạng có thể sử dụng để tăng cường bảo mật blockchain trong tương lai.
+
+- Quản lý danh tính và truy cập: Đối với cả mạng công khai và riêng tư, việc kiểm soát quyền truy cập và hợp pháp hóa giao tiếp giữa người dùng và các nút là một phần không thể thiếu trong bảo vệ nội bộ khi truyền dữ liệu nhạy cảm và bảo vệ tiền tệ. Điều này bao gồm việc quyết định có mã hóa tải trọng khối hay không, cũng như cách quản lý và thu hồi khóa riêng tư và công khai của người dùng.
+
+- Quản trị và quản lý rủi ro: Cân nhắc kế hoạch phục hồi thảm họa của bạn cho những người tham gia blockchain là gì, nếu trường hợp xấu nhất xảy ra. Thực hiện đánh giá rủi ro thường xuyên để phát hiện các lỗ hổng bảo mật quan trọng hoặc các điểm yếu khác trong chuỗi của bạn. Tương tự, nhớ rằng blockchain phải tuân theo mọi luật, quy định về bảo mật mạng và quyền riêng tư cũng như các yêu cầu riêng của từng quốc gia trong suốt vòng đời của chúng.
+
+- Sử dụng một VPN đã được kiểm chứng : Khuyến cáo người dùng và nút nên kích hoạt một VPN đáng tin cậy và đã được kiểm chứng khi thực hiện giao dịch. Mạng riêng ảo hoạt động bằng cách tạo một đường hầm riêng tư được mã hóa giữa máy tính từ xa của người dùng và bất kỳ máy chủ bên ngoài nào, do đó dữ liệu hoặc giao dịch của bạn sẽ được bảo vệ khỏi bất kỳ mối đe dọa nào từ bên ngoài đối với mạng.
+
+- Chọn phần mềm diệt virus chuyên dụng: Nhìn chung, các mối đe dọa đã biết đối với mạng blockchain, đặc biệt là lừa đảo giả mạo, sẽ dễ tránh hơn nhiều nếu bạn cài đặt phần mềm diệt virus chuyên dụng trên máy cục bộ của bạn. Một hệ thống diệt virus tốt không chỉ bảo vệ bạn khỏi các mối đe dọa đã biết mà còn thường xuyên quét để cảnh báo bạn về bất kỳ mối đe dọa mới nào. Tương tự, phần mềm diệt virus cung cấp cho bạn một lớp bảo vệ bổ sung khi bạn đang xác thực giao dịch dưới dạng một nút. Chúng tôi khuyến cáo bạn sử dụng phần mềm bảo mật chuyên dụng Kaspersky Premium, giúp cung cấp các bản cập nhật, quét thường xuyên, hỗ trợ và trợ giúp liên tục tất cả hoạt động số của bạn.
+
+7/ Câu hỏi thường gặp
+
+- Bảo mật Blockchain là gì?
+
+Bảo mật blockchain là thủ tục hoặc hệ thống quản lý rủi ro được thiết kế để bảo vệ mạng blockchain khỏi các tác nhân đe dọa trực tuyến và tội phạm mạng. Bảo mật blockchain sử dụng kết hợp các thực hành tốt nhất về bảo mật mạng, các khung đã được thử nghiệm và các đảm bảo kỹ thuật để bảo vệ chống lại sự gian lận và các cuộc tấn công mạng (bao gồm các cuộc tấn công 51%, Sybil, giả mạo và định tuyến).
+
+- Tại sao cần bảo mật Blockchain?
+
+Mặc dù blockchain được ký bằng mật mã, vẫn cần bảo mật blockchain để đảm bảo rằng chỉ những người dùng được ủy quyền mới có quyền truy cập vào các nút và toàn bộ mạng blockchain. Các mạng blockchain tận dụng một số giao thức và khung bảo mật mạng để đảm bảo thông tin nhạy cảm của người dùng được bảo vệ an toàn và được ẩn.
+
+- Bảo mật Blockchain có giống như bảo mật mạng không?
+
+Bảo mật blockchain được thiết kế đặc biệt để bảo vệ mạng blockchain khỏi sự xâm nhập và các cuộc tấn công từ tội phạm mạng và các tác nhân đe dọa. Tương tự, blockchain sử dụng các giao thức bảo mật vốn có để đảm bảo tính minh bạch và khả năng bất biến. Bảo mật mạng thường liên quan đến việc bảo vệ toàn diện dữ liệu trên bất kỳ hệ thống, mạng hoặc máy nào, bao gồm các blockchain.
+
+- Blockchain có an toàn không?
+
+Có, blockchain an toàn vì chúng được thiết kế để vừa minh bạch vừa bất biến thông qua cơ chế đồng thuận và khóa mật mã. Tuy nhiên, các mạng blockchain và các thành viên của blockchain, bao gồm các nút, dễ bị tấn công bởi một số loại tấn công mạng nhất định. Các hình thức tấn công phổ biến nhất là 51%, định tuyến, lừa đảo giả mạo và tấn công Sybil.
+
+- Blockchain an toàn như thế nào?
+
+Theo thiết kế, blockchain rất an toàn: dữ liệu của chúng được cấu trúc thành các khối, kết nối với nhau bằng chuỗi mật mã và tận dụng cơ chế đồng thuận (có sự tham gia chung của một số thành viên) để chuyển thông tin. Tuy nhiên, các mạng blockchain kém an toàn hơn vì có nhiều lỗ hổng bảo mật để khai thác.
+
+- Tấn công 51% là gì?
+
+Tấn công 51% là một loại hoạt động tội phạm mạng cụ thể liên quan đến công nghệ blockchain và sổ cái phân tán. Tấn công 51% liên quan đến một nhóm thợ đào gian lận trên mạng kết hợp các tài nguyên để giành quyền kiểm soát sổ cái của blockchain và thực hiện các giao dịch gian lận. Các blockchain riêng tư không dễ bị tấn công theo kiểu này.
+
+- Tấn công định tuyến là gì?
+
+Tấn công định tuyến liên quan đến việc chặn dữ liệu được chuyển đến nhà cung cấp dịch vụ internet, về cơ bản là chia tách mạng blockchain và nhắm mục tiêu vào một chuỗi nhất định giữa các nút nhất định. Từ đó, kẻ tấn công có thể đánh cắp bất kỳ loại tiền tệ hoặc thông tin cá nhân nào. Rất khó phát hiện các cuộc tấn công định tuyến vì bản thân cuộc tấn công diễn ra ở chế độ ẩn.
+
+- Blockchain lai là gì?
+
+Blockchain lai là sự kết hợp các khía cạnh của blockchain riêng tư và công khai nhằm tận dụng lợi thế chung của chúng. Tương tự, blockchain lai cũng có thể đề cập đến một blockchain bao gồm cả blockchain riêng tư và công khai có khả năng tương tác với nhau. Mặc dù việc nâng cấp có thể khó khăn nhưng chúng được coi là dễ mở rộng hơn.

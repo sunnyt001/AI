@@ -1,0 +1,11 @@
+# NGHỆ THUẬT ĐIỀU KHIỂN AI THÔNG QUA PROMPT ENGINEERING
+
+Prompt Engineering (Kỹ thuật đặt câu hỏi) là quá trình thiết kế, tinh chỉnh và tối ưu hóa các lời nhắc đầu vào để định hướng mô hình ngôn ngữ lớn tạo ra các kết quả phản hồi mong muốn. Trong kỷ nguyên AI, khả năng "giao tiếp" hiệu quả với máy móc thông qua ngôn ngữ tự nhiên đã trở thành một kỹ năng quan trọng, giúp tăng năng suất lao động và khai thác tối đa sức mạnh của trí tuệ nhân tạo.
+
+Các nguyên tắc vàng trong Prompt Engineering bao gồm:
+- Tính cụ thể (Specificity): Thay vì hỏi "Hãy viết về Hà Nội", hãy hỏi "Hãy viết một bài giới thiệu về lịch sử và ẩm thực phố cổ Hà Nội dành cho khách du lịch nước ngoài". Càng cung cấp nhiều chi tiết về đối tượng, phong cách và mục tiêu, AI càng trả lời chính xác.
+- Cung cấp ngữ cảnh (Context): Hãy cho AI biết nó đang đóng vai trò gì. Ví dụ: "Bạn hãy đóng vai một chuyên gia IT tư vấn về bảo mật mạng..." giúp AI chọn lọc từ vựng và thái độ phù hợp.
+- Chia nhỏ yêu cầu (Step-by-step): Đối với các nhiệm vụ phức tạp như viết code hay lập kế hoạch kinh doanh, hãy yêu cầu AI "Suy nghĩ từng bước một" hoặc thực hiện từng phần nhỏ để đảm bảo chất lượng đầu ra.
+- Kiểm soát định dạng (Output formatting): Bạn có thể yêu cầu AI trả về kết quả dưới dạng bảng, danh sách gạch đầu dòng, hoặc đoạn mã JSON để dễ dàng tích hợp vào các hệ thống khác.
+
+Làm chủ Prompt Engineering không chỉ là việc sử dụng các mẫu câu có sẵn, mà là hiểu được cách AI "suy nghĩ" để từ đó điều chỉnh câu hỏi một cách linh hoạt, giúp chuyển đổi từ một công cụ tìm kiếm thông thường thành một trợ lý đa năng và thông tuệ.

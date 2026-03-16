@@ -1,0 +1,103 @@
+Chuyển đến nội dung chính
+
+
+
+
+
+Trung tâm khái niệm về điện toán đám mây›Kết nối mạng và phân phối nội dung
+HTTP và HTTPS khác nhau ở điểm nào?
+Tạo tài khoản AWS
+HTTP và HTTPS khác nhau ở điểm nào?
+Giao thức truyền siêu văn bản (HTTP) là giao thức hoặc bộ quy tắc giao tiếp cho hoạt động giao tiếp giữa máy khách và máy chủ. Khi bạn truy cập vào một trang web, trình duyệt sẽ gửi yêu cầu HTTP đến máy chủ web và máy chủ web đó sẽ có phản hồi HTTP. Máy chủ web và trình duyệt của bạn sẽ tiến hành trao đổi dữ liệu dưới dạng văn bản thuần. Tóm lại, giao thức HTTP là công nghệ cơ bản hỗ trợ giao tiếp mạng. Đúng như tên gọi, giao thức truyền siêu văn bản bảo mật (HTTPS) là phiên bản bảo mật hơn hay một phần mở rộng của giao thức HTTP. Trong HTTPS, trình duyệt và máy chủ sẽ thiết lập kết nối bảo mật, được mã hóa trước khi truyền dữ liệu.
+
+Giao thức HTTP hoạt động như thế nào?
+HTTP là một giao thức lớp ứng dụng trong mô hình giao tiếp mạng Kết nối giữa các hệ thống mở (OSI). HTTP xác định một số loại yêu cầu và phản hồi. Ví dụ: khi bạn muốn xem một số dữ liệu từ một trang web, bạn sẽ gửi yêu cầu HTTP GET. Nếu bạn muốn gửi một số thông tin, như điền vào biểu mẫu liên hệ, bạn sẽ gửi yêu cầu HTTP PUT.
+
+Tương tự, máy chủ sẽ gửi các loại phản hồi HTTP khác nhau dưới dạng mã số và dữ liệu. Dưới đây là một số ví dụ:
+
+200 - OK
+400 - Yêu cầu lỗi
+404 - Không tìm thấy tài nguyên
+Giao tiếp yêu cầu-phản hồi này thường không hiển thị với người dùng của bạn. Đó là phương thức giao tiếp mà trình duyệt và máy chủ web sử dụng, do vậy World Wide Web hoạt động một cách nhất quán đối với tất cả mọi người.
+
+Giao thức HTTPS hoạt động như thế nào?
+HTTP truyền dữ liệu không được mã hóa, tức là các bên thứ ba có thể chặn và đọc thông tin được gửi từ trình duyệt. Đây không phải là một quá trình lý tưởng, do đó HTTP đã được mở rộng thành HTTPS để thêm một lớp bảo mật khác vào giao tiếp. HTTPS kết hợp các yêu cầu và phản hồi HTTP với công nghệ SSL và TLS.
+
+Các trang web HTTPS phải đạt được chứng chỉ SSL/TLS từ nhà cung cấp chứng chỉ (CA) độc lập. Các trang web này chia sẻ chứng chỉ với trình duyệt trước khi trao đổi dữ liệu để thiết lập sự tin cậy. Chứng chỉ SSL cũng chứa thông tin mật mã hóa, cho phép máy chủ và trình duyệt web có thể trao đổi dữ liệu được mã hóa hoặc bị làm nhiễu. Quá trình này hoạt động như sau:
+
+Bạn truy cập vào một trang web HTTPS bằng cách nhập định dạng URL https:// vào thanh địa chỉ của trình duyệt.
+Trình duyệt sẽ xác minh tính xác thực của trang web bằng cách yêu cầu chứng chỉ SSL của máy chủ.
+Máy chủ sẽ trả lời bằng cách gửi chứng chỉ SSL có chứa một khóa công khai.
+Chứng chỉ SSL của trang web chứng minh danh tính máy chủ. Khi hài lòng với phản hồi, trình duyệt sẽ sử dụng khóa công khai để mã hóa và gửi một thông điệp có chứa một khóa phiên bí mật.
+Máy chủ web sử dụng khóa riêng của mình để giải mã thông điệp và truy xuất khóa phiên. Sau đó, máy chủ web sẽ mã hóa khóa phiên và gửi một thông điệp xác nhận đến trình duyệt.
+Bây giờ, cả trình duyệt và máy chủ web chuyển sang sử dụng khóa phiên giống nhau để trao đổi thông điệp một cách an toàn.
+Tìm hiểu thêm về chứng chỉ SSL/TSL »
+
+HTTP/2, HTTP/3 và HTTPS khác nhau ở điểm nào?
+Phiên bản HTTP ban đầu được phát hành vào năm 1996–97 và được gọi là HTTP/1.1. HTTP/2 và HTTP/3 là các phiên bản nâng cấp của chính giao thức này. Hệ thống truyền dữ liệu đã được sửa đổi để mang lại hiệu quả cao hơn. Ví dụ: HTTP/2 trao đổi dữ liệu ở dạng nhị phân thay vì định dạng văn bản. Phiên bản này cũng cho phép máy chủ có thể chủ động truyền các phản hồi đến bộ nhớ đệm của máy khách thay vì chờ một yêu cầu HTTP mới. HTTP/3 còn tương đối mới nhưng có tiềm năng đưa HTTP/2 tiến xa hơn. Mục đích của HTTP/3 là hỗ trợ phát trực tuyến theo thời gian thực và các yêu cầu truyền dữ liệu hiện đại khác đạt hiệu quả cao hơn.
+
+HTTPS ưu tiên giải quyết các vấn đề bảo mật dữ liệu trong HTTP. Các hệ thống hiện đại sử dụng HTTP/2 có SSL/TLS cho HTTPS. Khi HTTP/3 trưởng thành hơn, trình duyệt và công nghệ máy chủ sau đó cũng sẽ tích hợp HTTP/3 trong HTTPS.
+
+Tại sao nên chọn HTTPS thay vì HTTP?
+Tiếp theo, chúng ta sẽ thảo luận về một số lợi ích của HTTPS so với HTTP.
+
+Khả năng bảo mật
+Thông điệp HTTP là văn bản thuần, nghĩa là các bên không được phép sẽ có thể dễ dàng truy cập và đọc chúng qua Internet. Ngược lại, HTTPS truyền tất cả dữ liệu dưới dạng mã hóa. Khi người dùng gửi dữ liệu nhạy cảm, họ có thể tự tin rằng không có bên thứ ba nào có thể chặn dữ liệu qua mạng. Nên chọn HTTPS để bảo vệ các thông tin có khả năng là nhạy cảm như thông tin chi tiết của thẻ tín dụng hoặc thông tin cá nhân của khách hàng.
+
+Uy tín
+Các công cụ tìm kiếm thường xếp hạng nội dung trang web HTTP thấp hơn các trang web HTTPS do HTTP có độ tin cậy thấp hơn. Khách hàng cũng thích các trang web HTTPS hơn HTTP. Trình duyệt sẽ hiển thị kết nối HTTPS cho người dùng của bạn bằng cách đặt biểu tượng ổ khóa trên thanh địa chỉ của trình duyệt bên cạnh URL trang web. Người dùng thích các trang web và ứng dụng HTTPS do các yếu tố bảo mật và độ tin cậy bổ sung này.
+
+Hiệu năng và phân tích
+Các ứng dụng web HTTPS tải nhanh hơn các ứng dụng HTTP. Tương tự, HTTPS cũng truy dấu các liên kết giới thiệu tốt hơn. Lưu lượng truy cập giới thiệu là lưu lượng truy cập vào trang web của bạn từ các nguồn bên thứ ba như quảng cáo hoặc liên kết trỏ về từ mạng xã hội. Bạn phải bật HTTPS nếu bạn muốn phần mềm phân tích xác định chính xác nguồn lưu lượng truy cập đáng tin cậy của bạn.
+
+Thiết lập HTTPS có đắt hơn HTTP không?
+HTTPS yêu cầu bạn đạt được và duy trì chứng chỉ SSL/TLS trên máy chủ của bạn. Trước đây, hầu hết các cơ quan cấp chứng chỉ sẽ tính phí hàng năm cho việc đăng ký và duy trì chứng chỉ. Tuy nhiên, giờ đây thì không như vậy nữa.
+
+Có nhiều nguồn để đạt được chứng chỉ SSL miễn phí. Ví dụ: tại Amazon Web Services (AWS), chúng tôi cung cấp Trình quản lý chứng chỉ của AWS (ACM). ACM cung cấp, quản lý và triển khai chứng chỉ SSL/TLS riêng và công khai để bạn có thể sử dụng với các dịch vụ AWS và tài nguyên kết nối nội bộ của bạn. ACM loại bỏ quy trình thủ công tốn thời gian khi mà bạn phải mua, tải lên và gia hạn chứng chỉ SSL/TLS.
+
+
+
+Tóm tắt điểm khác biệt: HTTP so với HTTPS
+ 
+ 	
+HTTP
+
+HTTPS
+
+Là viết tắt của
+
+Giao thức truyền siêu văn bản
+
+Giao thức truyền siêu văn bản bảo mật
+
+Giao thức cơ bản
+
+HTTP/1 và HTTP/2 sử dụng TCP/IP. HTTP/3 sử dụng giao thức QUIC.
+
+Sử dụng HTTP/2 với SSL/TLS để mã hóa thêm cho các yêu cầu và phản hồi HTTP
+
+Cổng
+
+Cổng mặc định là 80
+
+Cổng mặc định là 443
+
+Trường hợp sử dụng
+
+Các trang web dựa trên văn bản cũ hơn
+
+Tất cả các trang web hiện đại
+
+Khả năng bảo mật
+
+Không có tính năng bảo mật bổ sung
+
+Sử dụng chứng chỉ SSL để mã hóa khóa công khai
+
+Lợi ích
+
+Hỗ trợ giao tiếp qua internet
+
+Cải thiện độ uy tín, độ tin cậy và xếp hạng công cụ tìm kiếm của trang web
+
+n. Bảo lưu mọi quyền.

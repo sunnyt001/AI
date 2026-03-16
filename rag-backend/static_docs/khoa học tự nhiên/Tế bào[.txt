@@ -1,0 +1,132 @@
+Tế bào[a] là đơn vị cấu trúc cơ bản có chức năng sinh học của sinh vật sống. Tế bào là đơn vị cơ sở của sự sống. Tế bào là đơn vị nhỏ nhất của sự sống có khả năng phân chia độc lập, và các tế bào thường được gọi là "những viên gạch đầu tiên cấu tạo nên sự sống". Bộ môn nghiên cứu về các tế bào được gọi là sinh học tế bào.
+
+Tế bào bao gồm tế bào chất bao quanh bởi màng tế bào, trong đó có nhiều phân tử sinh học như protein và , DNA và RNA, cũng như nhiều phân tử nhỏ chất dinh dưỡng và chất chuyển hóa.[2] Các sinh vật sống có thể được phân thành đơn bào (có một tế bào, bao gồm vi khuẩn) hoặc đa bào (bao gồm cả thực vật và động vật). Trong khi số lượng tế bào trong các thực vật và động vật ở các loài là khác nhau, thì cơ thể con người lại có hơn 10 nghìn tỷ (1012) tế bào.[3] Phần lớn tế bào động vật và thực vật chỉ có thể nhìn thấy dưới kính hiển vi, với kích thước từ 1 đến 100 micromét.[4] Kính hiển vi điện tử cho độ phân giải cao hơn nhiều cho thấy cấu trúc tế bào rất chi tiết. Các sinh vật có thể được phân loại là đơn bào (bao gồm một tế bào duy nhất như vi khuẩn) hoặc đa bào (bao gồm thực vật và động vật).[5] Tế bào được phát hiện bởi Robert Hooke vào năm 1665, người đã đặt tên cho các đơn vị sinh học của nó.[6][7]
+
+Học thuyết tế bào, lần đầu tiên được nghiên cứu vào năm 1839 của Matthias Jakob Schleiden và Theodor Schwann, phát biểu rằng tất cả các sinh vật sống được cấu tạo bởi một hay nhiều tế bào, rằng các tế bào là đơn vị cơ bản tạo nên cấu trúc và chức năng của các cơ quan, tổ chức sinh vật sống, rằng tất cả các tế bào đến từ các tế bào đã tồn tại trước đó, và các tế bào đều chứa thông tin di truyền cần thiết để điều hòa chức năng tế bào và truyền thông tin đến các thế hệ tế bào tiếp theo.[8] Các tế bào xuất hiện trên trái Đất khoảng 4 tỷ năm trước.[9][10][11][12]
+
+
+Tế bào nuôi cấy được nhuộm keratin (màu đỏ) và DNA (xanh lục).
+Tổng quan về tế bào
+Các đặc tính của tế bào
+
+Các tế bào chuột mọc trên đĩa nuôi cấy. Những tế bào này phát triển thành các đám lớn, mỗi tế bào riêng lẻ có đường kính khoảng 10 micromét.
+Mỗi tế bào là một hệ thống mở, tự duy trì và tự sản xuất: tế bào có thể thu nhận chất dinh dưỡng, chuyển hóa các chất này thành năng lượng, tiến hành các chức năng chuyên biệt và sản sinh thế hệ tế bào mới nếu cần thiết. Mỗi tế bào chứa một bản mật mã riêng hướng dẫn các hoạt động trên.
+
+Mọi tế bào đều có một số khả năng sau:
+
+Sinh sản thông qua phân bào (sinh sản vô tính).
+Trao đổi chất tế bào bao gồm thu nhận các vật liệu thô, chế biến thành các thành phần cần thiết cho tế bào, sản xuất các phân tử mang năng lượng và các sản phẩm phụ. Để thực hiện được các chức năng của mình, tế bào cần phải hấp thu và sử dụng được nguồn năng lượng hóa học dự trữ trong các phân tử hữu cơ. Năng lượng này được giải phóng trong các con đường trao đổi chất.
+Tổng hợp các protein, đây là những phân tử đảm nhiệm những chức năng cơ bản của tế bào, ví dụ như enzyme. Một tế bào động vật thông thường chứa khoảng 10.000 loại protein khác nhau.
+Đáp ứng với các kích thích, hoặc thay đổi của môi trường bên trong và bên ngoài như những thay đổi về nhiệt độ, pH hoặc nguồn dinh dưỡng.
+Di chuyển các túi tiết.
+Các dạng tế bào
+Các tế bào sinh vật nhân chuẩn (Eukaryote)và sinh vật nhân sơ (Prokaryote). - Hình trên đây mô tả một tế bào người điển hình (sinh vật nhân chuẩn) và tế bào vi khuẩn (sinh vật nhân sơ). Tế bào sinh vật nhân chuẩn (bên trái) có các cấu trúc nội bào phức tạp như nhân (xanh nhạt), hạch nhân (xanh lơ), ty thể (da cam), và ribosome (xanh sẫm). Trong khi tế bào vi khuẩn (bên phải) đơn giản hơn với DNA được lưu giữ trong vùng nhân (xanh nhạt) cùng với các cấu trúc đơn giản như màng tế bào (đen), thành tế bào (xanh da trời), vỏ ngoài (da cam), ribosome (xanh đậm) và một tiên mao (cũng màu đen).
+Các tế bào sinh vật nhân chuẩn (Eukaryote) và sinh vật nhân sơ (Prokaryote). Hình trên đây mô tả một tế bào người điển hình (sinh vật nhân chuẩn) và tế bào vi khuẩn (sinh vật nhân sơ). Tế bào sinh vật nhân chuẩn (bên trái) có các cấu trúc nội bào phức tạp như nhân (xanh nhạt), hạch nhân (xanh lơ), ty thể (da cam), và ribosome (xanh sẫm). Trong khi tế bào vi khuẩn (bên phải) đơn giản hơn với DNA được lưu giữ trong vùng nhân (xanh nhạt) cùng với các cấu trúc đơn giản như màng tế bào (đen), thành tế bào (xanh da trời), vỏ ngoài (da cam), ribosome (xanh đậm) và một tiên mao (cũng màu đen).
+Người ta có thể phân loại tế bào dựa vào khả năng có thể tồn tại độc lập hay là không. Các sinh vật có thể bao gồm chỉ một tế bào (gọi là sinh vật đơn bào) thường có khả năng sống độc lập mặc dù có thể hình thành các khuẩn lạc. Ngoài ra, sinh vật cũng có thể bao gồm nhiều tế bào (sinh vật đa bào) thì mỗi tế bào được biệt hóa và thường không thể sống sót khi bị tách rời. Trong cơ thể con người có đến 220 loại tế bào và mô khác nhau.
+
+Nếu xét về cấu trúc nội bào, các tế bào có thể chỉ làm 2 dạng chính.
+
+Tế bào sinh vật nhân sơ thường có cấu trúc đơn giản, chỉ thấy ở sinh vật đơn bào hoặc tập đoàn đơn bào. Trong hệ thống phân loại 3 giới, các sinh vật nhân sơ là thuộc giới cổ khuẩn và Eubacteria.
+Tế bào sinh vật nhân chuẩn thường chứa các bào quan có màng riêng. Sinh vật đơn bào nhân chuẩn cũng rất đa dạng nhưng chủ yếu là sinh vật đa bào. Tế bào eukyryote bào gồm các sinh vật là động vật, thực vật và nấm.
+Bảng: So sánh các đặc điểm của tế bào eukaryote và tế bào prokaryote
+Tế bào nhân sơ (prokaryote)	Tế bào nhân thực (eukaryotes)
+Sinh vật điển hình	vi khuẩn, cổ khuẩn	sinh vật nguyên sinh, nấm, thực vật, động vật
+Kích thước điển hình	~ 0,5-3 µm	~ 10-100 µm (tinh trùng không kể đuôi)
+Cấu trúc nhân tế bào	vùng nhân; không có cấu trúc điển hình	cấu trúc nhân điển hình với màng nhân có các cấu trúc lỗ nhân
+DNA genome / Nhiễm sắc thể	một phân tử (và thường dạng vòng)	một hoặc một vài phân tử DNA dạng thẳng được bao bọc bởi các protein histone trong cấu trúc NST
+Vị trí xảy ra quá trình phiên mã và dịch mã	diễn ra đồng thời trong tế bào chất	tổng hợp RNA (phiên mã) ở nhân tế bào
+tổng hợp protein (dịch mã) tại tế bào chất
+Cấu trúc ribosome	50S+30S	60S+40S
+Cấu trúc nội bào	rất ít cấu trúc	được tổ chức phức tạp và riêng biệt bởi hệ thống màng nội bào và bộ khung tế bào
+Vận động tế bào	tiên mao được tạo thành từ các hạt flagellin	tiên mao và tiêm mao cấu tạo từ tubulin
+Ty thể	không có	mỗi tế bào thường có hàng chục ty thể (phụ thuộc vào cường độ hô hấp nội bào (một số tế bào không có ty thể)
+Lục lạp	không có	có ở các tế bào tảo và thực vật
+Mức độ tổ chức cơ thể	thường là đơn bào	đơn bào, tập đoàn, và các cơ thể đa bào với các tế bào được biệt hóa rõ rệt
+Phân bào	Trực phân	Nguyên phân
+Giảm phân
+Các thành phần tế bào
+
+Mô hình một tế bào động vật điển hình. Các bào quan gồm: (1) hạch nhân, (2) nhân, (3) ribosome, (4) túi tiết, (5) mạng lưới nội chất (ER) hạt, (6) bộ máy Golgi, (7) khung xương tế bào, (8) ER trơn, (9) ty thể, (10) không bào, (11) tế bào chất, (12) lysosome, (13) trung thể.
+
+Mô hình một tế bào thực vật điển hình (xem thêm bảng 2 về phép so sánh giữa tế bào thực vật và tế bào động vật)
+Mọi tế bào (bất kể sinh vật nhân chuẩn hay nhân sơ) đều có màng tế bào hay màng sinh chất, dùng để bao bọc tế bào, cách biệt thành phần nội bào với môi trường xung quanh, điều khiển nghiêm ngặt sự vận chuyển vào và ra của các chất, duy trì điện thế màng và nồng độ các chất bên trong và bên ngoài màng. Bên trong màng là một khối tế bào chất đặc (dạng vật chất chiếm toàn bộ thể tích tế bào). Mọi tế bào đều có các phân tử DNA, vật liệu di truyền quan trọng và các phân tử RNA tham gia trực tiếp quá trình tổng hợp nên các loại protein khác nhau, trong đó có các enzyme. Bên trong tế bào, vào mỗi thời điểm nhất định tế bào tổng hợp nhiều loại phân tử sinh học khác nhau. Phần dưới đây sẽ miêu tả ngắn ngọn các thành phần cơ bản của tế bào cũng như chức năng của chúng.
+
+Màng tế bào - Tấm áo ngoài
+Bài chính: Màng tế bào
+
+Vỏ bọc bên ngoài của một tế bào sinh vật nhân chuẩn gọi là màng sinh chất. Màng này cũng có ở các tế bào sinh vật nhân sơ nhưng được gọi là màng tế bào. Màng có chức năng bao bọc và phân tách tế bào với môi trường xung quanh. Màng được cấu thành bởi một lớp lipid kép và các protein. Các phân tử protein hoạt động như các kênh vận chuyển và bơm được nằm khảm vào lớp lipid một cách linh động (có thể di chuyển tương đối).
+
+Bộ khung tế bào - Hệ vận động
+Bài chính: Bộ khung tế bào
+
+Bộ khung tế bào là một thành phần quan trọng, phức tạp và linh động của tế bào.nó là hệ thống mạng sợi và ống protein (vi ống, vi sợi, sợi trung gian đan chéo nhau). Nó cấu thành và duy trì hình dáng tế bào; là các điểm bám cho các bào quan; hỗ trợ quá trình thực bào (tế bào thu nhận các chất bên ngoài); và cử động các phần tế bào trong quá trình sinh trưởng và vận động. Các protein tham gia cấu thành bộ khung tế bào gồm nhiều loại và có chức năng đa dạng như định hướng, neo bám, phát sinh các tấm màng.
+
+Tế bào chất - Không gian thực hiện chức năng tế bào
+Bài chính: Tế bào chất
+
+Bên trong các tế bào là một không gian chứa đầy dịch thể gọi là tế bào chất (cytoplasm). Nó bao hàm cả hỗn hợp các ion, chất dịch bên trong tế bào và cả các bào quan. Các bào quan bên trong tế bào chất đều có hệ thống màng sinh học để phân tách với khối dung dịch này. Chất nguyên sinh (cytosol) là để chỉ riêng phân dịch thể, chứ không có các bào quan.
+
+Đối với các sinh vật nhân sơ, tế bào chất là một thành phần tương đối tự do. Tuy nhiên, tế bào chất trong tế bào sinh vật nhân chuẩn thường chứa rất nhiều bào quan và bộ khung tế bào. Chất nguyên sinh thường chứa các chất dinh dưỡng hòa tan, phân cắt các sản phẩm phế liệu, và dịch chuyển vật chất trong tế bào tạo nên hiện tượng dòng chất nguyên sinh. Nhân tế bào thường nằm bên trong tế bào chất và có hình dạng thay đổi khi tế bào di chuyển. Tế bào chất cũng chứa nhiều loại muối khác nhau, đây là dạng chất dẫn điện tuyệt vời để tạo môi trường thích hợp cho các hoạt động của tế bào. Môi trường tế bào chất và các bào quan trong nó là yếu tố sống còn của một tế bào.
+
+Vật liệu di truyền - Yếu tố duy trì thông tin giữa các thế hệ
+Vật liệu di truyền là các phân tử nucleic acid (DNA và rRNA). Hầu hết các sinh vật sử dụng DNA để lưu trữ dài hạn thông tin di truyền trong khi chỉ một vài virus dùng RNA cho mục đích này. Thông tin di truyền của sinh vật chính là mã di truyền quy định tất cả protein cần thiết cho mọi tế bào của cơ thể. Tuy nhiên, một nghiên cứu mới đây cho thấy có thể một số RNA cũng được sử dụng như là một bản lưu đối với một số gen đề phòng sai hỏng.
+
+Ở các sinh vật nhân sơ, vật liệu di truyền là một phân tử DNA dạng vòng đơn giản. Phân tử này nằm ở một vùng tế bào chất chuyên biệt gọi là vùng nhân. Tuy nhiên, đối với các sinh vật nhân chuẩn, phân tử DNA được bao bọc bởi các phân tử protein tạo thành cấu trúc nhiễm sắc thể, được lưu giữ trong nhân tế bào (với màng nhân bao bên ngoài). Mỗi tế bào thường chứa nhiều nhiễm sắc thể (số lượng nhiễm sắc thể trong mỗi tế bào là đặc trưng cho loài). Ngoài ra, các bào quan như ty thể và lục lạp đều có vật liệu di truyền riêng của mình (xem thêm thuyết nội cộng sinh).
+
+Ví dụ, một tế bào người gồm hai bộ gen riêng biệt là bộ gen của nhân và bộ gen của ty thể. Bộ gene nhân (là thể lưỡng bội) bao gồm 46 phân tử DNA mạch thẳng tạo thành các nhiễm sắc thể riêng biệt. Bộ gene ty thể là phân tử DNA mạch vòng, khá nhỏ và chỉ mã hóa cho một vài protein quan trọng.
+
+Các bào quan
+Bài chính: Bào quan
+
+Cơ thể con người cấu tạo từ nhiều cơ quan như tim, phổi, thận. Mỗi cơ quan đảm nhiệm một chức riêng.[5] Các tế bào thường chứa những cơ quan nhỏ gọi là bào quan, được thích nghi và chuyên hóa cho một hoặc một vài chức năng sống nhất định. Các bào quan thường chỉ có ở các tế bào sinh vật nhân chuẩn và thường có màng bao bọc.
+
+Nhân tế bào - trung tâm tế bào: Nhân tế bào là bào quan tối quan trọng trong tế bào sinh vật nhân chuẩn. Nó chứa các nhiễm sắc thể của tế bào, là nơi diễn ra quá trình tự nhân đôi DNA và tổng hợp RNA. Nhân tế bào có dạng hình cầu và được bao bọc bởi một lớp màng kép gọi là màng nhân. Màng nhân dùng để bao ngoài và bảo vệ DNA của tế bào trước những phân tử có thể gây tổn thương đến cấu trúc hoặc ảnh hưởng đến hoạt động của DNA. Trong quá trình hoạt động, phân tử DNA được phiên mã để tổng hợp các phân tử RNA chuyên biệt, gọi là RNA thông tin (mRNA). Các RNA thông tin được vận chuyển ra ngoài nhân, để trực tiếp tham gia quá trình tổng hợp các protein đặc thù. Ở các loài sinh vật nhân sơ, các hoạt động của DNA tiến hành ngay tại tế bào chất (chính xác hơn là tại vùng nhân).
+Ribosome - bộ máy sản xuất protein: Ribosome có cả trong tế bào sinh vật nhân chuẩn và sinh vật nhân sơ. Ribosome được cấu tạo từ các phân tử protein và RNA ribosome (rRNA). Đây là nơi thực hiện quá trình sinh tổng hợp protein từ các phân tử RNA thông tin. Quá trình này còn được gọi là dịch mã vì thông tin di truyền mã hóa trong trình tự phân tử DNA truyền qua trình tự RNA để quyết định trình tự amino acid của phân tử protein. Quá trình này cực kỳ quan trọng đối với tất cả mọi tế bào, do đó một tế bào thường chứa rất nhiều phân tử ribosome—thường hàng trăm thậm chí hàng nghìn phân tử.
+Ty thể và lục lạp - các trung tâm năng lượng: Ty thể là bào quan trong tế bào sinh vật nhân chuẩn có hình dạng, kích thước và số lượng đa dạng và có khả năng tự nhân đôi. Ty thể có bộ gene riêng, độc lập với bộ gene trong nhân tế bào. Ty thể có vai trò cung cấp năng lượng cho mọi quá trình trao đổi chất của tế bào. Lục lạp cũng tương tự như ty thể nhưng kích thước lớn hơn, chúng tham gia chuyển hóa năng lượng mặt trời thành các chất hữu cơ (trong quá trình quang hợp). Lục lạp chỉ có ở các tế bào thực vật.
+Mạng lưới nội chất và bộ máy Golgi - nhà phân phối và xử lý các đại phân tử: Mạng lưới nội chất (ER) là hệ thống mạng vận chuyển các phân tử nhất định đến các địa chỉ cần thiết để cải biến hoặc thực hiện chức năng, trong khi các phân tử khác thì trôi nổi tự do trong tế bào chất. ER được chia làm hai loại: ER hạt (rám) và ER trơn (nhẵn). ER hạt là do các ribosome bám lên bề mặt ngoài của nó, trong khi ER trơn thì không có ribosome. Quá trình dịch mã trên các ribosome của ER hạt thường để tổng hợp các protein tiết (protein xuất khẩu). Các protein tiết thường được vận chuyển đến phức hệ Golgi để thực hiện một số cải biến, đóng gói và vận chuyển đến các vị trí khác nhau trong tế bào. ER trơn là nơi tổng hợp lipid, giải độc và bể chứa calcium.
+Lysosome và peroxisome - hệ tiêu hóa của tế bào: Lysosome và peroxisome thường được ví như hệ thống xử lý rác thải của tế bào. Hai bào quan này đều dạng cầu, màng đơn và chứa nhiều enzyme tiêu hóa. Ví dụ, lysosome có thể chứa vài chục enzyme phân huỷ protein, nucleic acid và polysacharide mà không gây hại cho các quá trình khác của tế bào khi được bao bọc bởi lớp màng tế bào.
+Giải phẫu tế bào
+Tế bào sinh vật nhân sơ
+Sinh vật nhân sơ là nhóm tế bào không có màng nhân. Đây là đặc điểm chính để phân biệt với các tế bào sinh vật nhân chuẩn. Sinh vật nhân sơ cũng không có các bào quan và cấu trúc nội bào điển hình của tế bào sinh vật nhân chuẩn. Hầu hết các chức năng của các bào quan như ty thể, lục lạp, bộ máy Golgi được tiến hành trên màng sinh chất. Tế bào sinh vật nhân sơ có 3 vùng cấu trúc chính là:
+
+1. Tiên mao (flagella), tiêm mao, hay lông nhung (pili) - các protein bám trên bề mặt tế bào;
+2. Vỏ tế bào bao gồm capsule, thành tế bào và màng sinh chất;
+3. Vùng tế bào chất có chứa Bộ gene, các ribosome và các thể vẩn (inclusion body).
+Các đặc trưng:
+
+Tế bào chất của sinh vật nhân sơ là phần dịch lỏng chiếm hầu hết thể tích tế bào, khuếch tán vật chất và chứa các hạt ribosome nằm tự do trong tế bào.
+Màng sinh chất là lớp phospholipid kép phân tách phần tế bào chất với môi trường xung quanh. Màng sinh học này có tính bán thấm, hay còn gọi là thấm có chọn lọc.
+Hầu hết các tế bào sinh vật nhân sơ đều có thành tế bào (trừ Mycoplasma, Thermoplasma (archae), và Planctomycetales. Chúng được cấu tạo từ peptidoglycan và hoạt động như một rào cản phụ để chọn lọc những chất vào ra tế bào. Thành tế bào cũng giúp vi khuẩn giữ nguyên hình dạng và không bị tác động của áp suất thẩm thấu trong môi trường nhược trương.
+Nhiễm sắc thể của tế bào sinh vật nhân sơ thường là một phân tử DNA dạng vòng (trừ vi khuẩn Borrelia burgdorferi gây bệnh Lyme). Mặc dù không phải có cấu trúc nhân hoàn chỉnh, DNA được cô đặc trong hạch nhân. Tế bào sinh vật nhân sơ còn chứa những cấu trúc DNA ngoài nhiễm sắc thể gọi là plasmid, nó cũng có dạng vòng nhưng nhỏ hơn DNA nhiễm sắc thể. Trên các plasmid thường chứa các gene có chức năng bổ sung, ví dụ kháng sinh.
+Tế bào sinh vật nhân sơ mang các tiên mao giúp tế bào di chuyển chủ động trong môi trường.
+Tế bào sinh vật nhân chuẩn
+Tế bào sinh vật nhân chuẩn thường lớn gấp 10 lần (về kích thước) so với tế bào sinh vật nhân sơ do đó gấp khoảng 1000 lần về thể tích. Điểm khác biệt quan trọng giữa sinh vật nhân sơ và sinh vật nhân chuẩn là tế bào sinh vật nhân chuẩn có các xoang tế bào được chia nhỏ do các lớp màng tế bào để thực hiện các hoạt động trao đổi chất riêng biệt. Trong đó, điều tiến bộ nhất là việc hình thành nhân tế bào có hệ thống màng riêng để bảo vệ các phân tử DNA của tế bào. Eukyryote là chữ Latin có nghĩa là có nhân thật sự. Tế bào sinh vật nhân chuẩn thường có những cấu trúc chuyên biệt để tiến hành các chức năng nhất định, gọi là các bào quan. Các đặc trưng gồm:
+
+Tế bào chất của sinh vật nhân chuẩn thường không nhìn thấy những thể hạt như ở sinh vật nhân sơ vì rằng phần lớn ribosome của chúng được bám trên mạng lưới nội chất.
+Màng tế bào cũng có cấu trúc tương tự như ở sinh vật nhân sơ tuy nhiên thành phần cấu tạo chi tiết lại khác nhau một vài điểm nhỏ. Chỉ một số tế bào sinh vật nhân chuẩn có thành tế bào.
+Vật chất di truyền trong tế bào sinh vật nhân chuẩn thường gồm một hoặc một số phân tử DNA mạch thẳng, được cô đặc bởi các protein histone tạo nên cấu trúc nhiễm sắc thể. Mọi phân tử DNA được lưu giữ trong nhân tế bào với một lớp màng nhân bao bọc. Một số bào quan của sinh vật nhân chuẩn có chứa DNA riêng.
+Một vài tế bào sinh vật nhân chuẩn có thể di chuyển nhờ tiêm mao hoặc tiên mao. Những tiên mao thường có cấu trúc phức tạp hơn so với sinh vật nhân sơ.
+Các quá trình chức năng của tế bào
+Sinh trưởng và trao đổi chất của tế bào
+Giữa những lần phân bào, các tế bào thực hiện hàng loạt quá trình trao đổi chất nội bào nhằm duy trì sự tồn tại cũng như sinh trưởng của mình. Trao đổi chất là các quá trình mà tế bào xử lý hay chế biến các phân tử dinh dưỡng theo cách riêng của nó. Các quá trình trao đổi chất được chia làm 2 nhóm lớn:
+
+1) Quá trình dị hóa (catabolism) nhằm phân huỷ các phân tử hữu cơ phức tạp để thu nhận năng lượng (dưới dạng ATP) và lực khử;
+2) Quá trình đồng hóa (anabolism) sử dụng năng lượng và lực khử để xây dựng các phân tử hữu cơ phức tạp, đặc thù và cần thiết.
+Một trong các con đường trao đổi chất quan trọng là đường phân (glycolysis), con đường này không cần oxy. Mỗi một phân tử glucose trải qua con đường này sẽ tạo thành 4 phân tử ATP và đây là phương thức thu nhận năng lượng chính của các vi khuẩn kị khí.
+
+Đối với các sinh vật hiếu khí, các phân tử pyruvat, sản phẩm của đường phân, sẽ tham gia vào chu trình Kreb (hay còn gọi là chu trình TCA) để phân huỷ hoàn toàn thành CO2, đồng thời thu nhận thêm nhiều ATP. Ở sinh vật nhân chuẩn, chu trình TCA tiến hành trong ty thể trong khi sinh vật nhân sơ lại tiến hành ở ngay tế bào chất.
+
+Hình thành các tế bào mới
+Bài chính: Phân bào
+
+
+Sơ đồ quá trình sinh tổng hợp protein
+Trong vùng chất nhân (xanh nhạt), các gene (DNA, xanh sẫm) được phiên mã thành những phân tử RNA. Sau khi thực hiện các sửa đổi sau phiên mã, phân tử RNA thông tin trưởng thành (đỏ) được vận chuyển ra tế bào chất (hồng) để tiến hành tổng hợp protein tại đây. Các ribosome tiến hành dịch mã của RNA thông tin nhờ mối liên kết hydro theo nguyên tắc bổ sung giữa bộ ba mã sao trên RNA thông tin với bộ ba đối mã trên RNA vận chuyển tương ứng. Những phân tử protein (đen) sau khi được tổng hợp thường được tiến hành một số sửa đổi cho phù hợp với chức năng, ví dụ gắn thêm các gốc đường (da cam)
+Phân bào là quá trình sinh sản từ một tế bào (gọi là tế bào mẹ) phân chia thành hai tế bào non. Đây là cơ chế chính của quá trình sinh trưởng của sinh vật đa bào và là hình thức sinh sản của sinh vật đơn bào. Những tế bào sinh vật nhân sơ phân chia bằng hình thức phân cắt hoặc nảy chồi (budding). Tế bào sinh vật nhân chuẩn thì sử dụng hình thức phân bào là nguyên phân (mitosis) (một hình thức phân bào có tơ). Những tế bào lưỡng bội thì có thể tiến hành giảm phân để tạo ra tế bào đơn bội. Những tế bào đơn bội đóng vai trò giao tử trong quá trình thụ tinh để hình thành hợp tử (lưỡng bội). Trong phân bào, quá trình tự nhân đôi DNA (dẫn đến nhân đôi nhiễm sắc thể) đóng vai trò cực kỳ quan trọng và thường diễn ra tại kỳ trung gian giữa các lần phân chia.
+
+Sinh tổng hợp protein
+Bài chính: Sinh tổng hợp protein
+
+Sinh tổng hợp protein là quá trình tế bào tổng hợp những phân tử protein đặc trưng và cần thiết cho hoạt động sống của mình. Quá trình phiên mã là quá trình tổng hợp những phân tử RNA thông tin dựa trên trình tự khuôn của DNA. Trên khuôn RNA thông tin mới được tạo ra, một phân tử protein sẽ được tạo thành nhờ quá trình dịch mã.
+
+Bộ máy tế bào chịu trách nhiệm thực hiện quá trình tổng hợp protein là những ribosome. Ribosome được cấu từ những phân tử RNA ribosome và khoảng 80 loại protein khác nhau. Khi các tiểu đơn vị ribosome liên kết với phân tử RNA thông tin thì quá trình dịch mã được tiến hành. Khi đó, ribosome sẽ cho phép một phân tử RNA vận chuyển (tRNA) mang một loại amino acid đặc trưng đi vào. RNA vận chuyển này bắt buộc phải có bộ ba đối mã có trình tự bổ sung với bộ ba mã sao trên RNA thông tin. Các amino acid lần lượt tương ứng với trình tự các bộ ba nucleotide trên RNA thông tin sẽ liên kết với nhau để tạo thành một chuỗi polypeptide.

@@ -1,0 +1,66 @@
+
+Các cụm từ Trí tuệ nhân tạo (Artificial Intelligence), Học máy (Machine Learning), Học sâu (Deep Learning) đang trở thành chủ đề bàn tán sôi nổi trong giới công nghệ. Với sự bùng nổ của cuộc cách mạng 4.0 thì các thuật ngữ này càng trở nên phổ biến hơn trong cuộc sống hằng ngày. Tuy đây là 3 khái niệm khác nhau nhưng cũng có rất nhiều bạn còn nhầm lẫn giữa những thuật ngữ này. Vì thế trong bài viết dưới đây, VTC Academy Plus sẽ giúp bạn hiểu và phân biệt rõ hơn về 3 khái niệm này.
+
+AI (Trí tuệ nhân tạo) là gì?
+Trí tuệ nhân tạo là một bộ phận của ngành khoa học máy tính liên quan đến việc tự động hóa các hành vi thông minh của máy móc. Đây là quá trình truyền tải các dữ liệu, thông tin và mô phỏng các quá trình suy nghĩ và học tập của con người cho máy móc. Mục tiêu chính của AI là tạo ra những cỗ máy có thể tự suy nghĩ và hành động giống như con người. Cỗ máy này còn có khả năng xử lý một lượng dữ liệu lớn với tốc độ nhanh hơn con người. Hiện nay có năm ngôn ngữ lập trình trí tuệ nhân tạo phổ biến để người lập trình có thể lựa chọn. Tùy vào yêu cầu của ứng dụng mà người lập trình sẽ lựa chọn ngôn ngữ AI cho phù hợp.
+
+
+
+Mục đích ban đầu khi tạo ra công nghệ Trí tuệ nhân tạo không phải để gây ra mối đe dọa cho nhân loại như các giả thuyết của Stephen Hawking, Elon Musk mà nó được sinh ra để cung cấp nhiều lợi ích và nâng cao chất lượng cuộc sống cho con người. Cụ thể có khá nhiều ngành đã và đang áp dụng thành công những tiện ích của công nghệ này như trí tuệ nhân tạo trong Digital Marketing, y tế, giáo dục, vận tải,… Chính vì những lợi ích mà AI mang lại, rất nhiều công ty, tập đoàn lớn đã “đổ tiền” vào cuộc đua công nghệ trí tuệ nhân tạo với tham vọng mang lại siêu lợi nhuận cho công ty và trở thành “người dẫn đầu” trong lĩnh vực này.
+
+Nhưng làm thế nào để máy móc có được trí thông minh của con người thì khái niệm tiếp theo sẽ giúp bạn giải đáp thắc mắc này.
+
+Machine Learning là gì?
+Machine Learning (Học máy) là thuật ngữ chỉ các hành động bạn dạy máy tính để cải thiện một nhiệm vụ mà nó đang thực hiện. Cụ thể khả năng của Machine Learning là sử dụng các thuật toán để phân tích những thông tin sẵn có, sau đó học hỏi và đưa ra những quyết định, dự đoán về những thứ có liên quan. Thay vì chúng ta phải lập trình ra một phần mềm với các hành động, hướng dẫn chi tiết để thực hiện một nhiệm vụ thì máy tính sẽ được học cách thực hiện các nhiệm vụ đó thông qua một lượng dữ liệu và các thuật toán.
+
+Sau đây là một ví dụ đơn giản giúp bạn dễ hình dung hơn cách mà Machine Learning hoạt động
+
+Bạn muốn một chương trình có thể tự nhận diện có con thỏ trong hình:
+
+Đầu tiên bạn cần cung cấp cho máy tính một tệp dữ liệu về các đặc điểm nhận dạng của loài thỏ như: hình dáng cơ thể, màu sắc lông, kích thước,…
+Tiếp theo, bạn sẽ cung cấp cho máy tính một loạt các hình ảnh có con thỏ trong đó để máy tính có thể chọn ra các chi tiết, đặc điểm có liên quan đến thỏ.
+Cuối cùng khi máy đã nhận được đủ dữ liệu về thỏ thì máy tính sẽ biết cách tìm ra những bức ảnh có chứa con thỏ trong đó. Máy tính sẽ nhận diện bằng cách nếu hình ảnh có chứa các chi tiết A, B, C nào đó thì khả năng cao bức ảnh đó có chứa con thỏ.
+machine learning
+
+Điều quan trọng cần có để có thể dạy cho máy tính là một tập dữ liệu có sẵn. Hiện nay có một công nghệ tạo ra bước ngoặt mới cho việc ghi và lưu trữ dữ liệu không thể sửa đổi hoặc bị tấn công đó là công nghệ Blockchain. Với Machine Learning, dữ liệu càng chính xác thì kết quả đưa ra sẽ càng đúng. Vì thế mà sự kết hợp giữa Blockchain và Machine Learning sẽ giúp cho máy tính đưa ra những dự đoán gần như hoàn hảo và có khả thi.
+
+Deep Learning là gì?
+Khái niệm này được lấy cảm hứng từ chức năng của các tế bào não của con người gọi là tế bào thần kinh. Deep Learning (Học sâu) sử dụng mạng thần kinh nhân tạo để phân tích dữ liệu ở nhiều chi tiết khác nhau bằng các thuật toán mô phỏng theo hệ thần kinh con người, kèm theo đó là thực hiện việc học hỏi từ 1 lượng lớn dữ liệu được cung cấp để giải quyết những vấn đề cụ thể. Tương tự như cách chúng ta học hỏi từ kinh nghiệm, thuật toán Deep Learning sẽ thực hiện 1 nhiệm vụ nhiều lần, mỗi lần sẽ tinh chỉnh nhiệm vụ một chút để cải thiện kết quả. Kích thước dữ liệu sẽ càng lớn khi có nhiều tế bào thần kinh được thêm vào. Nó sẽ tự động có tính năng học tập ở nhiều cấp độ trừu tượng.
+
+
+
+Để máy tính có thể nhận biết một sự vật thì chúng ta sẽ lập trình ra nhiều lớp trong mạng thần kinh nhân tạo. Mỗi lớp có khả năng xác định một đặc điểm cụ thể của sự vật. Sau đó cho máy xem hàng nghìn bức ảnh có sự vật đó và hàng nghìn bức ảnh không phải là sự vật đó. Khi mạng thần kinh nhân tạo xem hết các bức ảnh, các lớp thì sẽ dần nhận ra các đặc điểm của sự vật, biết lớp nào là quan trọng. Deep Learning sẽ tự động tìm ra đặc điểm nào quan trọng để phân loại mục tiêu. Trong khi với Machine Learning thì những đặc điểm này phải được đưa ra bởi con người.
+
+Sau khi tìm hiểu định nghĩa của 3 khái niệm này thì VTC Academy sẽ giúp bạn hiểu rõ hơn về mối quan hệ cũng như sự khác nhau giữa 3 thuật ngữ này.
+
+Sự khác nhau của AI, Machine Learning và Deep Learning
+Về mối quan hệ giữa 3 khái niệm này thì AI là khái niệm rộng nhất và xuất hiện sớm nhất. Tiếp theo đó thì Machine Learning là tập con của AI. Cụ thể hơn thì Machine Learning chính là một công cụ của AI. Deep Learning chính là khái niệm xuất hiện sau cùng và cũng là tập con của Machine Learning. Deep Learning chính là một kỹ thuật nhỏ của Machine Learning và cũng là thứ đang thúc đẩy AI phát triển mạnh mẽ nhất.
+
+
+
+Dưới đây VTC Academy có tổng hợp ngắn gọn một số đặc điểm để phân biệt giữa 3 khái niệm này:
+
+Artificial Intelligence (AI)	Machine Learning (ML)	Deep Learning (DL)
+Định nghĩa	AI là nghiên cứu cho phép máy móc bắt chước hành vi của con người bằng cách sử dụng các thuật toán	ML là một nghiên cứu cho phép máy móc tự động học hỏi, cải thiện kinh nghiệm mà không cần lập trình rõ ràng	DL là nghiên cứu sử dụng mạng lưới thần kinh nhân tạo giống như não người để bắt chước chức năng của con  người
+Mối quan hệ	AI là bức tranh rộng hơn bao gồm ML và DL	ML là thành phần của AI	DL là thành phần của ML
+Mục đích	Tạo ra cỗ máy có khả năng suy nghĩ như con người	Làm cho máy móc học tập thông qua dữ liệu để chúng có thể giải quyết các vấn đề	Bắt chước cách bộ não con người hoạt động để xử lý dữ liệu, tạo ra các mẫu sử dụng cho việc đưa ra quyết định
+Phân loại	Có thể phân thành 4 loại:
+Công nghệ AI phản ứng
+Công nghệ AI với bộ nhớ hạn chế
+Lý thuyết tâm lý
+Tự nhận thức
+Có 3 loại như sau:
+Học có giám sát
+Học không giám sát
+Học củng cố
+DL có bốn loại kiến ​​trúc mạng cơ bản:
+Không giám sát các mô hình đã huấn luyện sẵn
+Mạng thần kinh hồi quy
+Mạng nơ-ron hồi quy
+Mạng nơ-ron tích chập
+Một số ứng dụng	Các app chia sẻ xe như Uber, Lyft; Các chuyến bay thương mại sử dụng Autopilot…	Cảnh báo giao thông, gắn thẻ tag bạn bè tự động trên Facebook	Phân tích hình ảnh, tạo phụ đề, chatbots, Trợ lý ảo: Alexa, Siri, Cortana,…
+ 
+
+Hy vọng với những chia sẻ trên đã giúp cho bạn hiểu hơn về 3 khái niệm tương đối phức tạp này. Lĩnh vực Trí tuệ nhân tạo trong những năm tới được các chuyên gia dự báo là lĩnh vực mũi nhọn trong nền kinh tế các nước. Chính vì ngành này còn khá mới nên nhu cầu nhân lực trong lĩnh vực này khá lớn. Nếu bạn là một người yêu công nghệ, thích tìm hiểu về những cái mới bạn có thể tham gia vào lĩnh vực này.
+
+

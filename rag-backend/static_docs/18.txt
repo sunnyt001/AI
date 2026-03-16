@@ -1,0 +1,11 @@
+# CHIẾN LƯỢC XÂY DỰNG THƯƠNG HIỆU CÁ NHÂN TRONG KỶ NGUYÊN SỐ
+
+Thương hiệu cá nhân không chỉ đơn thuần là những gì bạn viết trên bản sơ yếu lý lịch hay hồ sơ LinkedIn, mà nó là tổng hòa của những giá trị, kỹ năng và niềm tin mà mọi người cảm nhận được khi nhắc đến tên bạn. Trong bối cảnh thị trường lao động cạnh tranh khốc liệt như năm 2026, việc có một thương hiệu cá nhân mạnh mẽ chính là "tấm vé thông hành" giúp bạn tiếp cận được những cơ hội nghề nghiệp tốt nhất.
+
+Để xây dựng thương hiệu cá nhân thành công, bạn cần thực hiện theo các bước sau:
+1. Xác định giá trị cốt lõi: Bạn là ai? Bạn giỏi nhất việc gì? Điểm khác biệt của bạn so với hàng nghìn sinh viên IT khác là gì? Ví dụ, thay vì chỉ là một người biết code Python, bạn có thể định vị mình là một chuyên gia về hệ thống RAG và Chatbot AI.
+2. Đồng nhất trên mọi nền tảng: Hình ảnh, thông tin và giọng văn của bạn trên Facebook, LinkedIn, GitHub hay Blog cá nhân phải có sự thống nhất. Sự chuyên nghiệp được thể hiện qua việc bạn chỉn chu từ ảnh đại diện đến cách viết các dòng trạng thái.
+3. Chia sẻ giá trị thường xuyên: Đừng chỉ giữ kiến thức cho riêng mình. Hãy viết về những khó khăn bạn gặp phải khi làm đồ án, cách bạn sửa lỗi C++ Build Tools hay cách bạn tối ưu hóa dữ liệu cho AI. Khi bạn giúp đỡ người khác, uy tín của bạn sẽ tăng lên tự nhiên.
+4. Mở rộng mạng lưới quan hệ (Networking): Tham gia các hội thảo công nghệ, các cuộc thi hackathon và kết nối với những người đi trước trong ngành. Một lời giới thiệu từ người có uy tín có giá trị hơn hàng trăm hồ sơ nộp trực tuyến.
+
+Hãy nhớ rằng, thương hiệu cá nhân là một quá trình dài hạn. Nó đòi hỏi sự kiên trì, liêm chính và luôn giữ đúng lời hứa về chất lượng công việc mà bạn cung cấp.

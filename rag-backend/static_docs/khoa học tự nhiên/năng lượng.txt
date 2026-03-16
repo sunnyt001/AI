@@ -1,0 +1,179 @@
+Trong vật lý, năng lượng là đại lượng vật lý mà phải được chuyển đến một đối tượng để thực hiện một công trên, hoặc để làm nóng, các đối tượng.[note 1] Năng lượng là thứ mà được coi là một đại lượng được bảo toàn; định luật bảo toàn năng lượng cho biết năng lượng có thể được chuyển đổi thành các dạng khác nhau, nhưng không tự nhiên sinh ra hoặc mất đi. Đơn vị SI của năng lượng là jun, đó là công làm cho một đối tượng di chuyển với khoảng cách 1 mét để chống lại một lực có giá trị 1 newton.
+
+Các dạng năng lượng phổ biến bao gồm động năng của vật chuyển động, năng lượng tiềm tàng được lưu trữ bởi vị trí của vật trong trường lực (lực hấp dẫn, điện hoặc từ), năng lượng đàn hồi được lưu trữ bằng cách kéo căng vật thể rắn, năng lượng hóa học được giải phóng khi nhiên liệu bị đốt cháy, năng lượng bức xạ mang theo ánh sáng và năng lượng nhiệt do nhiệt độ của một vật thể.
+
+Khối lượng và năng lượng có liên quan chặt chẽ với nhau. Do sự tương đương năng lượng khối lượng, bất kỳ vật thể nào có khối lượng khi đứng yên (gọi là khối lượng nghỉ) cũng có một lượng năng lượng tương đương có dạng gọi là năng lượng nghỉ và bất kỳ năng lượng bổ sung nào (dưới mọi hình thức) mà vật thể có được ở trên năng lượng nghỉ sẽ tăng tổng khối lượng của vật thể giống như nó tăng tổng năng lượng của nó. Ví dụ, sau khi làm nóng một vật thể, sự gia tăng năng lượng của nó có thể được đo bằng một sự gia tăng nhỏ về khối lượng, với một thang đo đủ nhạy.
+
+Các sinh vật sống đòi hỏi năng lượng để sống, chẳng hạn như năng lượng con người có được từ thức ăn. Nền văn minh của con người đòi hỏi năng lượng để hoạt động, nó lấy từ các nguồn năng lượng như nhiên liệu hóa thạch, nhiên liệu hạt nhân hoặc năng lượng tái tạo. Các quá trình của khí hậu và hệ sinh thái của Trái Đất được thúc đẩy bởi năng lượng bức xạ mà Trái Đất nhận được từ Mặt Trời và năng lượng địa nhiệt có trong Trái Đất.
+
+Các dạng năng lượng
+
+Trong một vụ sét đánh điển hình, 500 megajoules năng lượng điện năng được chuyển đổi thành cùng một năng lượng ở các dạng khác, chủ yếu là năng lượng ánh sáng, năng lượng âm thanh và năng lượng nhiệt.
+
+Năng lượng nhiệt là năng lượng của các thành phần vi mô của vật chất, có thể bao gồm cả động năng và thế năng.
+Tổng năng lượng của một hệ thống có thể được phân chia và phân loại thành thế năng, động năng hoặc kết hợp cả hai theo nhiều cách khác nhau. Năng lượng động học được xác định bởi chuyển động của một vật thể - hoặc chuyển động tổng hợp của các thành phần của một vật thể - và năng lượng tiềm năng phản ánh tiềm năng của một vật thể có chuyển động, và nói chung là một chức năng của vị trí của một vật thể trong một trường hoặc có thể được lưu trữ trong chính nó.
+
+Mặc dù hai loại này là đủ để mô tả tất cả các dạng năng lượng, nhưng thường thuận tiện khi đề cập đến sự kết hợp cụ thể của thế năng và động năng như dạng riêng của nó. Ví dụ, năng lượng cơ học vĩ mô là tổng của động năng tịnh tiến và quay và năng lượng trong một hệ thống bỏ qua động năng do nhiệt độ và năng lượng hạt nhân kết hợp sử dụng thế năng từ lực hạt nhân và lực yếu), trong số những lực khác.
+
+Lịch sử
+
+Thomas Young, người đầu tiên sử dụng thuật ngữ "năng lượng" theo nghĩa hiện đại.
+Từ tiếng Anh energy từ từ tiếng Hy Lạp cổ: ἐνέργεια, đã Latinh hoá: energeia, n.đ. 'activity, operation',[1] có thể xuất hiện lần đầu tiên trong tác phẩm của Aristotle vào thế kỷ thứ 4 trước Công nguyên. Trái ngược với định nghĩa hiện đại, energeia là một khái niệm triết học định tính, nghĩa rộng để bao gồm các ý tưởng như hạnh phúc và niềm vui.
+
+Vào cuối thế kỷ 17, Gottfried Leibniz đã đề xuất ý tưởng về tiếng Latinh: vis viva hoặc lực sống, được định nghĩa là tích của khối lượng của một vật và vận tốc của nó bình phương; ông tin rằng tổng số viva đã được bảo tồn. Để giải thích cho sự chậm lại do ma sát, Leibniz đưa ra giả thuyết rằng năng lượng nhiệt bao gồm chuyển động ngẫu nhiên của các bộ phận cấu thành của vật chất, mặc dù nó sẽ kéo dài hơn một thế kỷ cho đến khi điều này thường được chấp nhận. Sự tương tự hiện đại của tính chất này, động năng, khác với vis viva chỉ là một tích của hai biến số.
+
+Năm 1807, Thomas Young có thể là người đầu tiên sử dụng thuật ngữ "năng lượng" thay vì vis viva, theo nghĩa hiện đại của nó.[2] Gustave-Gaspard Coriolis đã mô tả " động năng " vào năm 1829 theo nghĩa hiện đại của nó, và vào năm 1853, William Rankine đã đặt ra thuật ngữ " năng lượng tiềm năng ". Định luật bảo toàn năng lượng cũng được đưa ra lần đầu tiên vào đầu thế kỷ 19, và áp dụng cho bất kỳ hệ cô lập nào. Người ta đã tranh luận trong một số năm, liệu nhiệt là một chất vật lý, được gọi là nhiệt lượng, hay chỉ đơn thuần là một đại lượng vật lý, chẳng hạn như động lượng. Năm 1845, James Prescott Joule đã phát hiện ra mối liên hệ giữa công việc cơ khí và sự sinh nhiệt.
+
+Những phát triển này đã dẫn đến lý thuyết bảo tồn năng lượng, được chính thức hóa phần lớn bởi William Thomson (Lord Kelvin) là lĩnh vực nhiệt động lực học. Nhiệt động lực học đã hỗ trợ sự phát triển nhanh chóng các giải thích về các quá trình hóa học của Rudolf Clausius, Josiah Willard Gibbs và Walther Nernst. Nó cũng dẫn đến một công thức toán học về khái niệm entropy của Clausius và đưa ra các định luật về năng lượng bức xạ của Jožef Stefan. Theo định lý của Noether, việc bảo tồn năng lượng là hệ quả của thực tế là các định luật vật lý không thay đổi theo thời gian.[3] Do đó, kể từ năm 1918, các nhà lý thuyết đã hiểu rằng định luật bảo toàn năng lượng là hệ quả toán học trực tiếp của tính đối xứng tịnh tiến của đại lượng liên hợp với năng lượng, cụ thể là thời gian.
+
+Đơn vị đo lường
+
+Thiết bị của Joule để đo tương đương cơ học của nhiệt. Một trọng lượng giảm dần gắn liền với một chuỗi làm cho một mái chèo chìm trong nước để xoay.
+Năm 1843, Joule độc lập phát hiện ra sự tương đương cơ học trong một loạt các thí nghiệm. Thí nghiệm nổi tiếng nhất trong số chúng đã sử dụng "máy Joule": trọng lượng giảm dần, được gắn vào một chuỗi, gây ra sự quay của một mái chèo ngâm trong nước, thực tế cách nhiệt từ truyền nhiệt. Nó cho thấy rằng năng lượng hấp dẫn bị mất bởi trọng lượng giảm dần bằng với năng lượng bên trong mà nước thu được thông qua ma sát với mái chèo.
+
+Trong Hệ đo lường quốc tế (SI), đơn vị năng lượng là joule, được đặt theo tên của James Prescott Joule. Nó là một đơn vị dẫn xuất. Nó tương đương với năng lượng tiêu hao (hoặc công hoàn thành) khi tác dụng một lực của một newton thông qua khoảng cách một mét. Tuy nhiên, năng lượng cũng được biểu thị ở nhiều đơn vị khác không phải là một phần của SI, chẳng hạn như erg, calo, Đơn vị Nhiệt Anh, kilowatt-giờ và kilocalories, đòi hỏi hệ số chuyển đổi khi được biểu thị bằng đơn vị SI.
+
+Đơn vị SI của tốc độ năng lượng (năng lượng trên một đơn vị thời gian) là watt, là một joule mỗi giây. Do đó, một joule là một watt-giây và 3600 joule bằng một watt-giờ. Đơn vị năng lượng CGS là erg và đơn vị thông thường của Anh và Hoa Kỳ là feet-pound. Đơn vị năng lượng khác như Electronvolt, calo thức ăn hoặc nhiệt động lực học kcal (dựa trên sự thay đổi nhiệt độ của nước trong một quá trình làm nóng), và BTU được sử dụng trong lĩnh vực cụ thể của khoa học và thương mại.
+
+Sử dụng trong khoa học
+Cơ học cổ điển
+Trong cơ học cổ điển, năng lượng là một tính chất hữu ích về mặt khái niệm và toán học, vì nó là một đại lượng được bảo toàn. Một số công thức của cơ học đã được phát triển sử dụng năng lượng như một khái niệm cốt lõi.
+
+Công, một chức năng của năng lượng, là lực nhân khoảng cách.
+
+W
+=
+∫
+C
+F
+⋅
+d
+s
+{\displaystyle W=\int _{C}\mathbf {F} \cdot \mathrm {d} \mathbf {s} }
+
+Điều này nói rằng công (
+W
+{\displaystyle W}) bằng tích phân đường thẳng của lực F dọc theo đường dẫn C; để biết chi tiết xem bài viết công cơ học. Công và do đó năng lượng phụ thuộc vào hệ quy chiếu. Ví dụ, hãy xem xét một quả bóng bị gậy đánh. Trong hệ quy chiếu trung tâm, gậy không sinh công trên quả bóng. Nhưng, trong khung tham chiếu của người vung gậy, công đáng kể được gậy thực hiện trên quả bóng.
+
+Tổng năng lượng của một hệ thống đôi khi được gọi là Hamilton, theo tên của William Rowan Hamilton. Các phương trình cổ điển của chuyển động có thể được viết theo thuật ngữ Hamilton, ngay cả đối với các hệ thống rất phức tạp hoặc trừu tượng. Các phương trình cổ điển này có các chất tương tự trực tiếp đáng chú ý trong cơ học lượng tử phi tương đối.[4]
+
+Một khái niệm khác liên quan đến năng lượng được gọi là Lagrangian, theo tên của Joseph-Louis Lagrange. Chủ nghĩa hình thức này là cơ bản như Hamilton, và cả hai có thể được sử dụng để rút ra các phương trình chuyển động hoặc có nguồn gốc từ chúng. Nó được phát minh trong bối cảnh cơ học cổ điển, nhưng nói chung là hữu ích trong vật lý hiện đại. Lagrange được định nghĩa là động năng trừ đi thế năng. Thông thường, chủ nghĩa hình thức Lagrange thuận tiện hơn về mặt toán học so với Hamilton cho các hệ thống không bảo thủ (như các hệ thống có ma sát).
+
+Định lý Noether (1918) nói rằng bất kỳ sự đối xứng khác biệt nào về hành động của một hệ thống vật lý đều có luật bảo tồn tương ứng. Định lý của Noether đã trở thành một công cụ cơ bản của vật lý lý thuyết hiện đại và tính toán của các biến thể. Một khái quát về các công thức tinh dịch trên các hằng số chuyển động trong cơ học Lagrangian và Hamilton (1788 và 1833, tương ứng), nó không áp dụng cho các hệ thống không thể được mô hình hóa bằng Lagrangian; ví dụ, các hệ thống tiêu tan với các đối xứng liên tục không cần phải có luật bảo tồn tương ứng.
+
+Hóa học
+Trong bối cảnh hóa học, năng lượng là một thuộc tính của một chất là kết quả của cấu trúc nguyên tử, phân tử hoặc tổng hợp của nó. Vì một sự biến đổi hóa học đi kèm với một sự thay đổi trong một hoặc nhiều loại cấu trúc này, nó luôn luôn đi kèm với sự tăng hoặc giảm năng lượng của các chất liên quan. Một số năng lượng được truyền giữa môi trường xung quanh và các chất phản ứng của phản ứng dưới dạng nhiệt hoặc ánh sáng; do đó các sản phẩm của một phản ứng có thể có nhiều hoặc ít năng lượng hơn các chất phản ứng. Một phản ứng được cho là tỏa nhiệt hoặc ngoại sinh nếu trạng thái cuối cùng ở thang năng lượng thấp hơn trạng thái ban đầu; trong trường hợp phản ứng nhiệt nội thì tình huống ngược lại. Phản ứng hóa học hầu như không thể xảy ra trừ khi các chất phản ứng vượt qua hàng rào năng lượng được gọi là năng lượng kích hoạt. Tốc độ của phản ứng hóa học (ở nhiệt độ đã cho   T) liên quan đến năng lượng kích hoạt   E bởi yếu tố dân số của Boltzmann   e - E / kT  – đó là xác suất phân tử có năng lượng lớn hơn hoặc bằng   E ở nhiệt độ đã cho   T. Sự phụ thuộc theo cấp số nhân của tốc độ phản ứng vào nhiệt độ được gọi là phương trình Arrhenius. Năng lượng kích hoạt cần thiết cho một phản ứng hóa học có thể được cung cấp dưới dạng năng lượng nhiệt.
+
+Sinh học
+
+Tổng quan cơ bản về năng lượng và cuộc sống của con người.
+Trong sinh học, năng lượng là một thuộc tính của tất cả các hệ thống sinh học từ sinh quyển đến sinh vật nhỏ nhất. Trong một sinh vật, nó chịu trách nhiệm cho sự tăng trưởng và phát triển của một tế bào sinh học hoặc một cơ quan của một sinh vật. Năng lượng được sử dụng trong hô hấp hầu hết được lưu trữ trong oxy phân tử [5] và có thể được mở khóa bằng các phản ứng với các phân tử của các chất như carbohydrate (bao gồm cả đường), lipid và protein được lưu trữ bởi các tế bào. Về mặt con người, tương đương con người (He) (Chuyển đổi năng lượng của con người) chỉ ra, đối với một lượng chi tiêu năng lượng nhất định, lượng năng lượng tương đối cần thiết cho quá trình trao đổi chất của con người, giả sử chi tiêu năng lượng trung bình của con người là 12.500   kJ mỗi ngày và tốc độ trao đổi chất cơ bản là 80 watt. Ví dụ, nếu cơ thể chúng ta chạy (trung bình) ở mức 80 watt, thì một bóng đèn chạy ở 100 watt đang chạy ở mức 1,25 tương đương con người (100 ÷ 80) tức là 1,25 He. Đối với một nhiệm vụ khó khăn chỉ trong vài giây, một người có thể đưa ra hàng ngàn watt, gấp nhiều lần 746 watt trong một mã lực chính thức. Đối với các nhiệm vụ kéo dài vài phút, một người phù hợp có thể tạo ra khoảng 1.000 watt. Đối với một hoạt động phải được duy trì trong một giờ, sản lượng giảm xuống khoảng 300; đối với một hoạt động được duy trì cả ngày, 150 watt là khoảng tối đa.[6] Tương đương con người hỗ trợ sự hiểu biết về dòng năng lượng trong các hệ thống vật lý và sinh học bằng cách biểu thị các đơn vị năng lượng theo thuật ngữ của con người: nó cung cấp "cảm giác" cho việc sử dụng một lượng năng lượng nhất định.[7]
+
+Năng lượng bức xạ của ánh sáng mặt trời cũng được thực vật thu giữ dưới dạng năng lượng hóa học trong quang hợp, khi carbon dioxide và nước (hai hợp chất năng lượng thấp) được chuyển đổi thành carbohydrate, lipid và protein và các hợp chất năng lượng cao như oxy [5] và ATP. Carbonhydrat, lipid và protein có thể giải phóng năng lượng oxy, được sử dụng bởi các sinh vật sống như một chất nhận điện tử. Sự giải phóng năng lượng được lưu trữ trong quá trình quang hợp vì nhiệt hoặc ánh sáng có thể được kích hoạt đột ngột bởi một tia lửa, trong một đám cháy rừng, hoặc nó có thể được cung cấp chậm hơn cho quá trình trao đổi chất của động vật hoặc con người, khi các phân tử hữu cơ được hấp thụ và quá trình dị hóa được kích hoạt bởi enzyme hoạt động.
+
+Bất kỳ sinh vật sống nào cũng dựa vào một nguồn năng lượng bên ngoài - năng lượng bức xạ từ Mặt trời trong trường hợp thực vật xanh, năng lượng hóa học ở dạng nào đó trong trường hợp động vật - để có thể phát triển và sinh sản. 1500 15002000 hàng ngày   Calo (6 Tiếng8   MJ) được khuyến nghị cho một người trưởng thành được sử dụng như một sự kết hợp của các phân tử oxy và thực phẩm, sau này chủ yếu là carbohydrate và chất béo, trong đó glucose (C 6 H 12 O 6) và stearin (C 57 H 110 O 6) là những ví dụ thuận tiện. Các phân tử thực phẩm bị oxy hóa thành carbon dioxide và nước trong ty thể
+
+C
+6
+H
+12
+O
+6
++
+6
+O
+2
+⟶
+6
+CO
+2
++
+6
+H
+2
+O
+{\displaystyle {\mathrm {C} {\vphantom {A}}_{\smash[{t}]{6}}\mathrm {H} {\vphantom {A}}_{\smash[{t}]{12}}\mathrm {O} {\vphantom {A}}_{\smash[{t}]{6}}{}+{}6\,\mathrm {O} {\vphantom {A}}_{\smash[{t}]{2}}{}\mathrel {\longrightarrow } {}6\,\mathrm {CO} {\vphantom {A}}_{\smash[{t}]{2}}{}+{}6\,\mathrm {H} {\vphantom {A}}_{\smash[{t}]{2}}\mathrm {O} }}
+
+C
+57
+H
+110
+O
+6
++
+81
+⋅
+5
+O
+2
+⟶
+57
+CO
+2
++
+55
+H
+2
+O
+{\displaystyle {\mathrm {C} {\vphantom {A}}_{\smash[{t}]{57}}\mathrm {H} {\vphantom {A}}_{\smash[{t}]{110}}\mathrm {O} {\vphantom {A}}_{\smash[{t}]{6}}{}+{}81.5\,\mathrm {O} {\vphantom {A}}_{\smash[{t}]{2}}{}\mathrel {\longrightarrow } {}57\,\mathrm {CO} {\vphantom {A}}_{\smash[{t}]{2}}{}+{}55\,\mathrm {H} {\vphantom {A}}_{\smash[{t}]{2}}\mathrm {O} }}
+
+và một số năng lượng được sử dụng để chuyển đổi ADP thành ATP.
+
+ADP + HPO42− → ATP + H2O
+
+Phần còn lại của năng lượng hóa học trong O 2 [8] và carbohydrate hoặc chất béo được chuyển thành nhiệt: ATP được sử dụng như một loại "tiền tệ năng lượng", và một số năng lượng hóa học mà nó chứa được sử dụng cho chuyển hóa khác khi ATP phản ứng với các nhóm OH và cuối cùng phân tách thành ADP và phosphat (ở mỗi giai đoạn của quá trình trao đổi chất, một số năng lượng hóa học được chuyển thành nhiệt). Chỉ một phần rất nhỏ của năng lượng hóa học ban đầu được sử dụng cho công việc: [note 2]
+
+đạt được động năng của một vận động viên chạy nước rút trong suốt cuộc đua 100m: 4 kJ
+đạt được năng lượng hấp dẫn của 150   kg trọng lượng nâng qua 2 mét: 3 kJ
+Lượng thức ăn hàng ngày của một người trưởng thành bình thường: 6 MJ
+Dường như các sinh vật sống hoạt động kém hiệu quả (theo nghĩa vật lý) trong việc sử dụng năng lượng mà chúng nhận được (năng lượng hóa học hoặc năng lượng bức xạ), và sự thật là hầu hết các máy móc thực sự có độ hiệu quả cao hơn. Trong các sinh vật đang phát triển, năng lượng được chuyển đổi thành nhiệt phục vụ mục đích sống còn, vì nó cho phép mô sinh vật có trật tự cao đối với các phân tử mà nó được tạo ra. Định luật thứ hai của nhiệt động lực học nói rằng năng lượng (và vật chất) có xu hướng lan tỏa đều hơn trong vũ trụ: tập trung năng lượng (hoặc vật chất) ở một nơi cụ thể, cần phải truyền ra một lượng năng lượng lớn hơn (dưới dạng nhiệt) trên phần còn lại của vũ trụ ("môi trường xung quanh").[note 3] Các sinh vật đơn giản hơn có thể đạt được hiệu quả năng lượng cao hơn các sinh vật phức tạp hơn, nhưng các sinh vật phức tạp có thể chiếm các hốc sinh thái không có sẵn cho các sinh vật khác đơn giản hơn. Sự chuyển đổi một phần năng lượng hóa học thành nhiệt ở mỗi bước trong quá trình trao đổi chất là lý do vật lý đằng sau kim tự tháp sinh khối quan sát được trong sinh thái học: chỉ thực hiện bước đầu tiên trong chuỗi thức ăn, theo ước tính 124,7   PG / a của carbon được cố định bằng quang hợp, 64.3 PG/a (52%) được sử dụng cho quá trình chuyển hóa của cây xanh,[9] tức là được chuyển đổi thành carbon dioxide và nhiệt.
+
+Khoa học Trái Đất
+Bài chi tiết: Khoa học Trái Đất
+Trong địa chất, trôi dạt lục địa, dãy núi, núi lửa và động đất là những hiện tượng có thể được giải thích dưới dạng biến đổi năng lượng trong lòng đất,[10] trong khi các hiện tượng khí tượng như gió, mưa, mưa đá, tuyết, sét, lốc xoáy và bão là tất cả là kết quả của sự biến đổi năng lượng do năng lượng mặt trời mang lại trên bầu khí quyển của hành tinh Trái Đất.
+
+Ánh sáng Mặt Trời có thể được lưu trữ dưới dạng thế năng hấp dẫn sau khi nó chiếu đến Trái Đất, vì (ví dụ) nước bốc hơi từ các đại dương và được lắng đọng trên các ngọn núi (tại đó sau khi được giải phóng tại một đập thủy điện, nó có thể được sử dụng để chạy tua-bin hoặc máy phát điện để sản xuất điện lực). Ánh sáng Mặt Trời cũng thúc đẩy nhiều hiện tượng thời tiết, lưu lại những hiện tượng được tạo ra bởi các sự kiện núi lửa. Một ví dụ về sự kiện thời tiết qua trung gian mặt trời là một cơn bão, xảy ra khi những vùng rộng lớn không ổn định của đại dương ấm áp, nóng lên trong nhiều tháng, từ bỏ một phần năng lượng nhiệt của chúng đột ngột để cung cấp năng lượng cho một vài ngày chuyển động không khí dữ dội.
+
+Trong một quá trình chậm hơn, sự phân rã phóng xạ của các nguyên tử trong lõi Trái Đất giải phóng nhiệt. Năng lượng nhiệt này tích trữ trong kiến tạo địa tầng và có thể nâng cả núi, thông qua kiến tạo sơn. Việc nâng chậm này đại diện cho một loại dự trữ năng lượng hấp dẫn của năng lượng nhiệt, sau này có thể được giải phóng thành động năng hoạt động trong các vụ lở đất, sau một sự kiện kích hoạt. Động đất cũng giải phóng năng lượng tiềm tàng đàn hồi được lưu trữ trong đá, kho lưu trữ năng lượng này được tạo ra cuối cùng từ cùng một nguồn nhiệt phóng xạ. Do đó, theo cách hiểu hiện tại, các sự kiện quen thuộc như lở đất và động đất giải phóng năng lượng đã được lưu trữ dưới dạng thế năng trong trường hấp dẫn của Trái Đất hoặc biến dạng đàn hồi (thế năng cơ học) trong đá. Trước đó, chúng đại diện cho sự giải phóng năng lượng đã được lưu trữ trong các nguyên tử nặng kể từ khi các ngôi sao siêu tân tinh bị phá hủy từ lâu tạo ra các nguyên tử này.
+
+Vũ trụ học
+Bài chi tiết: Vũ trụ học vật lý
+Trong vũ trụ học và thiên văn học, các hiện tượng của các ngôi sao, tân tinh, siêu tân tinh, quasar và vụ nổ tia gamma là sự biến đổi năng lượng năng lượng cao nhất của vũ trụ. Tất cả các hiện tượng sao (bao gồm cả hoạt động của Mặt Trời) được thúc đẩy bởi các loại biến đổi năng lượng khác nhau. Năng lượng trong các biến đổi như vậy là từ sự sụp đổ lực hấp dẫn của vật chất (thường là hydro phân tử) vào các loại vật thể thiên văn khác nhau (sao, lỗ đen, v.v.) hoặc từ phản ứng tổng hợp hạt nhân (của các nguyên tố nhẹ hơn, chủ yếu là hydro). Phản ứng tổng hợp hạt nhân của hydro trong Mặt Trời cũng giải phóng một kho năng lượng tiềm năng khác được tạo ra vào thời điểm xảy ra Vụ nổ lớn. Vào thời điểm đó, theo lý thuyết, không gian mở rộng và vũ trụ nguội quá nhanh để hydro hoàn toàn hợp nhất thành các nguyên tố nặng hơn. Điều này có nghĩa là hydro đại diện cho một kho năng lượng tiềm năng có thể được giải phóng bằng phản ứng tổng hợp. Quá trình nhiệt hạch như vậy được kích hoạt bởi nhiệt và áp suất được tạo ra từ sự sụp đổ lực hấp dẫn của các đám mây hydro khi chúng tạo ra các ngôi sao và một số năng lượng nhiệt hạch sau đó được chuyển thành ánh sáng Mặt Trời.
+
+Cơ học lượng tử
+Trong cơ học lượng tử, năng lượng được định nghĩa theo thuật ngữ của toán tử năng lượng như là một đạo hàm thời gian của hàm sóng. Phương trình Schrödinger tương đương toán tử năng lượng với toàn bộ năng lượng của hạt hoặc hệ. Kết quả của nó có thể được coi là một định nghĩa về đo lường năng lượng trong cơ học lượng tử. Phương trình Schrödinger mô tả sự phụ thuộc không gian và thời gian của hàm sóng thay đổi chậm (không tương đối) của các hệ lượng tử. Giải pháp của phương trình này cho một hệ thống ràng buộc là rời rạc (một tập hợp các trạng thái được phép, mỗi trạng thái được đặc trưng bởi một mức năng lượng) dẫn đến khái niệm lượng tử. Trong giải pháp của phương trình Schrödinger cho bất kỳ bộ dao động (máy rung) và cho sóng điện từ trong chân không, các trạng thái năng lượng thu được có liên quan đến tần số theo mối quan hệ của Planck: 
+E
+=
+h
+ν
+{\displaystyle E=h\nu } (Ở đây 
+h
+{\displaystyle h} là hằng số của Planck và 
+ν
+{\displaystyle \nu } tần số). Trong trường hợp sóng điện từ, các trạng thái năng lượng này được gọi là lượng tử ánh sáng hoặc photon.
+
+Thuyết tương đối
+Khi tính toán động năng (hoạt động để tăng tốc một vật thể lớn từ tốc độ 0 đến tốc độ hữu hạn) một cách tương đối - sử dụng các phép biến đổi Lorentz thay vì cơ học Newton - Einstein đã phát hiện ra một sản phẩm phụ bất ngờ của các phép tính này là một thuật ngữ năng lượng không biến mất ở mức 0 tốc độ. Ông gọi đó là năng lượng nghỉ: năng lượng mà mọi vật thể lớn sở hữu ngay cả khi đứng yên. Lượng năng lượng tỷ lệ thuận với khối lượng của cơ thể:
+
+E
+0
+=
+m
+c
+2
+{\displaystyle E_{0}=mc^{2}}
+
+trong đó
+
+m là khối lượng của vật,
+c là tốc độ ánh sáng trong chân không,
+E
+0
+{\displaystyle E_{0}} là năng lượng nghỉ.
+Ví dụ, hãy xem xét sự hủy diệt electron - positron, trong đó năng lượng còn lại của hai hạt riêng lẻ (tương đương với họ khối lượng nghỉ) được chuyển đổi sang năng lượng bức xạ của photon được tạo ra trong quá trình này. Trong hệ thống này, vật chất và phản vật chất (electron và positron) bị phá hủy và thay đổi thành phi vật chất (các photon). Tuy nhiên, tổng khối lượng và tổng năng lượng không thay đổi trong quá trình tương tác này. Các photon đều không có khối lượng nghỉ nhưng dù sao cũng có năng lượng bức xạ biểu hiện cùng quán tính giống như hai hạt ban đầu. Đây là một quá trình thuận nghịch - quá trình nghịch đảo được gọi là tạo cặp - trong đó khối lượng hạt còn lại được tạo ra từ năng lượng bức xạ của hai (hoặc nhiều) photon hủy diệt.
+
+Trong thuyết tương đối rộng, tenxơ ứng suất năng lượng dùng làm thuật ngữ nguồn cho trường hấp dẫn, tương tự như cách khối lượng đóng vai trò là thuật ngữ nguồn trong phép tính xấp xỉ Newton không tương đối.[11]
+
+Năng lượng và khối lượng là biểu hiện của một và cùng một thuộc tính vật lý cơ bản của một hệ thống. Đặc tính này chịu trách nhiệm về quán tính và cường độ tương tác hấp dẫn của hệ thống ("biểu hiện khối lượng") và cũng chịu trách nhiệm về khả năng tiềm tàng của hệ thống để thực hiện công việc hoặc sưởi ấm ("biểu hiện năng lượng"), chịu các hạn chế của quy luật vật lý khác.
+
+Trong vật lý cổ điển, năng lượng là một đại lượng vô hướng, liên hợp chính tắc với thời gian. Trong thuyết tương đối đặc biệt, năng lượng cũng là một vô hướng (mặc dù không phải là vô hướng Lorentz mà là thành phần thời gian của động lực học 4 động lực).[11] Nói cách khác, năng lượng là bất biến đối với các phép quay của không gian, nhưng không phải là bất biến đối với các phép quay của không-thời gian (= boosts).

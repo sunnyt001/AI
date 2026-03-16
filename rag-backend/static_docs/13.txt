@@ -1,0 +1,20 @@
+# HƯỚNG DẪN VIẾT EMAIL CÔNG SỞ VÀ HỌC THUẬT
+
+## 1. CẤU TRÚC MỘT EMAIL CHUẨN (5 PHẦN)
+- Tiêu đề (Subject): Ngắn gọn, chứa từ khóa chính. Ví dụ: [Họ tên] - Xin nghỉ học - Lớp 69IT3.
+- Lời chào (Salutation): "Kính gửi Thầy/Cô...", "Dear Mr/Ms...".
+- Nội dung chính: Đi thẳng vào vấn đề, trình bày rõ ràng, dùng gạch đầu dòng nếu có nhiều ý.
+- Lời kết & Cảm ơn: "Trân trọng,", "Sincerely,".
+- Chữ ký (Signature): Họ tên, mã số sinh viên, số điện thoại liên hệ.
+
+## 2. MẪU EMAIL XIN GIA HẠN ĐỒ ÁN
+"Kính gửi Thầy/Cô [Tên giảng viên],
+Em tên là [Tên], sinh viên lớp [Tên lớp]. 
+Em viết email này xin phép Thầy/Cô cho em được gia hạn nộp đồ án môn [Tên môn] thêm 2 ngày. Lý do là em gặp sự cố về thiết bị máy tính (phải cài lại Win).
+Em cam kết sẽ hoàn thành và nộp bài đúng hạn mới. Rất mong nhận được sự thông cảm từ Thầy/Cô.
+Em xin chân thành cảm ơn."
+
+## 3. CÁC LỖI CẦN TRÁNH
+- Viết email không có tiêu đề.
+- Sử dụng ngôn ngữ teen, viết tắt, không dấu.
+- Gửi file đính kèm quá nặng mà không nén hoặc không phân quyền trên Google Drive.

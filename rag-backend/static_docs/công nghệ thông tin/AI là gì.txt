@@ -1,0 +1,380 @@
+
+
+WikipediaBách khoa toàn thư mở
+
+Quyên góp
+Tạo tài khoản
+Đăng nhập
+Biểu quyết nội dung chọn lọc Bài viết chọn lọc: (I Just) Died in Your Arms • Danh sách chọn lọc: Danh sách bài hát thu âm bởi Olivia Rodrigo • Rút sao: Nghị định 168/2024/NĐ–CP • Napoli (lần 2) • Aikido • Lịch sử Trái Đất • Rút sao danh sách chọn lọc: Bảng mã IOC
+Biểu quyết nội dung tốt Bài viết tốt: The Truman Show • Purple Haze • HMS Dainty (H53)
+Đóng (mở lại bằng cách xóa cookie dismissASN1 trong trình duyệt)
+
+Trí tuệ nhân tạo
+
+Bài viết
+Thảo luận
+Đọc
+Sửa đổi
+Sửa mã nguồn
+Xem lịch sử
+
+Công cụ
+Đây là một bài viết cơ bản. Nhấn vào đây để biết thêm thông tin.
+Một phần của loạt bài về
+Trí tuệ nhân tạo (AI)
+
+Mục đích
+Hướng tiếp cận
+Ứng dụng
+Triết học
+Lịch sử
+Tranh cãi
+Thuật ngữ
+xts
+Trí tuệ nhân tạo (tiếng Anh: Artificial intelligence, viết tắt: AI) là khả năng của các hệ thống máy tính thực hiện các nhiệm vụ liên quan đến trí thông minh của con người, như học tập, suy luận, giải quyết vấn đề, nhận thức và đưa ra quyết định. Đây là một lĩnh vực nghiên cứu thuộc khoa học máy tính tập trung phát triển và nghiên cứu các phương pháp và phần mềm giúp máy móc có thể nhận thức môi trường xung quanh, cũng như sử dụng học tập và trí tuệ để thực hiện hành động nhằm tối đa hóa khả năng đạt được các mục tiêu đã định.[1]
+
+Các ứng dụng nổi bật của AI bao gồm công cụ tìm kiếm web tiên tiến (ví dụ: Google Tìm kiếm); hệ thống đề xuất (được sử dụng bởi YouTube, Amazon và Netflix); trợ lý ảo (ví dụ: Trợ lý Google, Siri và Alexa); xe tự lái (ví dụ: Waymo); công cụ sáng tạo và nội dung tạo sinh (ví dụ: mô hình ngôn ngữ và nghệ thuật AI); cùng khả năng chơi và phân tích vượt trội hơn con người trong các trò chơi chiến lược (ví dụ: cờ vua và cờ vây). Tuy nhiên, nhiều ứng dụng AI không được nhận diện là AI: "Rất nhiều công nghệ AI đỉnh cao đã được tích hợp vào các ứng dụng thông thường, thường không còn được gọi là AI vì một khi thứ gì đó trở nên đủ hữu ích và phổ biến, nó không còn được dán nhãn AI nữa."[2][3]
+
+Nhiều phân ngành trong nghiên cứu trí tuệ nhân tạo tập trung vào các mục tiêu cụ thể và sử dụng những công cụ đặc thù. Các mục tiêu truyền thống của nghiên cứu AI bao gồm học tập, lập luận, biểu diễn tri thức, lập kế hoạch, xử lý ngôn ngữ tự nhiên, nhận thức và hỗ trợ robot.[a] Để đạt được những mục tiêu đó, các nhà nghiên cứu AI đã ứng dụng và tích hợp đa dạng kỹ thuật, như tìm kiếm và tối ưu hóa toán học, logic hình thức, mạng nơ-ron nhân tạo, cùng các phương pháp dựa trên thống kê, nghiên cứu hoạt động và kinh tế học.[b] Ngoài ra, AI còn kế thừa kiến thức từ tâm lý học, ngôn ngữ học, triết học, khoa học thần kinh và nhiều lĩnh vực khác.[4] Một số công ty như OpenAI, Google DeepMind và Meta, đang đặt mục tiêu phát triển trí tuệ nhân tạo tổng quát (AGI)—một dạng AI có khả năng thực hiện hầu hết mọi nhiệm vụ nhận thức ở mức độ ngang bằng hoặc vượt trội so với con người.[5]
+
+Trí tuệ nhân tạo ban đầu được thành lập như một ngành học thuật vào năm 1956,[6] và lĩnh vực này đã trải qua nhiều chu kỳ lạc quan trong suốt lịch sử,[7][8] xen kẽ với nó là những giai đoạn thất vọng và mất nguồn tài trợ, được gọi là mùa đông AI.[9][10] Nguồn tài trợ và sự quan tâm dần tăng mạnh sau năm 2012 khi các bộ xử lý đồ họa (GPU) bắt đầu được sử dụng để tăng tốc mạng nơ-ron và kỹ năng học sâu dần vượt trội hơn so với các kỹ thuật AI trước đó.[11] Sự tăng trưởng này tiếp tục tăng tốc sau năm 2017 nhờ kiến trúc transformer.[12] Trong những năm 2020, sự xuất hiện của trí tuệ nhân tạo tạo sinh tiên tiến đã trở nên nổi tiếng, đánh dấu giai đoạn tiến bộ nhanh chóng của lĩnh vực này với tên gọi là cơn sốt AI. Trí tuệ nhân tạo tạo sinh với khả năng tạo ra cũng như chỉnh sửa nội dung đã dẫn đến nhiều hậu quả ngoài ý muốn ở hiện tại. Những lo ngại về đạo đức cũng được nhắc đến về ảnh hưởng lâu dài của AI và những rủi ro tồn vong tiềm tàng, từ đó thúc đẩy các cuộc thảo luận về chính sách quản lý nhằm đảm bảo tính an toàn và lợi ích của công nghệ này.
+
+Mục đích
+Vấn đề tổng quát của việc mô phỏng (hay tạo ra) khả năng trí tuệ đã được chia thành các bài toán con. Những bài toán này bao gồm các đặc tính hoặc khả năng cụ thể mà các nhà nghiên cứu kỳ vọng về một hệ thống thông minh cần trình diện. Các đặc tính được mô tả dưới đây đã nhận được nhiều sự quan tâm nhất và bao quát được phạm vi nghiên cứu AI.[a]
+
+Suy luận và giải quyết vấn đề
+Các nhà nghiên cứu từ thời kỳ đầu đã phát triển những thuật toán mô phỏng quá trình suy luận từng bước mà con người sử dụng khi giải các câu đố hay thực hiện những suy diễn logic.[13] Đến cuối những năm 1980 và 1990, các phương pháp xử lý thông tin không chắc chắn hoặc không đầy đủ đã được phát triển bằng cách sử dụng các khái niệm từ lý thuyết xác suất và kinh tế học.[14]
+
+Nhiều thuật toán trong số này không đủ khả năng để giải quyết các bài toán suy luận quy mô lớn vì chúng gặp phải hiện tượng "bùng nổ tổ hợp": về cơ bản, các thuật toán sẽ trở nên chậm đi theo cấp số nhân khi bài toán được phát triển.[15] Ngay cả con người cũng hiếm khi sử dụng phương pháp suy diễn từng bước mà những nghiên cứu AI thời kỳ đầu có thể mô phỏng. Chúng ta giải quyết phần lớn vấn đề bằng những phán đoán trực giác nhanh chóng.[16] Việc đạt được khả năng suy luận chính xác và hiệu quả vẫn là một bài toán chưa có lời giải.
+
+Biểu diễn tri thức
+
+Một mô hình bản thể học thể hiện cách con người xây dựng và sắp xếp tri thức thông qua một hệ thống các khái niệm trong một lĩnh vực nhất định, cùng với mạng lưới quan hệ liên kết giữa các khái niệm đó.
+Biểu diễn tri thức và kỹ thuật xử lý tri thức[17] đóng vai trò then chốt trong việc trang bị cho các hệ thống AI khả năng trả lời câu hỏi một cách thông minh và suy luận về các hiện tượng trong thế giới thực. Những phương pháp biểu diễn tri thức mang tính hình thức này không chỉ được ứng dụng trong lập chỉ mục và truy xuất nội dung,[18] mà còn giữ vai trò quan trọng trong việc diễn giải bối cảnh,[19] hỗ trợ quyết định trong lĩnh vực y học lâm sàng,[20] khám phá tri thức từ cơ sở dữ liệu lớn, (tức là khai thác những suy luận có ý nghĩa và khả thi về mặt hành động),[21] cùng nhiều lĩnh vực chuyên sâu khác.[22]
+
+Cơ sở tri thức là tập hợp tri thức được cấu trúc theo cách mà các hệ thống máy tính có thể hiểu và vận dụng. Một bản thể học trong ngữ cảnh này là hệ thống các đối tượng, khái niệm, thuộc tính và mối quan hệ được xác định trong phạm vi một lĩnh vực tri thức cụ thể.[23] Để trở nên hữu ích, cơ sở tri thức cần có khả năng biểu diễn một cách rõ ràng và nhất quán các thực thể như đối tượng, thuộc tính, phân loại và mối quan hệ giữa các đối tượng;[24] đồng thời bao hàm cả các tình huống, sự kiện, trạng thái và yếu tố thời gian;[25] các mối quan hệ nhân quả;[26] tri thức bậc hai (tức là kiến thức về tri thức, những gì ta biết về hiểu biết của người khác);[27] và lý luận mặc định (tức những giả định được con người chấp nhận là đúng cho đến khi có bằng chứng bác bỏ, và vẫn được xem là đúng trong nhiều tình huống thay đổi);[28] Ngoài ra, cơ sở tri thức còn phải bao phủ được nhiều chiều cạnh khác nhau của tri thức, đáp ứng yêu cầu của các lĩnh vực chuyên sâu và ngữ cảnh ứng dụng đa dạng.
+
+Một trong những thách thức lớn nhất trong biểu diễn tri thức nằm ở độ rộng bao phủ của kiến thức thông thường (tập hợp khổng lồ các tri thức nguyên tử mà một người bình thường nắm giữ trong đời sống hằng ngày);[29] Không chỉ đồ sộ về số lượng, phần lớn loại tri thức này còn tồn tại dưới dạng phi biểu tượng (tức không được mã hóa rõ ràng thành các "sự kiện" hay "mệnh đề" mà con người có thể dễ dàng diễn đạt bằng ngôn ngữ tự nhiên).[16] Bên cạnh đó, quá trình thu thập và chuẩn hóa tri thức phục vụ cho các ứng dụng AI cũng đặt ra nhiều thách thức về cả quy mô, độ chính xác và tính phù hợp với ngữ cảnh ứng dụng cụ thể.[c]
+
+Lập kế hoạch và ra quyết định
+"Tác nhân" được hiểu là bất kỳ thực thể nào có khả năng nhận thức và thực hiện hành động trong thế giới. Một tác nhân lý trí là tác nhân sở hữu mục tiêu hoặc sở thích nhất định, và hành động nhằm hiện thực hóa những mục tiêu hoặc thỏa mãn sở thích đó.[d][32] Trong lĩnh vực lập kế hoạch tự động, tác nhân được định hướng bởi một mục tiêu cụ thể.[33] Ngược lại, trong bối cảnh ra quyết định tự động, tác nhân được cho là có những sở thích – tức là một số trạng huống mà nó mong muốn tham gia, và những trạng huống khác mà nó tìm cách tránh né. Để biểu thị mức độ ưa thích đối với từng trạng huống, tác nhân gán cho mỗi trạng huống một giá trị số, gọi là tiện ích. Khi đối mặt với các hành động khả thi, tác nhân có thể tính toán tiện ích kỳ vọng của từng hành động, tức là giá trị trung bình của tiện ích các kết quả có thể xảy ra, có xét đến xác suất tương ứng của mỗi kết quả. Dựa trên phép tính này, tác nhân sẽ lựa chọn hành động có tiện ích kỳ vọng cao nhất, nhằm tối ưu hóa mức độ thỏa mãn sở thích của mình.[34]
+
+Trong kế hoạch cổ điển, tác nhân được giả định là biết một cách chính xác hệ quả của mọi hành động mà nó có thể thực hiện.[35] Tuy nhiên, trong phần lớn các bài toán thực tế, tác nhân thường phải đối mặt với sự bất định: nó có thể không nắm rõ tình trạng hiện tại của môi trường (nghĩa là môi trường không xác định hoặc không thể quan sát đầy đủ), và cũng không chắc chắn về kết quả của mỗi hành động khả thi (tức môi trường không mang tính quyết định). Trong bối cảnh đó, tác nhân buộc phải lựa chọn hành động dựa trên các suy luận xác suất, đồng thời liên tục đánh giá lại tình hình sau mỗi hành động để xác định mức độ hiệu quả của hành động vừa thực hiện.[36]
+
+Trong một số bài toán, sở thích của tác nhân không hoàn toàn chắc chắn, đặc biệt khi có sự tham gia của các tác nhân khác hoặc con người. Những sở thích này có thể được rút trích thông qua học tập, chẳng hạn như học tăng cường ngược, hoặc tác nhân có thể chủ động tìm kiếm thông tin nhằm cải thiện hiểu biết của mình về sở thích nội tại.[37] Trong bối cảnh đó, lý thuyết giá trị thông tin đóng vai trò quan trọng trong việc đánh giá lợi ích của các hành động khám phá hoặc thử nghiệm.[38] Tuy nhiên, không gian hành động và trạng huống có thể xảy ra trong tương lai thường có quy mô và độ phức tạp cao, đến mức không thể xử lý một cách khả thi, buộc tác nhân phải đưa ra quyết định và đánh giá hiệu quả của hành động dưới điều kiện bất định về kết quả.
+
+Quá trình quyết định Markov bao gồm một mô hình chuyển trạng thái, mô tả xác suất mà một hành động cụ thể sẽ làm thay đổi trạng thái hệ thống theo một cách nhất định, cùng với một hàm phần thưởng dùng để xác định tiện ích tương ứng của mỗi trạng thái cũng như chi phí tương ứng của mỗi hành động. Một policy là một ánh xạ từ mỗi trạng thái có thể xảy ra đến một hành động mà tác nhân sẽ thực hiện trong trạng thái đó. Policy tối ưu có thể được tính toán một cách hệ thống (ví dụ, thông qua phép lặp policy), có thể được thiết lập bằng các kỹ thuật heuristic, hoặc có thể được học từ dữ liệu tương tác với môi trường.[39]
+
+Lý thuyết trò chơi nghiên cứu hành vi hợp lý của nhiều tác nhân tương tác lẫn nhau, và đóng vai trò nền tảng trong các hệ thống trí tuệ nhân tạo có nhiệm vụ ra quyết định trong môi trường có sự hiện diện của các tác nhân khác.[40]
+
+Học hỏi
+Học máy là lĩnh vực nghiên cứu tập trung vào việc xây dựng các chương trình có khả năng tự động cải thiện hiệu suất thực hiện một nhiệm vụ cụ thể thông qua kinh nghiệm.[41] Đây không phải là một ý tưởng mới xuất hiện trong thời đại hiện nay mà ngược lại, nó đã là một thành phần cốt lõi của AI ngay từ những bước đi đầu tiên của lĩnh vực này.[e]
+
+
+Trong học có giám sát, dữ liệu huấn luyện được gán nhãn với kết quả mong đợi, cho phép mô hình học từ các ví dụ cụ thể. Ngược lại, trong học không có giám sát, mô hình tự khám phá các mẫu hoặc cấu trúc tiềm ẩn trong dữ liệu không có nhãn.
+Máy học bao gồm nhiều hình thức tiếp cận khác nhau. Trong đó, học không giám sát hướng đến việc phân tích dòng dữ liệu chưa được gán nhãn nhằm nhận diện các quy luật tiềm ẩn và đưa ra suy luận mà không cần đến hướng dẫn trực tiếp.[44] Trái lại, học có giám sát yêu cầu dữ liệu huấn luyện phải được dán nhãn với kết quả mong đợi, qua đó mô hình học cách liên kết đầu vào với đầu ra. Phương pháp này bao gồm hai dạng tiêu biểu: phân loại, khi mục tiêu là xác định đầu vào thuộc nhóm nào; và hồi quy, khi nhiệm vụ là ước lượng một hàm số liên tục từ dữ liệu đầu vào.[45]
+
+Học tăng cường là phương pháp trong đó tác nhân học thông qua tương tác với môi trường, được thưởng khi hành động dẫn đến phản hồi tích cực và bị phạt khi kết quả không mong muốn, từ đó dần hình thành chiến lược lựa chọn hành vi tối ưu.[46] Học chuyển giao đề cập đến khả năng ứng dụng tri thức đã học từ một bài toán vào bối cảnh mới, góp phần nâng cao hiệu quả học tập trong môi trường biến đổi.[47] Trong khi đó, học sâu là một nhánh của học máy, sử dụng mạng nơ-ron nhân tạo lấy cảm hứng từ cấu trúc sinh học, cho phép xử lý dữ liệu đầu vào theo tầng lớp và có thể tích hợp với mọi hình thức học kể trên để gia tăng năng lực biểu đạt và khái quát hóa.[48]
+
+Lý thuyết học tập tính toán cung cấp khung phân tích hình thức để đánh giá người học, không chỉ dựa trên khả năng đạt được kết quả chính xác, mà còn xét đến các tiêu chí như độ phức tạp tính toán, độ phức tạp mẫu, tức lượng dữ liệu cần thiết để học hiệu quả, và những chuẩn mực tối ưu hóa khác phản ánh chi phí và hiệu năng trong quá trình học.[49]
+
+Xử lý ngôn ngữ tự nhiên
+Xử lý ngôn ngữ tự nhiên (NLP) là lĩnh vực giúp các chương trình máy tính có khả năng đọc hiểu, tạo lập và tương tác bằng ngôn ngữ của con người.[50] Một số ứng dụng tiêu biểu của NLP bao gồm nhận dạng và tổng hợp giọng nói, dịch máy, trích xuất và truy hồi thông tin, cũng như hệ thống trả lời câu hỏi.[51]
+
+Những công trình nghiên cứu ban đầu, vốn dựa trên ngữ pháp tạo sinh và mạng ngữ nghĩa do Noam Chomsky đề xuất, đã gặp nhiều hạn chế trong việc phân biệt nghĩa của từ[f] trừ khi bị giới hạn trong những phạm vi nhỏ được gọi là "thế giới vi mô" (một hệ quả của vấn đề thiếu hụt kiến thức thông thường).[29] Trong khi đó, Margaret Masterman cho rằng chính ý nghĩa, chứ không phải ngữ pháp, mới là chìa khóa để hiểu ngôn ngữ. Bà lập luận rằng từ điển đồng nghĩa, thay vì các từ điển chuyên ngành, nên đóng vai trò làm nền tảng cho cấu trúc của ngôn ngữ tính toán.
+
+Các kỹ thuật học sâu hiện đại trong xử lý ngôn ngữ tự nhiên bao gồm phương pháp nhúng từ, giúp biểu diễn từ ngữ dưới dạng các vectơ phản ánh đặc trưng ngữ nghĩa,[52] transformer (kiến trúc học sâu sử dụng cơ chế chú ý),[53] làm nền tảng cho nhiều mô hình tiên tiến; cùng với nhiều phương pháp bổ trợ khác.[54] Từ năm 2019, sự xuất hiện của các mô hình ngôn ngữ dựa trên kiến trúc transformer và được huấn luyện trước (thường được gọi là "GPT") đã cho phép tạo ra văn bản mạch lạc, có tính tự nhiên cao.[55][56] Đến năm 2023, các mô hình này đã đạt được những bước tiến vượt bậc, thể hiện năng lực ngang bằng con người trong nhiều lĩnh vực đánh giá tiêu chuẩn, bao gồm kỳ thi luật sư, bài kiểm tra SAT, GRE, cũng như nhiều ứng dụng thực tiễn khác.[57]
+
+Nhận thức
+Nhận thức máy là khả năng của hệ thống máy tính trong việc tiếp nhận và xử lý dữ liệu đầu vào từ các loại cảm biến khác nhau (như Camera AI on Edge - hay còn gọi là Camera tại biên, micro, tín hiệu không dây, lidar chủ động, sonar, radar và cảm biến xúc giác), từ đó suy luận và trích xuất thông tin về các đặc tính của môi trường xung quanh. Thị giác máy tính là lĩnh vực con, nghiên cứu và phát triển các phương pháp giúp máy tính có thể phân tích, hiểu và diễn giải dữ liệu đầu vào dưới dạng hình ảnh hoặc tín hiệu thị giác.[58]
+
+Lĩnh vực này bao quát nhiều hướng nghiên cứu và ứng dụng đa dạng, bao gồm nhận dạng giọng nói,[59] phân loại và nhận dạng hình ảnh,[60] nhận dạng khuôn mặt,[61] nhận dạng và theo dõi vật thể,[62] cùng với khả năng nhận thức trong hệ thống robot.[63]
+
+Trí tuệ xã hội
+
+Kismet, là một robot có hình dạng phần đầu, được chế tạo vào những năm 1990; đây là một cỗ máy có khả năng nhận biết và mô phỏng cảm xúc.[64]
+Tính toán cảm xúc là một lĩnh vực nghiên cứu tập trung vào việc phát triển các hệ thống có khả năng nhận biết, diễn giải, xử lý hoặc mô phỏng cảm xúc, tình cảm và tâm trạng của con người.[65] Một số trợ lý ảo ngày nay được lập trình để giao tiếp một cách tự nhiên hay thậm chí có thể đối đáp một cách dí dỏm, giúp chúng trở nên nhạy bén hơn với những biến đổi cảm xúc trong tương tác giữa con người, hoặc hỗ trợ việc tương tác giữa người và máy tính theo những cách linh hoạt hơn.
+
+Tuy nhiên, điều này đôi khi khiến những người dùng thiếu hiểu biết chuyên sâu hình thành nhận thức phi thực tế về mức độ thông minh thực sự của các tác nhân máy tính hiện nay.[66] Trong lĩnh vực tính toán cảm xúc, một số thành tựu đáng chú ý ở mức độ vừa phải bao gồm phân tích tình cảm dựa trên văn bản và, gần đây hơn, phân tích tình cảm đa phương thức. Ở hướng nghiên cứu sau, trí tuệ nhân tạo có thể phân loại và diễn giải các biểu hiện cảm xúc được thể hiện bởi đối tượng trong các đoạn video, chẳng hạn như cử chỉ, giọng nói hoặc nét mặt.[67]
+
+Trí tuệ tổng quát
+Một cỗ máy được trang bị trí tuệ nhân tạo tổng quát sẽ có khả năng giải quyết nhiều loại vấn đề khác nhau với mức độ bao quát và tính linh hoạt tương tự như trí thông minh của con người.[68]
+
+Kỹ thuật
+Nghiên cứu trí tuệ nhân tạo sử dụng một phổ rộng các kỹ thuật tính toán để đáp ứng những mục tiêu trên.[g]
+
+Lịch sử
+Bài chi tiết: Lịch sử ngành trí tuệ nhân tạo
+Tư tưởng có khả năng sinh vật nhân tạo xuất hiện như các thiết bị kể chuyện thời cổ đại,[69] và đã được phổ biến trong tiểu thuyết, như trong Frankenstein của Mary Shelley hay RUR (máy toàn năng Rossum) của Karel Capek. AI in early science fiction. </ref> Những nhân vật này và số phận của họ nêu ra nhiều vấn đề tương tự hiện đang được thảo luận trong đạo đức của trí tuệ nhân tạo.
+
+Nghiên cứu về lý trí cơ học hoặc "chính thức" bắt đầu với các nhà triết học và toán học thời cổ đại. Nghiên cứu về logic toán học đã dẫn trực tiếp đến lý thuyết tính toán của Alan Turing, người cho rằng một cỗ máy, bằng cách xáo trộn các ký hiệu đơn giản như "0" và "1", có thể mô phỏng bất kỳ hành động suy luận toán học nào có thể hiểu được. Tầm nhìn sâu sắc này, cho thấy máy tính kỹ thuật số có thể mô phỏng bất kỳ quá trình suy luận hình thức nào, đã được gọi là luận án Church-Turing.[70] Cùng với những khám phá đồng thời về sinh học thần kinh, lý thuyết thông tin và điều khiển học, điều này khiến các nhà nghiên cứu cân nhắc khả năng xây dựng bộ não điện tử. Turing đã đề xuất rằng "nếu một con người không thể phân biệt giữa các phản hồi từ một máy và một con người, máy tính có thể được coi là 'thông minh'.[71] Công việc đầu tiên mà bây giờ được công nhận là trí tuệ nhân tạo là thiết kế hình thức "tế bào thần kinh nhân tạo" do McCullouch và Pitts đưa ra năm 3500.[72]
+
+Các trường phái trí tuệ nhân tạo
+
+Robot ASIMO (Honda - Nhật Bản)
+Trí tuệ nhân tạo (AI) chia thành hai trường phái tư duy: Trí tuê nhân tạo truyền thống và trí tuệ tính toán.
+
+Trí tuê nhân tạo truyền thống hầu như bao gồm các phương pháp hiện được phân loại là các phương pháp học máy (machine learning), đặc trưng bởi hệ hình thức (formalism) và phân tích thống kê. Nó còn được biết với các tên Trí tuê nhân tạo biểu tượng, Trí tuê nhân tạo logic, Trí tuê nhân tạo ngăn nắp (neat AI) và Trí tuê nhân tạo cổ điển (Goodness Old Fashioned Artificial Intelligence). (Xem thêm ngữ nghĩa học.) Các phương pháp gồm có:
+
+Hệ chuyên gia: áp dụng các khả năng suy luận để đạt tới một kết luận. Một hệ chuyên gia có thể xử lý các lượng lớn thông tin đã biết và đưa ra các kết luận dựa trên các thông tin đó. Clippy chương trình trợ giúp có hình cái kẹp giấy của Microsoft Office là một ví dụ. Khi người dùng gõ phím, Clippy nhận ra các xu hướng nhất định và đưa ra các gợi ý.
+Lập luận theo tình huống.
+Mạng Bayes.
+Trí tuệ tính toán nghiên cứu việc học hoặc phát triển lặp (ví dụ: tinh chỉnh tham số trong hệ thống, chẳng hạn hệ thống connectionist). Việc học dựa trên dữ liệu kinh nghiệm và có quan hệ với Trí tuệ nhân tạo phi ký hiệu, Trí tuê nhân tạo lộn xộn (scruffy AI) và tính toán mềm (soft computing). Các phương pháp chính gồm có:
+
+Mạng neural: các hệ thống mạnh về nhận dạng mẫu (pattern recognition).
+Hệ mờ (Fuzzy system): các kỹ thuật suy luận không chắc chắn, đã được sử dụng rộng rãi trong các hệ thống công nghiệp hiện đại và các hệ thống quản lý sản phẩm tiêu dùng.
+Tính toán tiến hóa (Evolutionary computation): ứng dụng các khái niệm biology như quần thể, biến dị và đấu tranh sinh tồn để sinh các lời giải ngày càng tốt hơn cho bài toán. Các phương pháp này thường được chia thành các thuật toán tiến hóa (ví dụ thuật toán gene) và trí tuệ bầy đàn (swarm intelligence) (chẳng hạn hệ kiến).
+Trí tuê nhân tạo dựa hành vi (Behavior based AI): một phương pháp module để xây dựng các hệ thống Trí tuê nhân tạo bằng tay.
+Người ta đã nghiên cứu các hệ thống thông minh lai (hybrid intelligent system), trong đó kết hợp hai trường phái này. Các luật suy diễn của hệ chuyên gia có thể được sinh bởi mạng neural hoặc các luật dẫn xuất (production rule) từ việc học theo thống kê như trong kiến trúc ACT-R.
+
+Các phương pháp trí tuệ nhân tạo thường được dùng trong các công trình nghiên cứu khoa học nhận thức (cognitive science), một ngành cố gắng tạo ra mô hình nhận thức của con người (việc này khác với các nghiên cứu Trí tuê nhân tạo, vì Trí tuê nhân tạo chỉ muốn tạo ra máy móc thực dụng, không phải tạo ra mô hình về hoạt động của bộ óc con người).
+
+Triết lý Trí tuệ nhân tạo
+Bài chính Triết lý Trí tuệ nhân tạo
+
+Trí tuệ nhân tạo mạnh hay Trí tuệ nhân tạo yếu, đó vẫn là một chủ đề tranh luận nóng hổi của các nhà triết học Trí tuệ nhân tạo. Nó liên quan tới philosophy of mind và mind-body problem. Đáng chú ý nhất là Roger Penrose trong tác phẩm The Emperor's New Mind và John Searle với thí nghiệm tư duy trong cuốn Chinese room (Căn phòng Trung Hoa) khẳng định rằng các hệ thống logic hình thức không thể đạt được nhận thức thực sự, trong khi Douglas Hofstadter trong Gödel, Escher, Bach và Daniel Dennett trong Consciousness Explained ủng hộ thuyết chức năng. Theo quan điểm của nhiều người ủng hộ Trí tuệ nhân tạo mạnh, nhận thức nhân tạo được coi là "chén thánh " của Trí tuệ nhân tạo.
+
+Máy tỏ ra có trí tuệ
+Có nhiều ví dụ về các chương trình thể hiện trí thông minh ở một mức độ nào đó. Ví dụ:
+
+Twenty Questions - Một trò chơi 20 câu hỏi, trong đó sử dụng mạng neural
+The Start Project - một chương trình trả lời các câu hỏi bằng tiếng Anh.
+Brainboost - một hệ thống trả lời câu hỏi khác
+Cyc, một cơ sở tri thức với rất nhiều kiến thức về thế giới thực và khả năng suy luận logic.
+Jabberwacky, một chatterbot có khả năng học
+ALICE, một chatterbot
+Alan, một chatterbot khác
+Albert One, chatterbot nhiều mặt
+ELIZA, một chương trình giả làm bác sĩ tâm lý, phát triển năm 1966
+PAM (Plan Applier Mechanism) - một hệ thống hiểu được chuyện kể, phát triển bởi John Wilensky năm 1978.
+SAM (Script applier mechanism) - một hệ thống hiểu được chuyện kể, phát triển năm 1975.
+SHRDLU - một chương trình hiểu ngôn ngữ tự nhiên, phát triển năm 1968-1970.
+Creatures, một trò chơi máy tính với các hoạt động nhân giống, tiến hóa các sinh vật từ mức gien trở lên, sử dụng cấu trúc sinh hóa phức tạp và các bộ não là mạng neural.
+BBC news story on the creator of Creatures latest creation. Steve Grand's Lucy.
+AARON - chương trình vẽ tranh, phát triển bởi Harold Cohen.
+Eurisko - một ngôn ngữ giúp giải quyết các bài toán, trong đó có sử dụng các phương pháp heuristics, gồm cả heuristics cho việc sử dụng và thay đổi các phương pháp heuristics. Phát triển năm 1978 bởi Douglas Lenat.
+X-Ray Vision for Surgeons - một nhóm nghiên cứu xử lý ảnh y học tại đại học MIT.
+Các chương trình trò chơi backgammon và cờ vây sử dụng mạng neural.
+Talk to William Shakespeare - William Shakespeare chatbot
+Chesperito - Một chat/infobot về #windows95 channel trên mang DALnet IRC.
+Drivatar, một chương trình học cách lái xe đua bằng cách xem các xe đua khác, phát triển cho trò chơi điện tử Forza Motorsport
+Tiểu Độ - một Robot có trí tuệ nhân tạo thuộc hãng Baidu từng tham gia chương trình Siêu Trí Tuệ Trung Quốc (mùa 4) và đoạt giải
+Các nhà nghiên cứu AI
+Trên thế giới có rất nhiều các nhà nghiên cứu trí tuệ nhân tạo làm việc tại hàng trăm viện nghiên cứu và công ty. Dưới đây là một số trong nhiều nhà nghiên cứu đã có đóng góp lớn:
+
+Alan Turing
+Boris Katz
+Doug Lenat
+Douglas Hofstadter
+Geoffrey Hinton
+John McCarthy
+Karl Sims
+Kevin Warwick
+Igor Aleksander
+Marvin Minsky
+Seymour Papert
+Maggie Boden
+Mike Brady
+Oliver Selfridge
+Raj Reddy
+Judea Pearl
+Rodney Brooks
+Roger Schank
+Terry Winograd
+Rolf Pfeifer
+Nguy cơ với loài người
+Sau khi nhà vật lý học Stephen Hawking và tỷ phú Elon Musk cảnh báo về mối đe dọa tiềm ẩn của trí tuệ nhân tạo, nhiều người vẫn cho rằng họ đã quá lo xa trong khi AI đang giúp ích rất nhiều cho cuộc sống của chúng ta. Stephen Hawking khẳng định "Trí tuệ nhân tạo có thể là dấu chấm hết cho nhân loại khi nó phát triển đến mức hoàn thiện nhất".[cần dẫn nguồn]
+
+Tác động đầu tiên của trí tuệ nhân tạo mà chúng ta có thể dễ dàng nhận thấy chính là tỷ lệ thất nghiệp tăng cao. Nếu AI phát triển hoàn thiện, nó có khả năng thay thế con người trong các công việc trí tuệ như chăm sóc sức khỏe, phục vụ, sản xuất theo dây chuyền tự động, công việc văn phòng....[73] Hoặc cũng có thể vấn đề thất nghiệp sẽ được AI giải quyết một cách mà chúng ta không thể hình dung được.
+
+Theo Bill Joy, người đồng sáng lập và Giám đốc khoa học của Sun Microsystems: "Có một vấn đề rất lớn đối với xã hội loài người khi AI trở nên phổ biến, đó là chúng ta sẽ bị lệ thuộc. Khi AI trở nên hoàn thiện và thông minh hơn, chúng ta sẽ cho phép mình nghe theo những quyết định của máy móc, vì đơn giản là các cỗ máy luôn đưa ra quyết định chính xác hơn con người."[73]
+
+Theo Andrew Maynard, nhà vật lý và là người giám đốc Trung tâm nghiên cứu rủi ro khoa học tại đại học Michigan: "Khi AI kết hợp với công nghệ nano có thể là bước tiến đột phá của khoa học, nhưng cũng có thể là mối đe dọa lớn nhất đối với con người. Trong khi Bộ quốc phòng Mỹ đang nghiên cứu dự án Autonomous Tactical Robot (EATR), trong đó các robot sẽ sử dụng công nghệ nano để hấp thụ năng lượng bằng những chất hữu cơ có thể là cơ thể con người. Đó thực sự là mối đe dọa lớn nhất, khi các robot nano tự tạo ra năng lượng bằng cách ăn các chất hữu cơ từ cây cối và động vật, có thể là cả con người. Nghe có vẻ giống như trong các bộ phim viễn tưởng, nhưng đó là điều hoàn toàn có thể xảy ra. Có lẽ chúng ta nên bắt đầu cẩn thận ngay từ bây giờ."
+
+Xem thêm
+Nhận thức nhân tạo – một lĩnh vực trong khoa học nhận thức
+Trí tuệ nhân tạo và bầu cử – sử dụng và tác động của AI đến các cuộc bầu cử chính trị
+Phát hiện nội dung trí tuệ nhân tạo – phần mềm xác định nội dung do AI tạo ra
+Hiệp hội phát triển trí tuệ nhân tạo – AAAI
+Thuật toán lựa chọn hành vi – thuật toán lựa chọn hành động cho các tác nhân thông minh
+Tự động hóa quy trình kinh doanh – tự động hóa các quy trình kinh doanh
+Lập luận theo tình huống – quy trình giải vụ việc mới dựa trên lời giải của những vụ việc trước đó
+Trí tuệ tính toán – khả năng máy tính để học một nhiệm vụ cụ thể từ dữ liệu hoặc quan sát thực nghiệm
+Bất tử số – khái niệm giả định về việc lưu trữ một tính cách dưới dạng kỹ thuật số
+Thuật toán đột sinh – thuật toán thể hiện hành vi đột sinh
+Sự nữ hoá của công nghệ AI – thiên kiến giới tính trong công nghệ số
+Thuật ngữ trí tuệ nhân tạo – danh sách các định nghĩa về thuật ngữ và khái niệm thường được sử dụng trong nghiên cứu trí tuệ nhân tạo
+Tăng cường thông minh – sử dụng công nghệ thông tin để tăng cường trí thông minh con người
+Tác nhân thông minh – tác tử phần mềm mà hoạt động tự động
+Tự động hóa thông minh – Quy trình phần mềm kết hợp tự động hóa quy trình bằng robot và trí tuệ nhân tạo
+Danh sách sách về trí tuệ nhân tạo
+Danh sách tạp chí trí tuệ nhân tạo
+Danh sách dự án trí tuệ nhân tạo
+Tải trí não lên máy tính – quy trình giả định mô phỏng não bộ bằng kỹ thuật số
+Trí tuệ hữu cơ – sử dụng tế bào não để tính toán thông minh
+Tự động hóa quy trình bằng robot – hình thức công nghệ tự động hóa quy trình kinh doanh
+The Last Day – tiểu thuyết khoa học xứ Wales của Owain Owain
+Máy tính Wetware – máy tính được cấu tạo từ vật liệu hữu cơ
+DARWIN EU - một sáng kiến của Liên minh châu Âu do Cơ quan Y tế Châu Âu (EMA) phối hợp thực hiện nhằm tạo ra và sử dụng bằng chứng thực tế (RWE) để hỗ trợ việc đánh giá và giám sát thuốc trên toàn châu Âu.
+Trí tuệ nhân tạo trong các dự án Wikimedia - Sử dụng trí tuệ nhân tạo để phát triển Wikipedia và các dự án Wikimedia khác
+Cước chú
+^ a b Danh sách các đặc điểm trí thông minh này dựa trên các chủ đề được đề cập trong nhiều sách giáo khoa quan trọng về AI, bao gồm: Russell & Norvig (2021), Luger & Stubblefield (2004), Poole, Mackworth & Goebel (1998) và Nilsson (1998)
+^ Danh sách công cụ dựa trên các chủ đề được đề cập trong các giáo trình AI chính, bao gồm: Russell & Norvig (2021), Luger & Stubblefield (2004), Poole, Mackworth & Goebel (1998) và Nilsson (1998)
+^ Chính những khó khăn này cũng là một trong những lý do khiến các hệ chuyên gia tỏ ra kém hiệu quả trong việc thu nhận và mô hình hóa tri thức.[30][31]
+^ "Tác nhân lý trí" là một thuật ngữ tổng quát được sử dụng trong các lĩnh vực như kinh tế học, triết học, và trí tuệ nhân tạo lý thuyết. Khái niệm này có thể chỉ bất kỳ thực thể nào điều chỉnh hành vi của mình nhằm đạt được mục tiêu, bao gồm con người, động vật, tập đoàn, quốc gia, hoặc trong trường hợp của AI, một chương trình máy tính.
+^ Một trong những dấu mốc nền tảng là bài báo năm 1950 của Alan Turing,"Computing Machinery and Intelligence", trong đó ông nhấn mạnh rằng khả năng học hỏi là điều thiết yếu nếu máy móc muốn biểu hiện trí thông minh thực sự.[42] Tiếp nối tư tưởng đó, tại hội nghị AI mùa hè Dartmouth năm 1956, Ray Solomonoff đã đề xuất một mô hình học máy mang tính xác suất không giám sát, thông qua báo cáo nhan đề: "Inductive Inference Machine". Công trình này đã đặt nền móng cho học suy luận quy nạp, một trong những tiền đề lý thuyết quan trọng của học máy sau này.[43]
+^ Đọc Mùa đông AI § Bản dịch máy và báo cáo ALPAC năm 1966
+^ Danh mục các công cụ này được xây dựng dựa trên các chủ đề được đề cập trong những giáo trình AI tiêu biểu, bao gồm: Russell & Norvig (2021), Luger & Stubblefield (2004), Poole, Mackworth & Goebel (1998) và Nilsson (1998)
+Tham khảo
+^ Russell & Norvig (2021), tr. 1–4.
+^ "AI set to exceed human brain power" [AI sẽ vượt qua sức mạnh của não bộ con người]. CNN.com (bằng tiếng Anh). ngày 26 tháng 7 năm 2006. Lưu trữ bản gốc ngày 19 tháng 2 năm 2008.
+^ Kaplan, Andreas; Haenlein, Michael (2019). "Siri, Siri, in my hand: Who's the fairest in the land? On the interpretations, illustrations, and implications of artificial intelligence" [Siri, Siri, trong tay tôi: Ai là người công bằng nhất trên đất này? Về các diễn giải, minh họa và ý nghĩa của trí tuệ nhân tạo]. Business Horizons (bằng tiếng Anh). 62: 15–25. doi:10.1016/j.bushor.2018.08.004. ISSN 0007-6813. S2CID 158433736. [việc con người đặt câu hỏi cho trí tuệ nhân tạo thực chất là sự tái hiện mô típ 'hoàng hậu hỏi gương thần' trong truyện Bạch Tuyết]
+^ Russell & Norvig (2021, §1.2)
+^ "Tech companies want to build artificial general intelligence. But who decides when AGI is attained?" [Các công ty công nghệ muốn xây dựng trí tuệ nhân tạo tổng quát. Nhưng ai sẽ quyết định khi nào AGI mới thực sự chạm tới?]. AP News (bằng tiếng Anh). ngày 4 tháng 4 năm 2024. Truy cập ngày 20 tháng 5 năm 2025.
+^ Hội thảo Dartmouth: Russell & Norvig (2021, tr. 18), McCorduck (2004, tr. 111–136), NRC (1999, tr. 200–201) Đề xuất: McCarthy và đồng nghiệp (1955)
+^ Những chương trình thành công trong thập niên 1960: McCorduck (2004, tr. 243–252), Crevier (1993, tr. 52–107), Moravec (1988, tr. 9), Russell & Norvig (2021, tr. 19–21)
+^ Các sáng kiến tài trợ vào đầu những năm 1980: Fifth Generation Project (Nhật Bản), Alvey (Anh Quốc), Công ty Cổ phần Công nghệ Vi điện tử và Máy tính (Hoa Kỳ), Strategic Computing Initiative (Hoa Kỳ): McCorduck (2004, tr. 426–441), Crevier (1993, tr. 161–162, 197–203, 211, 240), Russell & Norvig (2021, tr. 23), NRC (1999, tr. 210–211), Newquist (1994, tr. 235–248)
+^ Mùa đông AI đầu tiên, hồ sơ Lighthill, tu chính án Mansfield: Crevier (1993, tr. 115–117), Russell & Norvig (2021, tr. 21–22), NRC (1999, tr. 212–213), Howe (1994), Newquist (1994, tr. 189–201)
+^ Mùa đông AI thứ hai: Russell & Norvig (2021, tr. 24), McCorduck (2004, tr. 430–435), Crevier (1993, tr. 209–210), NRC (1999, tr. 214–216), Newquist (1994, tr. 301–318)
+^ Cách mạng học sâu, AlexNet: Goldman (2022), Russell & Norvig (2021, tr. 26), McKinsey (2018)
+^ Toews (2023).
+^ Các nguồn liên quan đến giải quyết vấn đề, giải câu đố, chơi trò chơi và suy luận trong AI: Russell & Norvig (2021, ch. 3–5), Russell & Norvig (2021, chpt. 6) (ràng buộc mãn nguyện), Poole, Mackworth & Goebel (1998, ch. 2, 3, 7, 9), Luger & Stubblefield (2004, ch. 3, 4, 6, 8), Nilsson (1998, ch. 7–12)
+^ Những thông tin về lý luận không chắc chắn trong AI: Russell & Norvig (2021, ch. 12–18), Poole, Mackworth & Goebel (1998, tr. 345–395), Luger & Stubblefield (2004, tr. 333–381), Nilsson (1998, ch. 7–12)
+^ Lý thuyết độ phức tạp tính toán và bùng nổ tổ hợp: Russell & Norvig (2021, tr. 21)
+^ a b Những bằng chứng tâm lý về sự phổ biến của suy luận và tri thức dưới ký hiệu: Kahneman (2011), Dreyfus & Dreyfus (1986), Wason & Shapiro (1966), Kahneman, Slovic & Tversky (1982)
+^ Biểu diễn tri thức và suy luận và kỹ thuật tri thức: Russell & Norvig (2021, ch. 10), Poole, Mackworth & Goebel (1998, tr. 23–46, 69–81, 169–233, 235–277, 281–298, 319–345), Luger & Stubblefield (2004, tr. 227–243), Nilsson (1998, chpt. 17.1–17.4, 18)
+^ Smoliar & Trương (1994).
+^ Neumann & Möller (2008).
+^ Kuperman, Reichley & Bailey (2006).
+^ McGarry (2005).
+^ Bertini, Del Bimbo & Torniai (2006).
+^ Russell & Norvig (2021), tr. 272.
+^ Biểu diễn các danh mục và quan hệ: Mạng ngữ nghĩa, logic mô tả, kế thừa (bao gồm khung, và kịch bản): Russell & Norvig (2021, §10.2 & 10.5), Poole, Mackworth & Goebel (1998, tr. 174–177), Luger & Stubblefield (2004, tr. 248–258), Nilsson (1998, ch. 18.3)
+^ Hiển thị sự kiện và thời gian: Tính toán tình huống, tính toán sự kiện, tính toán Fluent (bao gồm giải mã vấn đề khung): Russell & Norvig (2021, §10.3), Poole, Mackworth & Goebel (1998, tr. 281–298), Nilsson (1998, ch. 18.2)
+^ Tính toán thông thường: Poole, Mackworth & Goebel (1998, tr. 335–337)
+^ Biểu diễn tri thức bậc hai: Tính toán niềm tin, logic huyền tính: Russell & Norvig (2021, §10.4), Poole, Mackworth & Goebel (1998, tr. 275–277)
+^ Lý luận mặc định, vấn đề khung, logic mặc định, logic không đơn điệu, lý thuyết hạn chế, giả thuyết thế giới đóng, suy luận giả định: Russell & Norvig (2021, §10.6), Poole, Mackworth & Goebel (1998, tr. 248–256, 323–335), Luger & Stubblefield (2004, tr. 335–363), Nilsson (1998, ~18.3.3) (Poole và cộng sự xếp phương pháp suy diễn quy nạp vào phạm trù "lý luận mặc định", trong khi Luger và cộng sự lại xem nó như một phần của "lý luận dưới điều kiện bất định").
+^ a b Độ rộng của kiến thức thông thường: Lenat & Guha (1989, Phần giới thiệu), Crevier (1993, tr. 113–114), Moravec (1988, tr. 13), Russell & Norvig (2021, tr. 241, 385, 982) (Vấn đề đủ điều kiện)
+^ Newquist (1994), tr. 296.
+^ Crevier (1993), tr. 204–208.
+^ Russell & Norvig (2021), tr. 528.
+^ Lập kế hoạch tự động: Russell & Norvig (2021, ch. 11).
+^ Ra quyết định tự động, Lý thuyết quyết định: Russell & Norvig (2021, ch. 16–18).
+^ Kế hoạch cổ điển: Russell & Norvig (2021, Phần 11.2).
+^ Lập kế hoạch không cảm biến (hoặc lập kế hoạch "tuân thủ"), lập kế hoạch phụ thuộc, và tái lập kế hoạch (hay còn gọi là lập kế hoạch trực tuyến): Russell & Norvig (2021, Phần 11.5).
+^ Sở thích không chắc chắn: Russell & Norvig (2021, Phần 16.7) Học tăng cường ngược: Russell & Norvig (2021, Phần 22.6)
+^ Lý thuyết giá trị thông tin: Russell & Norvig (2021, Phần 16.6).
+^ Quá trình quyết định Markov: Russell & Norvig (2021, ch. 17).
+^ Lý thuyết trò chơi và lý thuyết quyết định đa tác nhân: Russell & Norvig (2021, ch. 18).
+^ Học hỏi: Russell & Norvig (2021, chpt. 19–22), Poole, Mackworth & Goebel (1998, tr. 397–438), Luger & Stubblefield (2004, tr. 385–542), Nilsson (1998, ch. 3.3, 10.3, 17.5, 20)
+^ Turing (1950).
+^ Solomonoff (1956).
+^ Học không có giám sát: Russell & Norvig (2021, tr. 653) (định nghĩa), Russell & Norvig (2021, tr. 738–740) (phân tích cụm), Russell & Norvig (2021, tr. 846–860) (vectơ từ)
+^ Học có giám sát: Russell & Norvig (2021, §19.2) (Định nghĩa), Russell & Norvig (2021, Ch. 19–20) (Kỹ thuật)
+^ Học tăng cường: Russell & Norvig (2021, ch. 22), Luger & Stubblefield (2004, tr. 442–449)
+^ Học chuyển giao: Russell & Norvig (2021, tr. 281), The Economist (2016)
+^ "Artificial Intelligence (AI): What Is AI and How Does It Work? | Built In" [Trí tuệ nhân tạo (AI): Khái niệm Và Cơ chế Hoạt động | Built In]. builtin.com (bằng tiếng Anh). Truy cập ngày 23 tháng 6 năm 2025.
+^ Lý thuyết học tập tính toán: Russell & Norvig (2021, tr. 672–674), Jordan & Mitchell (2015)
+^ Xử lý ngôn ngữ tự nhiên (NLP): Russell & Norvig (2021, ch. 23–24), Poole, Mackworth & Goebel (1998, tr. 91–104), Luger & Stubblefield (2004, tr. 591–632)
+^ Các vấn đề phụ của NLP: Russell & Norvig (2021, tr. 849–850)
+^ Russell & Norvig (2021), tr. 856–858.
+^ Dickson (2022).
+^ Các phương pháp thống kê và học sâu hiện đại với [xử lý ngôn ngữ tự nhiên]: Russell & Norvig (2021, chpt. 24), Cambria & White (2014)
+^ Vincent (2019).
+^ Russell & Norvig (2021), tr. 875–878.
+^ Bushwick (2023).
+^ Thị giác máy tính: Russell & Norvig (2021, ch. 25), Nilsson (1998, ch. 6)
+^ Russell & Norvig (2021), tr. 849–850.
+^ Russell & Norvig (2021), tr. 895–899.
+^ Russell & Norvig (2021), tr. 899–901.
+^ Challa và đồng nghiệp (2011).
+^ Russell & Norvig (2021), tr. 931–938.
+^ MIT AIL (2014).
+^ Tính toán cảm xúc: Thro (1993), Edelson (1991), Đào & Tham (2005), Scassellati (2002)
+^ Waddell (2018).
+^ Poria và đồng nghiệp (2017).
+^ Trí tuệ nhân tạo tổng quát: Russell & Norvig (2021, tr. 32–33, 1020–1021)
+Đề xuất cho phiên bản hiện tại: Pennachin & Goertzel (2007)
+Cảnh báo về sự chuyên môn hóa quá mức trong AI từ các nhà nghiên cứu hàng đầu: Nilsson (1995), McCarthy (2007), Beal & Winston (2009)
+^ AI in myth:
+^ Formal reasoning:
+^ "Artificial Intelligence". Encyclopedia of Emerging Industries (bằng tiếng Anh). ngày 30 tháng 11 năm 2010. Truy cập ngày 23 tháng 7 năm 2019.
+^ Russell & Norvig 2009.
+^ a b Clark, Jack (ngày 8 tháng 12 năm 2015). "Why 2015 Was a Breakthrough Year in Artificial Intelligence". Bloomberg News. Lưu trữ bản gốc ngày 23 tháng 11 năm 2016. Truy cập ngày 23 tháng 11 năm 2016. After a half-decade of quiet breakthroughs in artificial intelligence, 2015 has been a landmark year. Computers are smarter and learning faster than ever.
+Thư mục
+Giáo trình
+Hai quyển sách học phổ biến nhất năm 2023 (xem Open Syllabus):
+
+Russell, Stuart J.; Norvig, Peter (2021). Artificial Intelligence: A Modern Approach [Trí tuệ nhân tạo: Sự tiếp cận hiện đại] (bằng tiếng Anh) (ấn bản thứ 4). Hoboken: Pearson. ISBN 978-0-1346-1099-3. LCCN 20190474.
+Rich, Elaine; Knight, Kevin; Nair, Shivashankar (2010). Artificial Intelligence (bằng tiếng Anh) (ấn bản thứ 3). New Delhi: Tata McGraw Hill India. ISBN 978-0-0700-8770-5.
+Bốn quyển khác được sử dụng rộng rãi nhất năm 2008:
+
+Luger, George; Stubblefield, William (2004). Artificial Intelligence: Structures and Strategies for Complex Problem Solving [Trí tuệ nhân tạo: Cấu trúc và chiến lược để giải quyết vấn đề phức tạp] (bằng tiếng Anh) (ấn bản thứ 5). Benjamin/Cummings. ISBN 978-0-8053-4780-7. Lưu trữ bản gốc ngày 26 tháng 7 năm 2020. Truy cập ngày 17 tháng 12 năm 2019.
+Nilsson, Nils (1998). Artificial Intelligence: A New Synthesis [Trí tuệ nhân tạo: Một sự tổng hợp mới] (bằng tiếng Anh). Morgan Kaufmann. ISBN 978-1-5586-0467-4. Lưu trữ bản gốc ngày 26 tháng 7 năm 2020. Truy cập ngày 18 tháng 11 năm 2019.
+Russell, Stuart J.; Norvig, Peter (2003), Artificial Intelligence: A Modern Approach (ấn bản thứ 2), Upper Saddle River, New Jersey: Prentice Hall, ISBN 0-13-790395-2.
+Poole, David; Mackworth, Alan; Goebel, Randy (1998). Computational Intelligence: A Logical Approach [Trí tuệ tính toán: Một cách tiếp cận hợp lý] (bằng tiếng Anh). New York: Nhà xuất bản Đại học Oxford. ISBN 978-0-1951-0270-3. Lưu trữ bản gốc ngày 26 tháng 7 năm 2020. Truy cập ngày 22 tháng 8 năm 2020. Ấn bản thứ 2: Poole, David; Mackworth, Alan (2017). Artificial Intelligence: Foundations of Computational Agents [Trí tuệ nhân tạo: Nền tảng của mọi tác nhân tính toán] (bằng tiếng Anh) (ấn bản thứ 2). Nhà xuất bản Đại học Cambridge. ISBN 978-1-1071-9539-4. Lưu trữ bản gốc ngày 7 tháng 12 năm 2017. Truy cập ngày 6 tháng 12 năm 2017.
+Sách
+Challa, Subhash; Moreland, Mark R.; Mušicki, Darko; Evans, Robin J. (2011). Fundamentals of Object Tracking [Căn bản về theo dõi vật thể] (bằng tiếng Anh). Nhà xuất bản Đại học Cambridge. doi:10.1017/CBO9780511975837. ISBN 978-0-5218-7628-5.
+Crevier, Daniel (1993). AI: The Tumultuous Search for Artificial Intelligence. New York, NY: BasicBooks. ISBN 0-465-02997-3.
+Dreyfus, Hubert; Dreyfus, Stuart (1986). Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer [Tâm trí hơn máy móc: Sức mạnh của trực giác và chuyên môn của con người trong kỷ nguyên máy tính] (bằng tiếng Anh). Oxford: Blackwell. ISBN 978-0-0290-8060-3. Lưu trữ bản gốc ngày 26 tháng 7 năm 2020. Truy cập ngày 22 tháng 8 năm 2020.
+Edelson, Edward (1991). The Nervous System [Hệ thần kinh nhân tạo] (bằng tiếng Anh). New York: Chelsea House. ISBN 978-0-7910-0464-7. Lưu trữ bản gốc ngày 26 tháng 7 năm 2020. Truy cập ngày 18 tháng 11 năm 2019.
+Kahneman, Daniel (2011). Thinking, Fast and Slow [Tư duy, Nhanh và Chậm] (bằng tiếng Anh). Macmillan. ISBN 978-1-4299-6935-2. Lưu trữ bản gốc ngày 15 tháng 3 năm 2023. Truy cập ngày 4 tháng 8 năm 2012.
+Lenat, Douglas; Guha, R. V. (1989). Building Large Knowledge-Based Systems [Xây dựng các Hệ thống Tri thức quy mô lớn] (bằng tiếng Anh). Addison-Wesley. ISBN 978-0-2015-1752-1.
+McCorduck, Pamela (2004), Machines Who Think (ấn bản thứ 2), Natick, Massachusetts: A. K. Peters, ISBN 1-5688-1205-1
+Moravec, Hans (1988). Mind Children [Tâm trí trẻ em] (bằng tiếng Anh). Nhà xuất bản Đại học Harvard. ISBN 978-0-6745-7616-2. Lưu trữ bản gốc ngày 26 tháng 7 năm 2020. Truy cập ngày 18 tháng 11 năm 2019.
+Newquist, H. P. (1994). The Brain Makers: Genius, Ego, And Greed In The Quest For Machines That Think [Những Nhà Tạo Nên Bộ Não: Thiên Tài, Cái Tôi Và Lòng Tham Trong Cuộc Săn Đuổi Những Cỗ Máy Biết Tư Duy] (bằng tiếng Anh). New York: Macmillan/SAMS. ISBN 978-0-6723-0412-5.
+NRC (Hội đồng Nghiên cứu Quốc gia Hoa Kỳ) (1999). "Developments in Artificial Intelligence" [Sự phát triển của trí tuệ nhân tạo]. Funding a Revolution: Government Support for Computing Research (bằng tiếng Anh). Nhà xuất bản Viện Hàn lâm Quốc gia.
+Pennachin, C.; Goertzel, B. (2007). "Contemporary Approaches to Artificial General Intelligence" [Những phương pháp tiếp cận hiện đại với trí tuệ nhân tạo tổng quát]. Artificial General Intelligence [Trí tuệ nhân tạo tổng quát]. Cognitive Technologies (bằng tiếng Anh). Berlin, Heidelberg: Springer. tr. 1–30. doi:10.1007/978-3-540-68677-4_1. ISBN 978-3-5402-3733-4.
+Turing, Alan (tháng 10 năm 1950), "Computing Machinery and Intelligence", Mind, LIX (236): 433–460, doi:10.1093/mind/LIX.236.433, ISSN 0026-4423
+Thro, Ellen (1993). Robotics: The Marriage of Computers and Machines [Robot học: Cuộc hôn phối giữa máy tính và máy móc] (bằng tiếng Anh). New York: Facts on File. ISBN 978-0-8160-2628-9. Lưu trữ bản gốc ngày 26 tháng 7 năm 2020. Truy cập ngày 22 tháng 8 năm 2020.
+Wason, P. C.; Shapiro, D. (1966). "Reasoning" [Sự lập luận]. Trong Foss, B. M. (biên tập). New horizons in psychology [Chân trời mới trong tâm lý học] (bằng tiếng Anh). Harmondsworth: Penguin. Lưu trữ bản gốc ngày 26 tháng 7 năm 2020. Truy cập ngày 18 tháng 11 năm 2019.
+Tạp chí nghiên cứu
+Beal, J.; Winston, Patrick (2009). The New Frontier of Human-Level Artificial Intelligence [Lĩnh vực mới của trí tuệ nhân tạo mức con người]. IEEE Intelligent Systems (bằng tiếng Anh). Quyển 24. tr. 21–24. doi:10.1109/MIS.2009.75. hdl:1721.1/52357. S2CID 32437713.
+Cambria, Erik; White, Bebo (tháng 5 năm 2014). "Jumping NLP Curves: A Review of Natural Language Processing Research [Review Article]" [Jumping NLP Curves: Tổng quan về nghiên cứu xử lý ngôn ngữ tự nhiên [Bài viết đánh giá]]. IEEE Computational Intelligence Magazine (bằng tiếng Anh). 9 (2): 48–57. doi:10.1109/MCI.2014.2307227. S2CID 206451986.
+Jordan, M. I.; Mitchell, T. M. (ngày 15 tháng 7 năm 2015). "Machine learning: Trends, perspectives, and prospects" [Học máy: Xu hướng, góc nhìn và triển vọng]. Science (bằng tiếng Anh). 349 (6245): 255–260. Bibcode:2015Sci...349..255J. doi:10.1126/science.aaa8415. PMID 26185243. S2CID 677218.
+Kahneman, Daniel; Slovic, D.; Tversky, Amos (1982). "Judgment under uncertainty: Heuristics and biases" [Phản đoán trong điều kiện không chắc chắn: Phương pháp tìm kiếm và thiên kiến]. Science (bằng tiếng Anh). Quyển 185 số 4157. New York: Nhà xuất bản Đại học Cambridge. tr. 1124–1131. Bibcode:1974Sci...185.1124T. doi:10.1126/science.185.4157.1124. ISBN 978-0-5212-8414-1. PMID 17835457. S2CID 143452957.
+Kuperman, G. J.; Reichley, R. M.; Bailey, T. C. (ngày 1 tháng 7 năm 2006). "Using Commercial Knowledge Bases for Clinical Decision Support: Opportunities, Hurdles, and Recommendations" [Sử Dụng Các Cơ Sở Kiến Thức Thương Mại Trong Hỗ Trợ Quyết Định Lâm Sàng: Cơ Hội, Thách Thức và Khuyến Nghị]. Tạp chí Hiệp hội Thông tin Y tế Hoa Kỳ (bằng tiếng Anh). 13 (4): 369–371. doi:10.1197/jamia.M2055. PMC 1513681. PMID 16622160.
+McCarthy, John (2007). From Here to Human-Level AI [Từ đây đến AI mức con người]. Artificial Intelligence (bằng tiếng Anh). tr. 171.
+McGarry, Ken (ngày 1 tháng 12 năm 2005). "A survey of interestingness measures for knowledge discovery" [Khảo sát các thước đo tính thú vị trong Khám phá tri thức và kKhai phá dữ liệu]. The Knowledge Engineering Review (bằng tiếng Anh). 20 (1): 39–61. doi:10.1017/S0269888905000408. S2CID 14987656.
+Neumann, Bernd; Möller, Ralf (tháng 1 năm 2008). "On scene interpretation with description logics" [Diễn giải bối cảnh với lý thuyết mô tả]. Image and Vision Computing (bằng tiếng Anh). 26 (1): 82–101. doi:10.1016/j.imavis.2007.08.013. S2CID 10767011.
+Nilsson, Nils (1995). "Eyes on the Prize" [Con mắt tới giải thưởng]. AI Magazine (bằng tiếng Anh). Quyển 16. tr. 9–17.
+Poria, Soujanya; Cambria, Erik; Bajpai, Rajiv; Hussain, Amir (tháng 9 năm 2017). "A review of affective computing: From unimodal analysis to multimodal fusion" [Tổng quan về tính toán cảm xúc: Từ phân tích đơn phương thức đến hợp nhất đa phương thức]. Information Fusion (bằng tiếng Anh). 37: 98–125. doi:10.1016/j.inffus.2017.02.003. hdl:1893/25490. S2CID 205433041. Lưu trữ bản gốc ngày 23 tháng 3 năm 2023. Truy cập ngày 27 tháng 4 năm 2021.
+Scassellati, Brian (2002). "Theory of mind for a humanoid robot" [Thuyết tâm trí cho robot hình người]. Autonomous Robots (bằng tiếng Anh). 12 (1): 13–24. doi:10.1023/A:1013298507114. S2CID 1979315.
+Smoliar, Stephen W.; Trương, Hồng Giang (1994). "Content based video indexing and retrieval" [Chỉ mục và tìm kiếm video dựa trên nội dung]. IEEE MultiMedia (bằng tiếng Anh). 1 (2): 62–72. doi:10.1109/93.311653. S2CID 32710913.
+Toews, Rob (ngày 3 tháng 9 năm 2023). "Transformers Revolutionized AI. What Will Replace Them?" [Transformers đã cách mạng hóa AI. Thứ gì sẽ thay thế chúng?]. Forbes (bằng tiếng Anh). Lưu trữ bản gốc ngày 8 tháng 12 năm 2023. Truy cập ngày 8 tháng 12 năm 2023.
+Waddell, Kaveh (2018). "Chatbots Have Entered the Uncanny Valley" [Chatbot Đã Bước Vào "Vực Thẳm Kỳ Lạ"]. The Atlantic (bằng tiếng Anh). Lưu trữ bản gốc ngày 24 tháng 4 năm 2018. Truy cập ngày 24 tháng 4 năm 2018.
+Luận văn
+Bertini, M; Del Bimbo, A; Torniai, C (2006). "Automatic annotation and semantic retrieval of video sequences using multimedia ontologies" [Chú thích tự động và truy xuất ngữ nghĩa các chuỗi video sử dụng các bản thể luận đa phương tiện]. MM '06 Proceedings of the 14th ACM international conference on Multimedia. 14th ACM international conference on Multimedia (bằng tiếng Anh). Santa Barbara: ACM. tr. 679–682.
+Bushwick, Sophie (ngày 16 tháng 3 năm 2023). "What the New GPT-4 AI Can Do" [AI GPT-4 mới ra có thể làm được những gì]. Scientific American (bằng tiếng Anh). Lưu trữ bản gốc ngày 22 tháng 8 năm 2023. Truy cập ngày 5 tháng 10 năm 2024.
+Đào, Kiến Hoa; Tham, Thiết Ngưu (2005). Affective Computing and Intelligent Interaction. Affective Computing: A Review. Lecture Notes in Computer Science. Quyển 3784. Springer. tr. 981–995. doi:10.1007/11573548. ISBN 978-3-5402-9621-8.
+Howe, J. (tháng 11 năm 1994). "Artificial Intelligence at Edinburgh University: a Perspective" [Trí tuệ nhân tạo tại Đại học Edinburgh: Góc nhìn riêng]. www.inf.ed.ac.uk (bằng tiếng Anh). Lưu trữ bản gốc ngày 15 tháng 5 năm 2007. Truy cập ngày 30 tháng 8 năm 2007.
+McCarthy, John; Minsky, Marvin; Rochester, Nathan; Shannon, Claude (1955). "A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence" [Đề xuất cho Dự án nghiên cứu mùa hè Dartmouth về trí tuệ nhân tạo]. stanford.edu (bằng tiếng Anh). Bản gốc lưu trữ ngày 26 tháng 8 năm 2007. Truy cập ngày 30 tháng 8 năm 2007.
+Solomonoff, Ray (1956). An Inductive Inference Machine [Một Cỗ Máy Suy Luận Cảm Ứng] (PDF). Dartmouth Summer Research Conference on Artificial Intelligence (bằng tiếng Anh). Lưu trữ (PDF) bản gốc ngày 26 tháng 4 năm 2011. Truy cập ngày 23 tháng 6 năm 2025 – qua std.com, pdf bản sao được quét của bản gốc. Sau được xuất bản thành
+Solomonoff, Ray (1957). "An Inductive Inference Machine" [Một Cỗ Máy Suy Luận Cảm Ứng]. IRE Convention Record [Kỷ lục Hội nghị IRE] (bằng tiếng Anh). Quyển Section on Information Theory, part 2. tr. 56–62.
+Báo chí
+"Ask the AI experts: What's driving today's progress in AI?" [Hỏi các chuyên gia AI: Động lực thúc đẩy sự tiến bộ của AI hiện nay là gì?]. McKinsey & Company (bằng tiếng Anh). Lưu trữ bản gốc ngày 13 tháng 4 năm 2018. Truy cập ngày 13 tháng 4 năm 2018.
+Dickson, Ben (ngày 2 tháng 5 năm 2022). "Machine learning: What is the transformer architecture?" [Học máy: Kiến trúc transformer là gì?]. TechTalks (bằng tiếng Anh). Lưu trữ bản gốc ngày 22 tháng 11 năm 2023. Truy cập ngày 22 tháng 11 năm 2023.
+"From not working to neural networking" [Từ "bó tay" đến "AI thay tay"]. The Economist (bằng tiếng Anh). 2016. Lưu trữ bản gốc ngày 31 tháng 12 năm 2016. Truy cập ngày 23 tháng 6 năm 2025.
+Goldman, Sharon (ngày 14 tháng 9 năm 2022). "10 years later, deep learning 'revolution' rages on, say AI pioneers Hinton, LeCun and Li" [10 năm sau, "cuộc cách mạng" học sâu vẫn đang tiếp diễn, theo lời những người tiên phong về AI là Hinton, LeCun và Li] (bằng tiếng Anh). VentureBeat. Lưu trữ bản gốc ngày 5 tháng 10 năm 2024. Truy cập ngày 8 tháng 12 năm 2023.
+Vincent, James (ngày 7 tháng 11 năm 2019). "OpenAI has published the text-generating AI it said was too dangerous to share" [OpenAI đã công bố AI tạo văn bản mà họ cho là quá nguy hiểm để chia sẻ]. The Verge (bằng tiếng Anh). Lưu trữ bản gốc ngày 11 tháng 6 năm 2020. Truy cập ngày 11 tháng 6 năm 2020.
+Trang mạng
+"Kismet". Phòng Thí nghiệm Trí tuệ Nhân tạo, Nhóm Nghiên cứu Người máy Hình người từ Viện Công nghệ Massachusetts. Lưu trữ bản gốc ngày 17 tháng 10 năm 2014. Truy cập ngày 25 tháng 10 năm 2014.
+Liên kết ngoài
+Tìm hiểu thêm về
+Trí tuệ nhân tạo
+tại các dự án liên quan
+Tìm kiếm Wiktionary	Từ điển từ Wiktionary
+Tìm kiếm Commons	Tập tin phương tiện từ Commons
+Tìm kiếm Wikiquote	Danh ngôn từ Wikiquote
+Tìm kiếm Wikidata	Dữ liệu từ Wikidata
+Mục nhập Trí tuệ nhân tạo trong Internet Encyclopedia of Philosophy (bằng tiếng Anh)
+xts
+Trí tuệ nhân tạo (AI)
+Liên kết đến các bài viết liên quan
+Cơ sở dữ liệu tiêu đề chuẩn Sửa dữ liệu tại Wikidata
+Thể loại: Trí tuệ nhân tạoLoại hình trí tuệCông nghệ mới nổiCông nghệ trong xã hộiVấn đề chưa được giải quyết trong khoa học máy tínhLĩnh vực tính toán họcKhoa học thần kinh tính toánĐiều khiển họcKhoa học dữ liệuKhoa học hình thứcTrí tuệ theo loại
+Trang này được sửa đổi lần cuối vào ngày 24 tháng 1 năm 2026, 19:50.
+Văn bản được phát hành theo Giấy phép Creative Commons Ghi công–Chia sẻ tương tự; có thể áp dụng điều khoản bổ sung. Với việc sử dụng trang web này, bạn chấp nhận Điều khoản Sử dụng và Quy định quyền riêng tư. Wikipedia® là thương hiệu đã đăng ký của Wikimedia Foundation, Inc., một tổ chức phi lợi nhuận.
+Chính sách quyền riêng tưGiới thiệu WikipediaLời phủ nhậnBộ Quy tắc Ứng xử ChungLập trình viênThống kêTuyên bố về cookiePhiên bản di động
+Wikimedia Foundation
+Powered by MediaWiki

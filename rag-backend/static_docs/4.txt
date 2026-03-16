@@ -1,0 +1,23 @@
+# CƠ SỞ DỮ LIỆU HỖ TRỢ KỸ THUẬT (TROUBLESHOOTING GUIDE)
+
+## VẤN ĐỀ 1: ĐIỆN THOẠI X-PHONE BỊ NÓNG VÀ HAO PIN NHANH
+**Nguyên nhân:** Thường do ứng dụng chạy ngầm hoặc xung đột phần mềm sau khi cập nhật XOS 5.0.
+**Cách khắc phục:**
+1. Bước 1: Vào Cài đặt -> Pin -> Chọn "Tối ưu hóa Pin".
+2. Bước 2: Kiểm tra các ứng dụng tiêu thụ pin nhiều nhất. Nếu là Facebook hoặc TikTok, hãy thử gỡ ra cài lại.
+3. Bước 3: Tắt tính năng "Vị trí chính xác" và "Bluetooth" nếu không sử dụng.
+4. Bước 4: Khởi động lại máy (Giữ nút Nguồn + Giảm âm lượng trong 10 giây).
+
+## VẤN ĐỀ 2: LAPTOP X-BOOK KHÔNG KẾT NỐI ĐƯỢC WIFI
+**Mã lỗi:** No Internet Access / Can't connect to this network.
+**Cách khắc phục:**
+1. Bước 1: Nhấn tổ hợp phím Fn + F5 để đảm bảo chế độ Máy bay đang TẮT.
+2. Bước 2: Vào Device Manager -> Network Adapters -> Chuột phải vào "X-Wireless Card" -> Chọn Uninstall Device.
+3. Bước 3: Khởi động lại Laptop, máy sẽ tự động cài lại Driver Wifi mới nhất.
+4. Bước 4: Nếu vẫn không được, hãy thử đổi DNS sang Google (8.8.8.8 / 8.8.4.4).
+
+## VẤN ĐỀ 3: TAI NGHE KHÔNG KẾT NỐI ĐƯỢC VỚI ĐIỆN THOẠI
+**Cách khắc phục:**
+1. Đặt 2 tai nghe vào hộp sạc, mở nắp.
+2. Nhấn giữ nút tròn phía sau hộp sạc trong 15 giây cho đến khi đèn chuyển sang màu đỏ nhấp nháy (Reset).
+3. Bật Bluetooth trên điện thoại và kết nối lại.

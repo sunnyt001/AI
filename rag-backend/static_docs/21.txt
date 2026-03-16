@@ -1,0 +1,11 @@
+# PHƯƠNG PHÁP HỌC TẬP HIỆU QUẢ TRONG THẾ GIỚI CÔNG NGHỆ
+
+Với sự bùng nổ của thông tin và các công cụ AI như hiện nay, phương pháp học tập theo kiểu truyền thống (ghi chép thụ động và học thuộc lòng) đã không còn phát huy hiệu quả. Một sinh viên hiện đại cần phải học cách "học để học" (Learn how to learn), tức là nắm vững các phương pháp để có thể tiếp thu kiến thức mới một cách nhanh chóng và sâu sắc nhất.
+
+Các kỹ thuật học tập đỉnh cao mà bạn nên áp dụng bao gồm:
+- Kỹ thuật Feynman: Đây là cách tốt nhất để kiểm tra mức độ hiểu bài của bạn. Hãy thử giải thích một khái niệm phức tạp (ví dụ: cách RAG hoạt động) cho một đứa trẻ 10 tuổi. Nếu bạn không thể giải thích đơn giản, nghĩa là bạn chưa thực sự hiểu sâu vấn đề đó.
+- Spaced Repetition (Lặp lại ngắt quãng): Thay vì học nhồi nhét 10 tiếng liên tục trước kỳ thi, hãy chia nhỏ thời gian ôn tập sau 1 ngày, 3 ngày, 7 ngày và 1 tháng. Kỹ thuật này giúp chuyển kiến thức từ trí nhớ ngắn hạn sang trí nhớ dài hạn.
+- Active Recall (Gợi nhớ chủ động): Thay vì đọc đi đọc lại giáo trình, hãy tự đặt câu hỏi và cố gắng nhớ lại câu trả lời mà không nhìn tài liệu. Việc ép bộ não phải làm việc để tìm kiếm thông tin sẽ tạo ra các liên kết thần kinh mạnh mẽ hơn.
+- Kết hợp công nghệ: Sử dụng các công cụ như Notion để quản lý kiến thức, Anki để ghi nhớ thẻ thông tin, và đặc biệt là sử dụng Chatbot AI để giải thích những phần kiến thức khó hiểu hoặc tóm tắt tài liệu dài.
+
+Học tập là một hành trình suốt đời. Bằng cách làm chủ các phương pháp học tập thông minh, bạn sẽ không bao giờ cảm thấy bị tụt hậu trước tốc độ thay đổi chóng mặt của công nghệ và tri thức nhân loại.

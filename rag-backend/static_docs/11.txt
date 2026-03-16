@@ -1,0 +1,20 @@
+# LỘ TRÌNH TỰ HỌC LẬP TRÌNH CHO NGƯỜI MỚI BẮT ĐẦU (BEGINNER)
+
+## 1. LỰA CHỌN NGÔN NGỮ ĐẦU TIÊN
+- Python: Phù hợp nhất cho người mới nhờ cú pháp gần giống tiếng Anh, mạnh về AI, Data Science và RAG (như dự án chúng ta đang làm).
+- JavaScript: Nếu bạn muốn làm Web (Frontend/Backend).
+- Java/C++: Phù hợp để học nền tảng khoa học máy tính và cấu trúc dữ liệu giải thuật trong trường đại học.
+
+## 2. CÁC CÔNG CỤ CẦN THIẾT
+- Trình biên soạn code: Visual Studio Code (VS Code) là phổ biến nhất.
+- Quản lý mã nguồn: Git và GitHub. Giúp lưu lại các phiên bản code và làm việc nhóm.
+- Môi trường ảo (Virtual Environment): Giúp quản lý thư viện Python không bị xung đột giữa các dự án.
+
+## 3. PHƯƠNG PHÁP HỌC "LEARNING BY DOING"
+- Đừng chỉ đọc lý thuyết suông. Hãy gõ code ngay khi học.
+- Xây dựng các dự án nhỏ (Mini projects) như: Máy tính bỏ túi, Chatbot đơn giản, Website cá nhân.
+- Đọc tài liệu (Documentation): Kỹ năng đọc hiểu tài liệu tiếng Anh là bắt buộc để tiến xa trong ngành IT.
+
+## 4. GIẢI QUYẾT LỖI (DEBUGGING)
+- Khi gặp lỗi, hãy copy thông báo lỗi dán lên Google hoặc StackOverflow.
+- Sử dụng các công cụ AI (như Gemini/ChatGPT) để giải thích mã nguồn, nhưng tuyệt đối không lạm dụng để copy-paste mà không hiểu bản chất.

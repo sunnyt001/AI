@@ -1,0 +1,293 @@
+Bỏ để qua phần nội dung
+Guru99
+
+Vòng lặp trong C: Câu lệnh lặp For, While, Do While [Ví dụ]
+Bởi:
+Benjamin walker
+cập nhật
+Tháng Tám 8, 2024
+Vòng lặp trong C là gì?
+Câu lệnh lặp trong C thực hiện chuỗi câu lệnh nhiều lần cho đến khi điều kiện đã nêu trở thành sai. Vòng lặp trong C bao gồm hai phần, phần thân vòng lặp và câu lệnh điều khiển. Câu lệnh điều khiển là sự kết hợp của một số điều kiện hướng dẫn phần thân vòng lặp thực thi cho đến khi điều kiện đã chỉ định trở thành sai. Mục đích của vòng lặp C là lặp lại cùng một mã nhiều lần.
+
+Mục lục:
+
+Các loại vòng lặp trong C
+Tùy thuộc vào vị trí của câu lệnh điều khiển trong chương trình, câu lệnh lặp trong C được phân thành hai loại:
+
+1. Vòng kiểm soát đầu vào
+
+2. Thoát khỏi vòng điều khiển
+
+Trong một vòng kiểm soát mục nhập trong C, một điều kiện được kiểm tra trước khi thực hiện phần thân của vòng lặp. Nó còn được gọi là vòng lặp kiểm tra trước.
+
+Trong một thoát khỏi vòng lặp kiểm soát, một điều kiện được kiểm tra sau khi thực hiện phần thân của vòng lặp. Nó còn được gọi là vòng lặp kiểm tra sau.
+
+Các loại vòng lặp trong C
+Vòng lặp mẫu
+Các điều kiện điều khiển phải được xác định rõ ràng và chỉ định nếu không vòng lặp sẽ thực hiện vô số lần. Vòng lặp không dừng thực hiện và xử lý các câu lệnh nhiều lần được gọi là vòng lặp vô hạn. Vòng lặp vô hạn còn được gọi là “Vòng lặp vô tận.” Sau đây là một số đặc điểm của vòng lặp vô hạn:
+
+1. Không quy định điều kiện chấm dứt.
+
+2. Các điều kiện quy định không bao giờ đáp ứng được.
+
+Điều kiện đã chỉ định xác định có thực hiện thân vòng lặp hay không.
+
+Ngôn ngữ lập trình 'C' cung cấp cho chúng ta ba loại cấu trúc vòng lặp:
+
+1. Vòng lặp while
+
+2. Vòng lặp do-while
+
+3. Vòng lặp for
+
+Sr No.	Loại vòng	Mô tả Chi tiết
+1.	Trong khi lặp lại	Trong vòng lặp while, một điều kiện được đánh giá trước khi xử lý phần thân của vòng lặp. Nếu một điều kiện là đúng thì chỉ khi đó phần thân của vòng lặp mới được thực thi.
+2.	Vòng lặp Do-while	Trong vòng lặp do…while, điều kiện luôn được thực thi sau phần thân vòng lặp. Nó còn được gọi là vòng lặp kiểm soát lối ra.
+3.	Đối với vòng lặp	Trong vòng lặp for, giá trị ban đầu chỉ được thực hiện một lần, sau đó điều kiện sẽ kiểm tra và so sánh bộ đếm với một giá trị cố định sau mỗi lần lặp, dừng vòng lặp for khi trả về giá trị false.
+Trong khi Vòng lặp trong C
+Vòng lặp while là cấu trúc vòng lặp đơn giản nhất. Cú pháp vòng lặp while trong ngôn ngữ lập trình C như sau:
+
+Cú pháp vòng lặp while trong C
+while (condition) {
+             statements;
+}
+Nó là một vòng lặp kiểm soát mục nhập. Trong vòng lặp while, một điều kiện được đánh giá trước khi xử lý phần thân của vòng lặp. Nếu một điều kiện là đúng thì chỉ khi đó phần thân của vòng lặp mới được thực thi. Sau khi phần thân của vòng lặp được thực thi, điều khiển sẽ quay lại từ đầu và điều kiện được kiểm tra xem nó có đúng hay không, quá trình tương tự sẽ được thực hiện cho đến khi điều kiện trở thành sai. Khi điều kiện trở thành sai, điều khiển sẽ thoát khỏi vòng lặp.
+
+Sau khi thoát khỏi vòng lặp, điều khiển sẽ chuyển đến các câu lệnh ngay sau vòng lặp. Phần thân của vòng lặp có thể chứa nhiều hơn một câu lệnh. Nếu nó chỉ chứa một câu lệnh thì không bắt buộc phải có dấu ngoặc nhọn. Tuy nhiên, đó là một cách tốt để sử dụng dấu ngoặc nhọn ngay cả khi chúng ta có một câu lệnh duy nhất trong phần nội dung.
+
+Trong vòng lặp while, nếu điều kiện không đúng thì phần thân của vòng lặp sẽ không được thực thi, dù chỉ một lần. Nó khác với vòng lặp do while mà chúng ta sẽ thấy ngay sau đây.
+
+Chương trình sau minh họa vòng lặp while trong ví dụ lập trình C:
+
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+	int num=1;	//initializing the variable
+	while(num<=10)	//while loop with condition
+	{
+		printf("%d\n",num);
+		num++;		//incrementing operation
+	}
+	return 0;
+}
+Đầu ra:
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Chương trình trên minh họa việc sử dụng vòng lặp while. Trong chương trình trên, chúng ta đã in dãy số từ 1 đến 10 bằng vòng lặp while.
+
+Trong khi Vòng lặp trong C
+Vòng lặp while trong lập trình C
+Chúng tôi đã khởi tạo một biến tên là num với giá trị 1. Chúng tôi sẽ in từ 1 đến 10 do đó biến được khởi tạo với giá trị 1. Nếu bạn muốn in từ 0, hãy gán giá trị 0 trong quá trình khởi tạo.
+Trong vòng lặp while, chúng ta đã cung cấp một điều kiện (num<=10), nghĩa là vòng lặp sẽ thực thi phần thân cho đến khi giá trị của num trở thành 10. Sau đó, vòng lặp sẽ kết thúc và điều khiển sẽ nằm ngoài vòng lặp.
+Trong phần thân của vòng lặp, chúng ta có hàm in để in số và thao tác tăng dần để tăng giá trị mỗi lần thực hiện vòng lặp. Giá trị ban đầu của num là 1, sau khi thực thi, nó sẽ trở thành 2 và trong lần thực thi tiếp theo, nó sẽ trở thành 3. Quá trình này sẽ tiếp tục cho đến khi giá trị trở thành 10 và sau đó nó sẽ in chuỗi trên bảng điều khiển và kết thúc vòng lặp .
+\n được sử dụng cho mục đích định dạng, nghĩa là giá trị sẽ được in trên một dòng mới.
+
+Vòng lặp Do-while trong C
+Vòng lặp do…while trong C tương tự như vòng lặp while ngoại trừ điều kiện luôn được thực thi sau phần thân vòng lặp. Nó còn được gọi là vòng lặp kiểm soát lối ra.
+
+Cú pháp của vòng lặp do while trong ngôn ngữ lập trình C như sau:
+
+Cú pháp vòng lặp Do-while trong C
+ do {
+  statements
+} while (expression);
+Như chúng ta đã thấy trong vòng lặp while, phần thân được thực thi khi và chỉ nếu điều kiện là đúng. Trong một số trường hợp, chúng ta phải thực thi phần thân vòng lặp ít nhất một lần ngay cả khi điều kiện sai. Loại hoạt động này có thể đạt được bằng cách sử dụng vòng lặp do-while.
+
+Trong vòng lặp do-while, thân vòng lặp luôn được thực hiện ít nhất một lần. Sau khi thân vòng lặp được thực hiện, nó sẽ kiểm tra điều kiện. Nếu điều kiện là đúng, thì nó sẽ thực hiện lại thân vòng lặp, nếu không, quyền điều khiển sẽ được chuyển ra khỏi vòng lặp.
+
+Tương tự như vòng lặp while, khi điều khiển thoát ra khỏi vòng lặp, các câu lệnh sẽ xuất hiện ngay sau khi vòng lặp được thực thi.
+
+Sự khác biệt quan trọng giữa vòng lặp while và do-while là trong vòng lặp while, while được viết ở đầu. Trong vòng lặp do-while, điều kiện while được viết ở cuối và kết thúc bằng dấu chấm phẩy (;)
+
+Chương trình vòng lặp sau đây bằng C minh họa cách hoạt động của vòng lặp do-while:
+
+Dưới đây là vòng lặp do-while trong ví dụ C để in bảng số 2:
+
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+	int num=1;	//initializing the variable
+	do	//do-while loop 
+	{
+		printf("%d\n",2*num);
+		num++;		//incrementing operation
+	}while(num<=10);
+	return 0;
+}
+Đầu ra:
+
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Trong ví dụ trên, chúng ta đã in bảng nhân của 2 bằng vòng lặp do-while. Hãy xem chương trình có thể in chuỗi này như thế nào.
+
+Vòng lặp Do-while trong C
+Vòng lặp Do-while trong lập trình C
+Đầu tiên, chúng ta khởi tạo một biến 'num' có giá trị 1. Sau đó, chúng ta viết một vòng lặp do-while.
+Trong một vòng lặp, chúng ta có hàm in sẽ in chuỗi bằng cách nhân giá trị của num với 2.
+Sau mỗi lần tăng, giá trị của num sẽ tăng thêm 1 và được in ra màn hình.
+Ban đầu, giá trị của num là 1. Trong phần thân của vòng lặp, hàm in sẽ được thực thi theo cách này: 2*num trong đó num=1, sau đó 2*1=2 do đó giá trị hai sẽ được in. Điều này sẽ tiếp tục cho đến khi giá trị của num trở thành 10. Sau đó vòng lặp đó sẽ kết thúc và một câu lệnh ngay sau vòng lặp sẽ được thực thi. Trong trường hợp này trả về 0.
+Vòng lặp For trong C
+Vòng lặp for là cấu trúc vòng lặp hiệu quả hơn trong lập trình 'C'. Cấu trúc chung của cú pháp vòng lặp for trong C như sau:
+
+Cú pháp vòng lặp For trong C
+for (initial value; condition; incrementation or decrementation ) 
+{
+  statements;
+}
+Giá trị ban đầu của vòng lặp for chỉ được thực hiện một lần.
+Điều kiện là một biểu thức Boolean dùng để kiểm tra và so sánh bộ đếm với một giá trị cố định sau mỗi lần lặp, dừng vòng lặp for khi trả về giá trị false.
+Việc tăng/giảm sẽ tăng (hoặc giảm) bộ đếm theo một giá trị đã đặt.
+Chương trình sau minh họa vòng lặp for trong ví dụ lập trình C:
+
+#include<stdio.h>
+int main()
+{
+	int number;
+	for(number=1;number<=10;number++)	//for loop to print 1-10 numbers
+	{
+		printf("%d\n",number);		//to print the number
+	}
+	return 0;
+}
+Đầu ra:
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Chương trình trên in dãy số từ 1-10 bằng vòng lặp for.
+
+Vòng lặp For trong C
+Vòng lặp For trong lập trình C
+Chúng tôi đã tuyên bố một biến kiểu dữ liệu int để lưu trữ giá trị.
+Trong vòng lặp for, ở phần khởi tạo, chúng ta đã gán giá trị 1 cho biến số. Trong phần điều kiện, chúng tôi đã chỉ định điều kiện của mình và sau đó là phần tăng dần.
+Trong phần thân vòng lặp, chúng ta có hàm print để in các số trên một dòng mới trong bảng điều khiển. Chúng ta có giá trị một được lưu dưới dạng số, sau lần lặp đầu tiên, giá trị sẽ tăng lên và trở thành 2. Bây giờ biến số có giá trị 2. Điều kiện sẽ được kiểm tra lại và vì điều kiện là đúng nên vòng lặp sẽ được thực thi, và nó sẽ in hai trên màn hình. Vòng lặp này sẽ tiếp tục thực hiện cho đến khi giá trị của biến trở thành 10. Sau đó, vòng lặp sẽ kết thúc và một chuỗi từ 1 đến 10 sẽ được in trên màn hình.
+Trong C, vòng lặp for có thể có nhiều biểu thức được phân tách bằng dấu phẩy ở mỗi phần.
+
+Ví dụ:
+
+for (x = 0, y = num; x < y; i++, y--) { 
+  statements; 
+}
+Ngoài ra, chúng ta có thể bỏ qua biểu thức giá trị ban đầu, điều kiện và/hoặc mức tăng bằng cách thêm dấu chấm phẩy.
+
+Ví dụ:
+
+int i=0;
+int max = 10;
+for (; i < max; i++) {
+  printf("%d\n", i);
+}
+Lưu ý rằng các vòng lặp cũng có thể được lồng vào nhau khi có vòng lặp bên ngoài và vòng lặp bên trong. Đối với mỗi lần lặp của vòng lặp bên ngoài, vòng lặp bên trong sẽ lặp lại toàn bộ chu trình của nó.
+
+Hãy xem xét ví dụ sau với nhiều điều kiện trong vòng lặp for, sử dụng vòng lặp for lồng nhau trong lập trình C để xuất ra bảng cửu chương:
+
+#include <stdio.h>
+int main() {
+int i, j;
+int table = 2;
+int max = 5;
+for (i = 1; i <= table; i++) { // outer loop
+  for (j = 0; j <= max; j++) { // inner loop
+    printf("%d x %d = %d\n", i, j, i*j);
+  }
+  printf("\n"); /* blank line between tables */
+}}
+Đầu ra:
+
+1 x 0 = 0
+1 x 1 = 1
+1 x 2 = 2
+1 x 3 = 3
+1 x 4 = 4
+1 x 5 = 5
+
+2 x 0 = 0
+2 x 1 = 2
+2 x 2 = 4
+2 x 3 = 6
+2 x 4 = 8
+2 x 5 = 10
+Việc lồng các vòng lặp for có thể được thực hiện ở mọi cấp độ. Các vòng lặp lồng nhau phải được thụt vào vừa đủ để mã có thể đọc được. Trong một số phiên bản của 'C', việc lồng nhau bị giới hạn tối đa 15 vòng lặp, nhưng một số phiên bản còn cung cấp nhiều hơn thế.
+
+Các vòng lặp lồng nhau chủ yếu được sử dụng trong các ứng dụng mảng mà chúng ta sẽ thấy trong các hướng dẫn tiếp theo.
+
+Câu lệnh Break trong C
+Câu lệnh break được sử dụng chủ yếu trong chuyển đổi tuyên bố. Nó cũng hữu ích để dừng ngay lập tức một vòng lặp.
+
+Chúng ta xem xét chương trình sau đây có sử dụng lệnh break để thoát khỏi vòng lặp while:
+
+#include <stdio.h>
+int main() {
+int num = 5;
+while (num > 0) {
+  if (num == 3)
+    break;
+  printf("%d\n", num);
+  num--;
+}}
+Đầu ra:
+
+5
+4
+Tiếp tục câu lệnh trong C
+Khi bạn muốn chuyển sang lần lặp tiếp theo nhưng vẫn ở trong vòng lặp, bạn nên sử dụng câu lệnh continue.
+
+Ví dụ:
+
+#include <stdio.h>
+int main() {
+int nb = 7;
+while (nb > 0) {
+  nb--;
+  if (nb == 5)
+    continue;
+ printf("%d\n", nb);
+}}
+Đầu ra:
+
+6
+4
+3
+2
+1
+Vì vậy, giá trị 5 bị bỏ qua.
+
+Chọn vòng lặp nào?
+Việc lựa chọn một vòng lặp luôn là một nhiệm vụ khó khăn đối với một lập trình viên, để chọn một vòng lặp, hãy thực hiện các bước sau:
+
+Phân tích vấn đề và kiểm tra xem nó có yêu cầu vòng lặp kiểm tra trước hay sau kiểm tra hay không.
+Nếu cần phải kiểm tra trước, hãy sử dụng vòng lặp while hoặc for.
+Nếu cần phải kiểm tra sau, hãy sử dụng vòng lặp do-while.
+Tổng kết
+Định nghĩa vòng lặp trong C: Vòng lặp là một trong những khái niệm then chốt trên bất kỳ ngôn ngữ nào. Ngôn ngữ lập trình. Vòng lặp trong ngôn ngữ C được thực hiện bằng các câu lệnh điều kiện.
+Một khối câu lệnh điều khiển vòng lặp trong C được thực thi nhiều lần cho đến khi điều kiện trở thành sai.
+Vòng lặp trong lập trình C có 2 loại: kiểm soát đầu vào và kiểm soát đầu ra.
+Liệt kê các lệnh điều khiển vòng lặp khác nhau trong C: Lập trình C cung cấp cho chúng ta 1) while 2) do-while và 3) cho các lệnh điều khiển vòng lặp.
+Lập trình vòng lặp For và while C là các vòng lặp được kiểm soát đầu vào trong ngôn ngữ C.
+Do-while là vòng lặp điều khiển thoát trong C.

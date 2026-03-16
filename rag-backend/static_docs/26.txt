@@ -1,0 +1,11 @@
+# XÂY DỰNG VĂN HÓA INTERNET VĂN MINH VÀ AN TOÀN
+
+Internet là một kho tàng tri thức khổng lồ nhưng cũng đầy rẫy những rủi ro và cạm bẫy nếu chúng ta không biết cách sử dụng một cách thông minh và có văn hóa. Văn hóa Internet không chỉ dừng lại ở việc tuân thủ các quy định pháp luật (như Luật An ninh mạng) mà còn nằm ở cách chúng ta đối xử với nhau trên không gian ảo, cách chúng ta bảo vệ quyền riêng tư và thẩm định thông tin trước khi lan truyền.
+
+Để trở thành một "cư dân mạng" văn minh, bạn nên thực hành các nguyên tắc sau:
+1. Kiểm chứng thông tin (Fact-check): Trước khi nhấn nút "Chia sẻ" một tin tức gây sốc, hãy dừng lại 30 giây để kiểm tra nguồn tin. Tin giả có thể gây hại nghiêm trọng đến cá nhân hoặc gây hoang mang cho cộng đồng.
+2. Tôn trọng bản quyền và trí tuệ: Khi sử dụng hình ảnh, bài viết hay mã nguồn của người khác, hãy luôn trích dẫn nguồn rõ ràng. Đặc biệt trong môi trường học thuật, việc đạo văn hoặc lạm dụng AI mà không ghi nhận là hành vi vi phạm đạo đức nghiêm trọng.
+3. Bảo mật thông tin cá nhân: Đừng bao giờ công khai các thông tin nhạy cảm như số căn cước, địa chỉ nhà hay lịch trình di chuyển chi tiết lên mạng xã hội. Những kẻ xấu có thể lợi dụng điều này để thực hiện hành vi lừa đảo hoặc tống tiền.
+4. Nói không với bắt nạt qua mạng (Cyberbullying): Những bình luận ác ý, chế giễu ngoại hình hay đời tư của người khác có thể gây ra những tổn thương tâm lý không thể chữa lành. Hãy luôn nhớ rằng: "Đằng sau mỗi màn hình là một con người bằng xương bằng thịt".
+
+Sống văn minh trên mạng chính là cách bạn bảo vệ danh dự của chính mình và góp phần tạo nên một xã hội số lành mạnh cho tương lai.

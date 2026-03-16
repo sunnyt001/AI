@@ -1,0 +1,10 @@
+# TÌM HIỂU SÂU VỀ KIẾN TRÚC RETRIEVAL-AUGMENTED GENERATION (RAG)
+
+Retrieval-Augmented Generation (RAG) là một kỹ thuật tiên tiến trong lĩnh vực xử lý ngôn ngữ tự nhiên, cho phép các mô hình ngôn ngữ lớn (LLM) như GPT-4 truy xuất và sử dụng dữ liệu từ các nguồn bên ngoài để tạo ra câu trả lời chính xác, cập nhật và có tính xác thực cao. Thay vì chỉ dựa vào kiến thức tĩnh được học trong quá trình huấn luyện, RAG hoạt động như một hệ thống "tra cứu sách giáo khoa" trước khi trả lời người dùng, giúp hạn chế tối đa hiện tượng "ảo giác" (hallucination) của AI.
+
+Quy trình hoạt động của RAG bao gồm ba giai đoạn chính:
+1. Giai đoạn Thu thập và Lưu trữ (Ingestion): Các tài liệu thô (như file .txt trong thư mục /data này) sẽ được cắt nhỏ thành các đoạn văn bản (chunks). Sau đó, mỗi đoạn sẽ được chuyển đổi thành một dãy số (vector) thông qua mô hình Embedding. Các vector này được lưu trữ trong một cơ sở dữ liệu chuyên biệt gọi là Vector Database (như ChromaDB).
+2. Giai đoạn Truy xuất (Retrieval): Khi người dùng đặt câu hỏi, hệ thống sẽ chuyển câu hỏi đó thành vector và tìm kiếm trong Vector Database để lấy ra các đoạn văn bản có nội dung liên quan nhất dựa trên độ tương đồng ngữ nghĩa.
+3. Giai đoạn Tạo phản hồi (Generation): Các đoạn văn bản tìm được sẽ được ghép cùng với câu hỏi gốc để tạo thành một Prompt (lời nhắc) chi tiết gửi đến LLM. Nhờ có ngữ cảnh cụ thể này, LLM sẽ tổng hợp và đưa ra câu trả lời chính xác nhất.
+
+Việc ứng dụng RAG giúp doanh nghiệp và cá nhân có thể xây dựng những chatbot am hiểu tường tận về dữ liệu riêng tư hoặc dữ liệu chuyên ngành mà không cần phải huấn luyện lại (finetuning) toàn bộ mô hình AI, giúp tiết kiệm thời gian và chi phí cực lớn.

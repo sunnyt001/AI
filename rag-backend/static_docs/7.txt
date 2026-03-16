@@ -1,0 +1,28 @@
+# BỘ DỮ LIỆU: PHƯƠNG PHÁP HỌC TẬP HIỆU QUẢ (META-LEARNING)
+
+## BÀI 1: KỸ THUẬT POMODORO - ĐÁNH BẠI SỰ TRÌ HOÃN
+**Nguyên lý:** Bộ não con người chỉ có thể tập trung cao độ trong khoảng ngắn.
+**Quy trình thực hiện:**
+1. Chọn một nhiệm vụ cần làm (Ví dụ: Học 20 từ vựng tiếng Anh).
+2. Đặt đồng hồ 25 phút (1 Pomodoro). Trong 25 phút này, cấm tuyệt đối check Facebook, điện thoại.
+3. Hết 25 phút -> Nghỉ 5 phút (Đứng dậy đi lại, uống nước).
+4. Sau 4 chu kỳ (4 x 25p) -> Nghỉ dài 15-30 phút.
+**Lợi ích:** Giảm mệt mỏi tinh thần, tạo cảm giác cấp bách để hoàn thành việc nhanh hơn.
+
+## BÀI 2: KỸ THUẬT FEYNMAN - HỌC BẰNG CÁCH DẠY LẠI
+**Khái niệm:** Nếu bạn không thể giải thích một vấn đề một cách đơn giản, nghĩa là bạn chưa hiểu nó đủ sâu.
+**4 Bước thực hiện:**
+1. Chọn chủ đề muốn học.
+2. Giả vờ dạy lại kiến thức đó cho một đứa trẻ lớp 6. Dùng từ ngữ đơn giản, tránh thuật ngữ chuyên ngành.
+3. Khi gặp chỗ tắc tịt (không giải thích được) -> Mở sách ra học lại chỗ đó.
+4. Đơn giản hóa và sử dụng so sánh (Analogy). (Ví dụ: Giải thích dòng điện giống như dòng nước chảy trong ống).
+
+## BÀI 3: PHƯƠNG PHÁP LẶP LẠI NGẮT QUÃNG (SPACED REPETITION)
+**Vấn đề:** Đường cong quên lãng (Forgetting Curve) - Chúng ta quên 80% kiến thức sau 24h.
+**Giải pháp:** Ôn tập lại vào đúng "điểm rơi" của trí nhớ.
+- Lần 1: Học ngay trên lớp.
+- Lần 2: Ôn lại sau 1 ngày (về nhà xem lại ngay).
+- Lần 3: Ôn lại sau 3 ngày.
+- Lần 4: Ôn lại sau 1 tuần.
+- Lần 5: Ôn lại sau 1 tháng.
+**Công cụ hỗ trợ:** Sử dụng Flashcard (Anki, Quizlet) để máy tính tự tính toán thời điểm nhắc bạn ôn bài.

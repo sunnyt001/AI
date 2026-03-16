@@ -1,0 +1,176 @@
+Chào bạn, đây là một bản thảo chi tiết và đầy đủ cho tài liệu "Chính sách bảo hành sản phẩm" của công ty giả định Điện Tử X (X-Electronics).
+
+Tôi đã thiết kế tài liệu này với cấu trúc rất chặt chẽ, sử dụng nhiều thuật ngữ chuyên ngành và các con số cụ thể (ngày tháng, phần trăm phí, điều kiện kỹ thuật). Điều này cực kỳ tốt cho việc test hệ thống RAG của bạn, vì nó buộc Chatbot phải tìm đúng "đoạn văn" (chunk) để trả lời chính xác các câu hỏi khó như: "Màn hình có mấy điểm chết thì được bảo hành?" hay "Phí trả hàng khi không thích là bao nhiêu?".
+
+Bạn hãy copy nội dung dưới đây, lưu vào file .txt hoặc .docx và nạp vào hệ thống nhé.
+
+CÔNG TY CỔ PHẦN CÔNG NGHỆ & ĐIỆN TỬ X (X-ELECTRONICS)
+SỐ HIỆU VĂN BẢN: CSBH-2026/V1 NGÀY HIỆU LỰC: 01/01/2026
+
+CHÍNH SÁCH BẢO HÀNH VÀ ĐỔI TRẢ SẢN PHẨM
+LỜI NÓI ĐẦU
+Công ty Cổ phần Công nghệ & Điện tử X (gọi tắt là "X-Electronics" hoặc "Chúng tôi") cam kết mang đến cho khách hàng sự hài lòng tối đa thông qua các sản phẩm chất lượng cao và dịch vụ hậu mãi chuyên nghiệp. Văn bản này quy định chi tiết về quyền lợi, trách nhiệm và các quy trình liên quan đến việc bảo hành, sửa chữa, đổi trả sản phẩm do X-Electronics phân phối chính hãng tại thị trường Việt Nam.
+
+PHẦN I. ĐỊNH NGHĨA VÀ GIẢI THÍCH TỪ NGỮ
+Để đảm bảo sự thống nhất trong việc hiểu và áp dụng chính sách, các từ ngữ dưới đây được hiểu như sau:
+
+Sản phẩm: Bao gồm các thiết bị điện tử như Điện thoại thông minh (Smartphone), Máy tính xách tay (Laptop), Máy tính bảng (Tablet), Đồng hồ thông minh (Smartwatch) và các phụ kiện đi kèm do X-Electronics sản xuất hoặc phân phối.
+
+Lỗi kỹ thuật (Lỗi phần cứng): Là các lỗi phát sinh từ quy trình sản xuất, linh kiện lắp ráp của nhà sản xuất, khiến thiết bị không hoạt động theo đúng thông số kỹ thuật công bố (ví dụ: không lên nguồn, liệt cảm ứng, mất âm thanh, không nhận SIM).
+
+Lỗi phần mềm: Là các lỗi liên quan đến hệ điều hành, ứng dụng cài đặt, virus, xung đột phần mềm do người sử dụng cài đặt thêm.
+
+Bảo hành điện tử (E-Warranty): Là chế độ bảo hành được kích hoạt và quản lý thông qua số IMEI/Serial Number trên hệ thống máy chủ của X-Electronics, không cần dùng phiếu bảo hành giấy.
+
+PHẦN II. THỜI GIAN VÀ PHẠM VI BẢO HÀNH
+1. Thời hạn bảo hành tiêu chuẩn
+Thời hạn bảo hành được tính từ ngày kích hoạt bảo hành điện tử hoặc ngày trên hóa đơn mua hàng (tùy theo điều kiện nào đến trước), cụ thể áp dụng cho từng nhóm sản phẩm như sau:
+
+Điện thoại thông minh (Smartphone dòng X-Phone): 18 tháng đối với thân máy, 12 tháng đối với pin đi kèm theo máy.
+
+Máy tính xách tay (Laptop dòng X-Book): 24 tháng đối với thân máy (Mainboard, Màn hình, CPU, RAM, Ổ cứng); 12 tháng đối với Pin và Bộ sạc (Adapter).
+
+Máy tính bảng (X-Tab): 12 tháng đối với thân máy và pin.
+
+Phụ kiện rời (Tai nghe, Cáp sạc, Chuột, Bàn phím): 06 tháng (đổi mới nếu có lỗi).
+
+Quà tặng khuyến mãi: Bảo hành 01 tháng hoặc theo chính sách riêng của từng chương trình (nếu có).
+
+2. Phạm vi bảo hành
+Chính sách này chỉ áp dụng cho các sản phẩm được phân phối chính hãng bởi X-Electronics hoặc các đại lý ủy quyền chính thức.
+
+Bảo hành bao gồm việc sửa chữa, thay thế linh kiện miễn phí đối với các hư hỏng được xác định là do lỗi của nhà sản xuất trong điều kiện sử dụng bình thường.
+
+PHẦN III. CHÍNH SÁCH ĐỔI TRẢ SẢN PHẨM (1 ĐỔI 1)
+X-Electronics áp dụng chính sách đổi trả linh hoạt nhằm bảo vệ quyền lợi người tiêu dùng, chia thành hai trường hợp chính:
+
+1. Đổi trả do lỗi của nhà sản xuất (Lỗi phần cứng)
+Trong vòng 30 ngày đầu tiên (tính từ ngày mua hàng), nếu sản phẩm phát sinh lỗi phần cứng đã được Trung tâm bảo hành X-Electronics xác nhận:
+
+Quyền lợi: Khách hàng được đổi ngay một sản phẩm mới cùng model, cùng màu sắc, cùng dung lượng.
+
+Trường hợp hết hàng: Nếu model đó hết hàng, khách hàng có quyền:
+
+Chờ hàng về (tối đa 07 ngày).
+
+Đổi sang model khác có giá trị tương đương hoặc cao hơn (bù chênh lệch).
+
+Hoàn tiền 100% giá trị trên hóa đơn.
+
+Điều kiện đổi: Thân máy không bị trầy xước, móp méo, nứt vỡ; còn đầy đủ hộp, phụ kiện và quà tặng đi kèm (nếu có). Nếu mất hộp hoặc phụ kiện, X-Electronics sẽ thu phí theo bảng giá linh kiện hiện hành.
+
+2. Đổi trả theo nhu cầu cá nhân (Sản phẩm không lỗi)
+Trong trường hợp sản phẩm hoạt động bình thường nhưng khách hàng muốn đổi trả vì lý do cá nhân (không thích màu, muốn đổi model khác, thấy không phù hợp):
+
+Trong 15 ngày đầu tiên:
+
+Thu phí trải nghiệm: 20% giá trị hóa đơn.
+
+Yêu cầu: Sản phẩm phải còn mới 100%, chưa kích hoạt bảo hành điện tử (đối với một số dòng đặc biệt), hoặc đã kích hoạt nhưng không trầy xước.
+
+Từ ngày 16 đến ngày 30:
+
+Thu phí trải nghiệm: 30% giá trị hóa đơn.
+
+Sau 30 ngày: X-Electronics không hỗ trợ nhập lại hoặc đổi trả đối với sản phẩm không có lỗi.
+
+3. Quy định đặc biệt về Màn hình (Điểm chết/Dead Pixel)
+Do đặc thù công nghệ sản xuất tấm nền màn hình, chính sách bảo hành điểm chết được quy định như sau:
+
+Dưới 03 điểm chết (sáng hoặc tối): Được coi là sai số cho phép của nhà sản xuất, không thuộc diện đổi mới hoặc bảo hành.
+
+Từ 03 điểm chết trở lên: Được xác định là lỗi kỹ thuật và được hưởng chế độ bảo hành/đổi trả.
+
+PHẦN IV. ĐIỀU KIỆN ĐỂ ĐƯỢC BẢO HÀNH MIỄN PHÍ
+Sản phẩm sẽ được chấp nhận bảo hành miễn phí nếu đáp ứng đầy đủ các điều kiện sau:
+
+Sản phẩm còn trong thời hạn bảo hành theo quy định tại Phần II.
+
+Sản phẩm còn nguyên tem niêm phong (Tem bảo hành, Tem ốc) của X-Electronics hoặc nhà sản xuất. Tem phải còn nguyên vẹn, không bị rách, chắp vá, tẩy xóa.
+
+Số IMEI/Serial Number trên thân máy, trên vỏ hộp và trên hệ thống phần mềm phải trùng khớp nhau và trùng khớp với dữ liệu trên hệ thống kích hoạt bảo hành.
+
+Sản phẩm không thuộc nhóm "Các trường hợp từ chối bảo hành" quy định tại Phần V.
+
+Đối với các sản phẩm có tính năng chống nước (theo chuẩn IP67, IP68): Khả năng chống nước là tính năng hỗ trợ bảo vệ, không phải là tính năng vĩnh viễn và có thể hao mòn theo thời gian. X-Electronics khuyến cáo không lạm dụng tính năng này.
+
+PHẦN V. CÁC TRƯỜNG HỢP TỪ CHỐI BẢO HÀNH (QUAN TRỌNG)
+X-Electronics có quyền từ chối bảo hành miễn phí (chuyển sang dịch vụ sửa chữa có tính phí) đối với các trường hợp sau đây, bất kể sản phẩm còn thời hạn bảo hành hay không:
+
+1. Hư hỏng do tác động vật lý và môi trường
+Sản phẩm có dấu hiệu bị rơi rớt, va đập mạnh dẫn đến cấn móp, cong vênh khung sườn, nứt vỡ màn hình hoặc biến dạng các cổng kết nối.
+
+Sản phẩm bị tiếp xúc với chất lỏng (nước, hóa chất, đồ uống) gây ra hiện tượng oxy hóa mainboard, mốc linh kiện hoặc quỳ tím đổi màu (kể cả đối với các thiết bị có chuẩn kháng nước IP68, nếu kiểm tra bên trong thấy dấu hiệu nước xâm nhập).
+
+Hư hỏng do để thiết bị trong môi trường nhiệt độ quá cao (trên 60 độ C), quá ẩm ướt, bụi bẩn hoặc từ trường mạnh.
+
+2. Hư hỏng do côn trùng và tác nhân bên ngoài
+Sản phẩm bị côn trùng xâm nhập (kiến, gián, mối...) làm tổ, cắn phá mạch điện hoặc gây chập cháy bên trong.
+
+Hư hỏng do thiên tai, hỏa hoạn, lũ lụt, sét đánh hoặc điện áp nguồn điện không ổn định (đối với Laptop và Sạc).
+
+3. Can thiệp trái phép (Unauthorized Intervention)
+Sản phẩm đã bị tháo mở, sửa chữa, thay thế linh kiện tại các cửa hàng, trung tâm sửa chữa không thuộc hệ thống ủy quyền của X-Electronics.
+
+Tem niêm phong trên ốc vít bị trầy xước, có dấu hiệu cạy mở.
+
+4. Lỗi liên quan đến Phần mềm và Bảo mật
+Thiết bị bị khóa tài khoản bảo mật cá nhân (X-Cloud, Google Account, iCloud, Mật khẩu màn hình) mà khách hàng không thể tự mở khóa hoặc cung cấp chứng từ sở hữu hợp pháp.
+
+Máy bị can thiệp phần mềm hệ thống sâu (Root, Jailbreak, Unlock Bootloader), cài đặt các bản ROM tùy chỉnh không chính hãng dẫn đến treo logo, mất IMEI hoặc hư hỏng phần cứng liên quan.
+
+Lỗi do virus, phần mềm độc hại hoặc các ứng dụng bên thứ ba không tương thích.
+
+5. Hao mòn tự nhiên
+Các chi tiết ngoại quan như tróc sơn, phai màu, trầy xước vỏ máy, mờ bàn phím trong quá trình sử dụng.
+
+Pin bị chai (dung lượng thực tế giảm) theo thời gian sử dụng, trừ khi pin bị phồng hoặc chết hẳn trong thời gian bảo hành.
+
+PHẦN VI. QUY TRÌNH TIẾP NHẬN VÀ XỬ LÝ BẢO HÀNH
+Để đảm bảo việc xử lý nhanh chóng, khách hàng vui lòng tuân thủ quy trình sau:
+
+Bước 1: Liên hệ và Tư vấn
+
+Khách hàng gọi điện đến tổng đài CSKH: 1900.XXXX hoặc truy cập website support.xelectronics.vn để mô tả lỗi.
+
+Nhân viên tư vấn sẽ hướng dẫn khắc phục sự cố phần mềm từ xa (nếu có thể).
+
+Bước 2: Gửi máy đến Trung tâm bảo hành (TTBH)
+
+Khách hàng mang máy trực tiếp đến TTBH hoặc gửi qua đường bưu điện.
+
+Lưu ý: Khách hàng cần sao lưu dữ liệu cá nhân, đăng xuất các tài khoản bảo mật và tháo thẻ nhớ/SIM trước khi gửi bảo hành. X-Electronics không chịu trách nhiệm về việc mất mát dữ liệu trong quá trình sửa chữa.
+
+Bước 3: Kiểm tra và Thông báo
+
+Kỹ thuật viên sẽ kiểm tra tình trạng máy trong vòng 24 giờ.
+
+Nếu đủ điều kiện bảo hành: Tiến hành sửa chữa/thay thế ngay.
+
+Nếu bị từ chối bảo hành: TTBH sẽ gọi điện thông báo lý do, báo giá phí sửa chữa dịch vụ. Khách hàng có quyền đồng ý hoặc từ chối sửa chữa.
+
+Bước 4: Trả máy
+
+Thời gian xử lý trung bình: Từ 03 đến 07 ngày làm việc (không tính Chủ Nhật và ngày lễ).
+
+Đối với các ca phức tạp hoặc chờ linh kiện từ hãng mẹ, thời gian có thể kéo dài tối đa 15 ngày (sẽ có thông báo cụ thể).
+
+PHẦN VII. DỊCH VỤ SỬA CHỮA CÓ THU PHÍ (DỊCH VỤ NGOÀI BẢO HÀNH)
+Đối với các sản phẩm đã hết hạn bảo hành hoặc thuộc trường hợp từ chối bảo hành nêu trên, X-Electronics cung cấp dịch vụ sửa chữa có tính phí với các ưu đãi:
+
+Bảng giá minh bạch: Giá linh kiện và công sửa chữa được niêm yết công khai tại TTBH.
+
+Bảo hành linh kiện thay thế: Các linh kiện thay thế dịch vụ sẽ được bảo hành 03 tháng tính từ ngày thay.
+
+Hỗ trợ khách hàng cũ: Giảm giá 10% phí nhân công cho các sản phẩm chính hãng X-Electronics.
+
+PHẦN VIII. CÁC ĐIỀU KHOẢN KHÁC
+Chính sách này có hiệu lực trên toàn lãnh thổ Việt Nam.
+
+Trong trường hợp bất khả kháng (dịch bệnh, thiên tai diện rộng) khiến thời gian bảo hành bị kéo dài, X-Electronics sẽ có chính sách gia hạn thời gian bảo hành tương ứng cho khách hàng.
+
+X-Electronics có quyền thay đổi, cập nhật chính sách này vào bất kỳ thời điểm nào mà không cần báo trước. Chính sách mới sẽ được cập nhật trên website chính thức.
+
+CÔNG TY CỔ PHẦN CÔNG NGHỆ & ĐIỆN TỬ X (Đã ký và đóng dấu)
+
+TỔNG GIÁM ĐỐC Nguyễn Văn A

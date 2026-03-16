@@ -1,0 +1,33 @@
+# DANH MỤC SẢN PHẨM CHỦ LỰC X-ELECTRONICS NĂM 2026
+
+## 1. DÒNG ĐIỆN THOẠI (SMARTPHONE)
+
+### Sản phẩm: X-Phone 15 Pro Max (Flagship)
+- Giá niêm yết: 32.990.000 VNĐ
+- Màn hình: 6.9 inch Super AMOLED, tần số quét 144Hz.
+- Vi xử lý: X-Core G5 (3nm) - Mạnh nhất thế giới Android.
+- Camera: Chính 200MP + Zoom quang 10x + Góc rộng 50MP.
+- Pin: 6000 mAh, sạc nhanh 120W (đầy trong 15 phút).
+- Màu sắc: Titan Xám, Xanh Đại Dương, Vàng Sa Mạc.
+- Đối tượng: Người dùng chuyên nghiệp, game thủ, nhiếp ảnh gia.
+
+### Sản phẩm: X-Phone 15 (Bản tiêu chuẩn)
+- Giá niêm yết: 18.990.000 VNĐ
+- Màn hình: 6.1 inch OLED, 90Hz.
+- Vi xử lý: X-Core G4 (4nm).
+- Camera: Chính 64MP + Góc rộng 12MP.
+- Pin: 4500 mAh, sạc nhanh 65W.
+- Đối tượng: Học sinh, sinh viên, nhân viên văn phòng.
+
+## 2. DÒNG MÁY TÍNH (LAPTOP)
+
+### Sản phẩm: X-Book Ultra 14
+- Giá: 25.500.000 VNĐ
+- Đặc điểm: Siêu mỏng nhẹ (0.9kg), vỏ hợp kim Magie.
+- Cấu hình: Chip Core i7 Gen 15, RAM 32GB, SSD 1TB.
+- Pin: Thời lượng sử dụng thực tế 12 tiếng liên tục.
+
+### Sản phẩm: X-Book Gaming G1
+- Giá: 21.000.000 VNĐ
+- Đặc điểm: Tản nhiệt nước, bàn phím LED RGB.
+- Cấu hình: Chip AMD Ryzen 9, Card đồ họa RTX 5060 Ti.

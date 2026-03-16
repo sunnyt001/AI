@@ -1,0 +1,15 @@
+# HƯỚNG DẪN BẢO MẬT THÔNG TIN CÁ NHÂN TRÊN KHÔNG GIAN MẠNG
+
+## 1. QUẢN LÝ MẬT KHẨU AN TOÀN
+- Không sử dụng các mật khẩu dễ đoán như: 123456, ngày sinh, hoặc tên cá nhân.
+- Sử dụng mật khẩu phức tạp: Ít nhất 12 ký tự, bao gồm chữ hoa, chữ thường, số và ký tự đặc biệt (@, #, $...).
+- Kích hoạt xác thực 2 lớp (2FA): Luôn bật 2FA cho Facebook, Gmail, và các tài khoản ngân hàng để tránh bị đánh cắp tài khoản dù lộ mật khẩu.
+
+## 2. NHẬN BIẾT CÁC CUỘC TẤN CÔNG GIẢ MẠO (PHISHING)
+- Không click vào các đường link lạ gửi qua tin nhắn SMS hoặc Email lạ thông báo trúng thưởng.
+- Kiểm tra kỹ địa chỉ Email người gửi: Kẻ gian thường dùng email gần giống (Ví dụ: support@google.com thành support@g00gle.com).
+- Cảnh giác với các yêu cầu chuyển khoản khẩn cấp từ người quen qua mạng xã hội (cần gọi điện xác nhận lại).
+
+## 3. BẢO MỆT THIẾT BỊ CÁ NHÂN
+- Luôn cập nhật hệ điều hành (Windows/macOS/Android/iOS) lên phiên bản mới nhất để vá lỗ hổng bảo mật.
+- Hạn chế sử dụng Wi-Fi công cộng khi thực hiện các giao dịch chuyển tiền ngân hàng.

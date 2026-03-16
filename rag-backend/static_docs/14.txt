@@ -1,0 +1,17 @@
+# KIẾN THỨC CƠ BẢN VỀ THƯƠNG MẠI ĐIỆN TỬ (E-COMMERCE)
+
+## 1. CÁC MÔ HÌNH KINH DOANH PHỔ BIẾN
+- B2C (Business to Consumer): Doanh nghiệp bán cho khách hàng lẻ (Ví dụ: Shopee, Lazada).
+- C2C (Consumer to Consumer): Cá nhân bán cho cá nhân (Ví dụ: Chợ tốt, nhóm thanh lý Facebook).
+- B2B (Business to Business): Doanh nghiệp bán cho doanh nghiệp.
+
+## 2. QUY TRÌNH VẬN HÀNH MỘT GIAN HÀNG ONLINE
+- Lựa chọn nguồn hàng: Đảm bảo chất lượng và giá cạnh tranh.
+- Đăng sản phẩm: Hình ảnh rõ nét, mô tả đầy đủ thông số kỹ thuật, từ khóa chuẩn SEO.
+- Quản lý đơn hàng: Xác nhận đơn nhanh, đóng gói cẩn thận để tránh khiếu nại.
+- Chăm sóc khách hàng: Trả lời tin nhắn nhanh (dùng Chatbot hỗ trợ) để tăng tỷ lệ chuyển đổi.
+
+## 3. XU HƯỚNG LIVESTREAM BÁN HÀNG
+- Tương tác trực tiếp: Giúp khách hàng thấy sản phẩm thật và được giải đáp thắc mắc ngay lập tức.
+- Tạo cảm giác cấp bách: Tung mã giảm giá (Voucher) giới hạn thời gian trong buổi live.
+- Xây dựng thương hiệu cá nhân (KOL/KOC): Khách hàng mua vì tin tưởng người giới thiệu.
